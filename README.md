@@ -41,6 +41,7 @@ But it does tend to present with fever, joint aches and a dry cough. Right, thos
 * [The ECDC's case distribution map](https://www.ecdc.europa.eu/en/geographical-distribution-2019-ncov-cases) probably deserves a mention too
 * [NBONew's page](https://bnonews.com/index.php/2020/02/the-latest-coronavirus-cases/) is likely not the best tracking page, but the more the merrier
 * [1point3acres COVID-19 in US and Canada](https://coronavirus.1point3acres.com/en) is perhaps the best North America-specific tracker
+* [Coronawiki](https://coronawiki.org/), a somewhat up-to-date tracker with usable comparison charts between countries, combined with information on COVID-19 provided by medical doctors
 
 # Epidemiology
 
@@ -63,7 +64,8 @@ But it does tend to present with fever, joint aches and a dry cough. Right, thos
 * [Structural basis for the recognition of the SARS-CoV-2 by full-length human ACE2](https://science.sciencemag.org/content/early/2020/03/03/science.abb2762.full)
 * [Study on extent of environmental contamination](https://jamanetwork.com/journals/jama/fullarticle/2762692) from COVID-19 patients in China
 * [Study about the neuroinvasive potential of SARS-COV-2](https://www.ncbi.nlm.nih.gov/pubmed/32104915) (full text not available) and [passage from it about the effectiveness of masks](https://news.ycombinator.com/item?id=22485453)
-* [American Association for Clinical Chemistry](https://www.aacc.org/global-health-outreach/how-labs-can-prepare-for-coronavirus-and-other-outbreaks) how U.S. labs can prepare.
+* [American Association for Clinical Chemistry](https://www.aacc.org/global-health-outreach/how-labs-can-prepare-for-coronavirus-and-other-outbreaks), how US labs can prepare
+* [The variability of critical bed numbers in Europe](https://link.springer.com/article/10.1007%2Fs00134-012-2627-8), a somewhat detailed, if outdated, source of information on ICU and "acute care" beds (both needed to treat serious COVID-19 patients) over the European Union
 
 # Info
 
