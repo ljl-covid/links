@@ -47,6 +47,7 @@ But it does tend to present with fever, joint aches and a dry cough. Right, thos
 
 # Epidemiology
 
+* [Imperial College's comparison of containment vs mitigation strategies](https://www.imperial.ac.uk/media/imperial-college/medicine/sph/ide/gida-fellowships/Imperial-College-COVID19-NPI-modelling-16-03-2020.pdf) mainly with a view on the UK and US
 * [Nextstrain genomic epidemiology](https://nextstrain.org/ncov) showing genetic variants of the virus by area and other factors (see also [this article about "cryptic" transmission](https://bedford.io/blog/ncov-cryptic-transmission/))
 * [CMMID traveller screening effectiveness simulator](https://cmmid.github.io/visualisations/traveller-screening)
 * [CMMID repository of COVID-19 research](https://cmmid.github.io/topics/covid19/)
