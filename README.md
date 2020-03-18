@@ -1,4 +1,4 @@
-(For history and diffs of this document, see [its GitHub page](https://github.com/ljl-covid/links)
+(For history and diffs of this document, see [its GitHub page](https://github.com/ljl-covid/links))
 
 **First and foremost**: if this is not in your country yet, it *is* coming to your country. Soon. Sooner than you think. Sooner than authorities think. We can even say that out loud in public now, after the WHO finally decided to declare it a pandemic. Please [read this article](https://medium.com/@tomaspueyo/coronavirus-act-today-or-people-will-die-f4d3d9cd99ca) and understand what is happening, and about to happen again.
 
