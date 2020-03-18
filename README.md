@@ -1,3 +1,5 @@
+(For history and diffs of this document, see [its GitHub page](https://github.com/ljl-covid/links)
+
 **First and foremost**: if this is not in your country yet, it *is* coming to your country. Soon. Sooner than you think. Sooner than authorities think. We can even say that out loud in public now, after the WHO finally decided to declare it a pandemic. Please [read this article](https://medium.com/@tomaspueyo/coronavirus-act-today-or-people-will-die-f4d3d9cd99ca) and understand what is happening, and about to happen again.
 
 It's not a joke, and let's get one thing straight: it's definitely **NOT** a flu. [It is not even very bad flu](https://framapic.org/nnKQN9siF9jK/8FWSaX1fbDPY.png):
@@ -75,6 +77,7 @@ But it does tend to present with fever, joint aches and a dry cough. Right, thos
 * [ECDC guidance for cleaning contaminated surfaces](https://www.ecdc.europa.eu/sites/default/files/documents/coronavirus-SARS-CoV-2-guidance-environmental-cleaning-non-healthcare-facilities.pdf)	
 * [ChannelNewsAsia's page](https://www.channelnewsasia.com/news/topics/wuhan-virus) is predictably centered on the impact in Asia
 * [An overview of "who is getting sick" by various factors](https://www.statnews.com/2020/03/03/who-is-getting-sick-and-how-sick-a-breakdown-of-coronavirus-risk-by-demographic-factors/)
+* [New Yorker's take on what's gone wrong with testing in the US](https://www.newyorker.com/news/news-desk/what-went-wrong-with-coronavirus-testing-in-the-us), as the situation evolves from testing by the CDC only to public-health lab testing
 * https://www.straitstimes.com/asia/east-asia/reporters-notebook-life-and-death-in-a-wuhan-coronavirus-icu interview
 
 # Polls
