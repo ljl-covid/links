@@ -70,6 +70,7 @@ But it does tend to present with fever, joint aches and a dry cough. Right, thos
 * [Study about the neuroinvasive potential of SARS-COV-2](https://www.ncbi.nlm.nih.gov/pubmed/32104915) (full text not available) and [passage from it about the effectiveness of masks](https://news.ycombinator.com/item?id=22485453)
 * [American Association for Clinical Chemistry](https://www.aacc.org/global-health-outreach/how-labs-can-prepare-for-coronavirus-and-other-outbreaks), how US labs can prepare
 * [The variability of critical bed numbers in Europe](https://link.springer.com/article/10.1007%2Fs00134-012-2627-8), a somewhat detailed, if outdated, source of information on ICU and "acute care" beds (both needed to treat serious COVID-19 patients) over the European Union
+* [A review of current possible treatments](https://blogs.sciencemag.org/pipeline/archives/2020/03/19/coronavirus-some-clinical-trial-data) discussing clinical trials or lack thereof
 
 # Info
 
