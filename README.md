@@ -24,7 +24,6 @@ But it does tend to present with fever, joint aches and a dry cough. Right, thos
 * [Our World In Data's comprehensive introductions to COVID-19](https://ourworldindata.org/coronavirus) both as the disease and its epidemiology
 * [CDC's "When and How" to use hand sanitizers](https://www.cdc.gov/handwashing/show-me-the-science-hand-sanitizer.html)
 * [WHO instructions for making hand sanitizer](https://www.who.int/gpsc/5may/Guide_to_Local_Production.pdf) (liquid version)
-* [Community Mutual Aid Coronavirus Response Mapping](https://www.arcgis.com/home/webmap/viewer.html?webmap=fa2668225f6c46408ec4016fd6cd5b09&extent=-136.6103,8.3024,35.6553,66.7501) shows help networks around the world for people who are most vulnerable
 * [Folding@Home](https://foldingathome.org/start-folding/) is devoting all resources to COVID-19 project (see [this Reddit post](https://np.reddit.com/r/pcmasterrace/comments/fhb5e4/coronavirus_specific_gpu_projects_are_now/)), and anyone with a computer can contribute
 
 # Trackers
@@ -55,6 +54,8 @@ But it does tend to present with fever, joint aches and a dry cough. Right, thos
 * [An overview of "who is getting sick" by various factors](https://www.statnews.com/2020/03/03/who-is-getting-sick-and-how-sick-a-breakdown-of-coronavirus-risk-by-demographic-factors/)
 * [New Yorker's take on what's gone wrong with testing in the US](https://www.newyorker.com/news/news-desk/what-went-wrong-with-coronavirus-testing-in-the-us), as the situation evolves from testing by the CDC only to public-health lab testing
 * https://www.straitstimes.com/asia/east-asia/reporters-notebook-life-and-death-in-a-wuhan-coronavirus-icu interview
+* [Community Mutual Aid Coronavirus Response Mapping](https://www.arcgis.com/home/webmap/viewer.html?webmap=fa2668225f6c46408ec4016fd6cd5b09&extent=-136.6103,8.3024,35.6553,66.7501) shows help networks around the world (but mostly in the US and UK) for people who are most vulnerable
+* [Covidaire](https://covidaire.fr/map.php), a network and map for mutual aid in France specifically
 
 # Epidemiology
 
