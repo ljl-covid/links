@@ -111,7 +111,6 @@ But it does tend to present with fever, joint aches and a dry cough. Right, thos
 * [Il Solve 24 ore's Italy-specific tracker](https://lab24.ilsole24ore.com/coronavirus/) with cases by region and province as well as hospitalization/ICU rates
 * [Protezione Civile's JHU-like tracker](https://opendatadpc.maps.arcgis.com/apps/opsdashboard/index.html#/b0c68bce2cce478eaac82fe38d4138b1)
 * [Detailed daily data by the Ministry of Health](http://www.salute.gov.it/portale/nuovocoronavirus/dettaglioContenutiNuovoCoronavirus.jsp?lingua=italiano&id=5351&area=nuovoCoronavirus&menu=vuoto)
-
 * [La Repubblica's live updates](https://www.repubblica.it/cronaca/2020/02/22/news/coronavirus_in_italia_aggiornamento_ora_per_ora-249241616/) are reasonably up to date
 * [Map of the areas currently under lockdown](https://i.imgur.com/SpxMyVz.png)
 * [PM Conte's press conference about the lockdown](http://www.governo.it/it/media/dichiarazioni-alla-stampa-del-presidente-conte/14265)
@@ -123,5 +122,6 @@ But it does tend to present with fever, joint aches and a dry cough. Right, thos
 * [ISS press release concerning fatality by age groups 2](https://www.iss.it/en/comunicati-stampa/-/asset_publisher/fjTKmjJgSgdK/content/id/5288119)
 * [ISS press release concerning ages of patients](https://www.iss.it/en/comunicati-stampa/-/asset_publisher/fjTKmjJgSgdK/content/id/5286166)
 * [SIAARTI recommendations for treatment choice in case of lacks of beds](http://www.siaarti.it/SiteAssets/News/COVID19%20-%20documenti%20SIAARTI/SIAARTI%20-%20Covid19%20-%20Raccomandazioni%20di%20etica%20clinica.pdf) suggesting to exclude older age groups from treatment
+* [Paper estimating real infected population in Italy](https://www.medrxiv.org/content/10.1101/2020.03.14.20036103v1)
 * [Ministry of Interior self-certification form for movement within the quarantine area](https://static.gedidigital.it/repubblica/pdf/2020/cronaca/moduloautodichiarazione.pdf) which needs to be filled in whenever leaving one's residence with information on where you're going and why
 * [Free online services for the quarantined areas](https://solidarietadigitale.agid.gov.it/#/)
