@@ -59,6 +59,7 @@ So if you have some symptoms, unfortunately, it needs to be clear that you *cann
 * [Sina](https://news.sina.cn/zt_d/yiqing0121), also in Chinese
 * [The ECDC's case distribution map](https://www.ecdc.europa.eu/en/geographical-distribution-2019-ncov-cases) probably deserves a mention too
 * [Il Solve 24 ore's Italy-specific tracker](https://lab24.ilsole24ore.com/coronavirus/) with cases by region and province as well as hospitalization/ICU rates
+* [Robert Koch-Institut's COVID-19-Dashboard](https://experience.arcgis.com/experience/478220a4c454480e823b17327b2bf1d4) for Germany
 * [Virginia's Department of Health tracker](http://www.vdh.virginia.gov/coronavirus/) for the US state of Virginia
 
 # Info
