@@ -48,13 +48,18 @@ So if you have some symptoms, unfortunately, it needs to be clear that you *cann
 * [nCoV Tracker](https://vac-lshtm.shinyapps.io/ncov_tracker/) has a map with an (animated) timeline
 * [SCMP published](https://multimedia.scmp.com/infographics/news/china/article/3047038/wuhan-virus/index.html) a semi-regularly updated article with many infographics
 * [The John Hopkin's University map](https://gisanddata.maps.arcgis.com/apps/opsdashboard/index.html#/bda7594740fd40299423467b48e9ecf6) is probably the best-known COVID-19 tracker worldwide. See [their introduction](https://systems.jhu.edu/research/public-health/ncov/)
-* [DXY](https://ncov.dxy.cn/ncovh5/view/pneumonia) is the most used site by Chinese medical researchers, and has many graphs and maps in Chinese
-* [Sina](https://news.sina.cn/zt_d/yiqing0121), also in Chinese
 * [Worldometers Coronavirus](https://www.worldometers.info/coronavirus/)
-* [The ECDC's case distribution map](https://www.ecdc.europa.eu/en/geographical-distribution-2019-ncov-cases) probably deserves a mention too
 * [NBONew's page](https://bnonews.com/index.php/2020/02/the-latest-coronavirus-cases/) is likely not the best tracking page, but the more the merrier
 * [1point3acres COVID-19 in US and Canada](https://coronavirus.1point3acres.com/en) is perhaps the best North America-specific tracker
 * [Coronawiki](https://coronawiki.org/), a somewhat up-to-date tracker with usable comparison charts between countries, combined with information on COVID-19 provided by medical doctors
+
+## Local trackers
+
+* [DXY](https://ncov.dxy.cn/ncovh5/view/pneumonia) is the most used site by Chinese medical researchers, and has many graphs and maps in Chinese
+* [Sina](https://news.sina.cn/zt_d/yiqing0121), also in Chinese
+* [The ECDC's case distribution map](https://www.ecdc.europa.eu/en/geographical-distribution-2019-ncov-cases) probably deserves a mention too
+* [Il Solve 24 ore's Italy-specific tracker](https://lab24.ilsole24ore.com/coronavirus/) with cases by region and province as well as hospitalization/ICU rates
+* [Virginia's Department of Health tracker](http://www.vdh.virginia.gov/coronavirus/) for the US state of Virginia
 
 # Info
 
@@ -123,7 +128,6 @@ So if you have some symptoms, unfortunately, it needs to be clear that you *cann
 # Italy
 
 * [Vital links from Reddit](https://www.reddit.com/r/italy/comments/f87rbo/megathread_4_coronavirus/)
-* [Il Solve 24 ore's Italy-specific tracker](https://lab24.ilsole24ore.com/coronavirus/) with cases by region and province as well as hospitalization/ICU rates
 * [Protezione Civile's JHU-like tracker](https://opendatadpc.maps.arcgis.com/apps/opsdashboard/index.html#/b0c68bce2cce478eaac82fe38d4138b1)
 * [Detailed daily data by the Ministry of Health](http://www.salute.gov.it/portale/nuovocoronavirus/dettaglioContenutiNuovoCoronavirus.jsp?lingua=italiano&id=5351&area=nuovoCoronavirus&menu=vuoto)
 * [La Repubblica's live updates](https://www.repubblica.it/cronaca/2020/02/22/news/coronavirus_in_italia_aggiornamento_ora_per_ora-249241616/) are reasonably up to date
