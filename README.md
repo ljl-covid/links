@@ -16,6 +16,18 @@ It's not a joke, and let's get one thing straight: it's definitely **NOT** a flu
 
 But it does tend to present with fever, joint aches and a dry cough. Right, those are similar symptoms to flu. They are also symptoms of a myriad other diseases too, so there is no reason in particular to compare it with flu. Bottom line: it has nothing to do with the flu except for having some similar symptoms just like most other viral diseases.
 
+# Do I have it?
+
+Short answer: we don't know.
+
+A very important thing about this disease is having tests, because this disease cannot be [diagnosed clinically](https://en.wiktionary.org/wiki/clinical_diagnosis), meaning that even a doctor won't be able to tell you whether or not you have it just based on looking at you and checking out your symptoms.
+
+This is because COVID-19 can be considered a [flu-like illness](https://en.wikipedia.org/wiki/Influenza-like_illness): this doesn't mean it has actually anything to do with flu (see the [relevant section]()!), but merely that it causes symptoms that are extremely generic and common to many illnesses, such as fever and cough.
+
+So if you have some symptoms, unfortunately, it needs to be clear that you *cannot* determine wether or not it's COVID-19 on your own, or even with others' help, or even with a doctor's help, without a test. On the other hand, there are signs and symptoms that indicate you should probably *call* a doctor (don't go to one, call them first!) on the suspicion you may have COVID-19, or simply because they are concerning enough.
+
+
+
 # Basics
 
 * [Flatten the curve](https://www.flattenthecurve.com/): what you can and should do even before your government mandates it
