@@ -1,5 +1,3 @@
-(For history and diffs of this document, see [its GitHub page](https://github.com/ljl-covid/links))
-
 **First and foremost**: if this is not in your country yet, it *is* coming to your country. Soon. Sooner than you think. Sooner than authorities think. We can even say that out loud in public now, after the WHO finally decided to declare it a pandemic. Please [read this article](https://medium.com/@tomaspueyo/coronavirus-act-today-or-people-will-die-f4d3d9cd99ca) and understand what is happening, and about to happen again.
 
 It's not a joke, and let's get one thing straight: it's definitely **NOT** a flu. [It is not even very bad flu](https://framapic.org/nnKQN9siF9jK/8FWSaX1fbDPY.png):
@@ -148,3 +146,6 @@ You can read and follow [this self-triage tool](https://www.statnews.com/2020/03
 * [Paper estimating real infected population in Italy](https://www.medrxiv.org/content/10.1101/2020.03.14.20036103v1)
 * [Ministry of Interior self-certification form for movement within the quarantine area](https://static.gedidigital.it/repubblica/pdf/2020/cronaca/moduloautodichiarazione.pdf) which needs to be filled in whenever leaving one's residence with information on where you're going and why
 * [Free online services for the quarantined areas](https://solidarietadigitale.agid.gov.it/#/)
+
+
+(For history and diffs of this document, see [its GitHub page](https://github.com/ljl-covid/links))
