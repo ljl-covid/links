@@ -26,7 +26,7 @@ This is because COVID-19 can be considered a [flu-like illness](https://en.wikip
 
 So if you have some symptoms, unfortunately, it needs to be clear that you *cannot* determine wether or not it's COVID-19 on your own, or even with others' help, or even with a doctor's help, without a test. On the other hand, there are signs and symptoms that indicate you should probably *call* a doctor (don't go to one, call them first!) on the suspicion you may have COVID-19, or simply because they are concerning enough.
 
-
+You can read and follow [this self-triage tool](https://www.statnews.com/2020/03/20/self-triage-tool-covid-19/) to determine whether your symptoms warrant consulting medical services.
 
 # Basics
 
