@@ -53,6 +53,7 @@ So if you have some symptoms, unfortunately, it needs to be clear that you *cann
 * [NBONew's page](https://bnonews.com/index.php/2020/02/the-latest-coronavirus-cases/) is likely not the best tracking page, but the more the merrier
 * [1point3acres COVID-19 in US and Canada](https://coronavirus.1point3acres.com/en) is perhaps the best North America-specific tracker
 * [Coronawiki](https://coronawiki.org/), a somewhat up-to-date tracker with usable comparison charts between countries, combined with information on COVID-19 provided by medical doctors
+* [COVID19INFO](https://covid19info.live/), a tracker with a black background, comparison with other diseases, and a news section
 
 ## Local trackers
 
