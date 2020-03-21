@@ -147,5 +147,5 @@ You can read and follow [this self-triage tool](https://www.statnews.com/2020/03
 * [Ministry of Interior self-certification form for movement within the quarantine area](https://static.gedidigital.it/repubblica/pdf/2020/cronaca/moduloautodichiarazione.pdf) which needs to be filled in whenever leaving one's residence with information on where you're going and why
 * [Free online services for the quarantined areas](https://solidarietadigitale.agid.gov.it/#/)
 
-
+ 
 (For history and diffs of this document, see [its GitHub page](https://github.com/ljl-covid/links))
