@@ -95,6 +95,7 @@ You can read and follow [this self-triage tool](https://www.statnews.com/2020/03
 * [Evolutionary history of SARS-COV-2](https://www.nature.com/articles/s41586-020-2012-7), a paper published on Nature
 * [Origin and evolution of SARS-CoV-2](https://academic.oup.com/nsr/advance-article/doi/10.1093/nsr/nwaa036/5775463) highlighting presence of two clades with distinct behaviors
 * [Rebuttal to the "two strains" (S and L) claim](http://virological.org/t/response-to-on-the-origin-and-continuing-evolution-of-sars-cov-2/418)
+* [Preliminary evidence of association with temperature](https://www.medrxiv.org/content/10.1101/2020.03.18.20036731v1), where a correlation with lower temperatures is found but not conclusively and not very significantly
 * [Paper on demographics and intergenerational contact in Italy and South Korea](https://www.medrxiv.org/content/10.1101/2020.03.15.20036293v1.full.pdf) and their influence on COVID-19 epidemics
 
 # Science
