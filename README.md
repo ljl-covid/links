@@ -54,14 +54,21 @@ You can read and follow [this self-triage tool](https://www.statnews.com/2020/03
 * [COVID19INFO](https://covid19info.live/), a tracker with a black background, comparison with other diseases, and a news section
 * [Google's simple tracker](https://google.org/crisisresponse/covid19-map) with data sourced from Wikipedia
 
-## Local trackers
+## Asia
 
 * [DXY](https://ncov.dxy.cn/ncovh5/view/pneumonia) is the most used site by Chinese medical researchers, and has many graphs and maps in Chinese
 * [Sina](https://news.sina.cn/zt_d/yiqing0121), also in Chinese
+
+## Europe
+
 * [The ECDC's case distribution map](https://www.ecdc.europa.eu/en/geographical-distribution-2019-ncov-cases) probably deserves a mention too
 * [Il Solve 24 ore's Italy-specific tracker](https://lab24.ilsole24ore.com/coronavirus/) with cases by region and province as well as hospitalization/ICU rates
+* [Public Health England's Total UK COVID-19 Cases Update](https://www.arcgis.com/apps/opsdashboard/index.html#/f94c3c90da5b4e9f9a0b19484dd4bb14) for the United Kingdom
 * [Robert Koch-Institut's COVID-19-Dashboard](https://experience.arcgis.com/experience/478220a4c454480e823b17327b2bf1d4) for Germany
 * [DGS's COVID-19 em Portugal](https://covid19.min-saude.pt/ponto-de-situacao-atual-em-portugal/) map for Portugal
+
+## North America
+
 * [Virginia's Department of Health tracker](http://www.vdh.virginia.gov/coronavirus/) for the US state of Virginia
 * [COVID-19 Canadian Outbreak Tracker](https://resources-covid19canada.hub.arcgis.com/app/eb0ec6ffdb654e71ab3c758726c55b68) based on the data from [ViriHealth](https://virihealth.com/)
 
