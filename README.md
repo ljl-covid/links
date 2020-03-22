@@ -61,7 +61,9 @@ You can read and follow [this self-triage tool](https://www.statnews.com/2020/03
 * [The ECDC's case distribution map](https://www.ecdc.europa.eu/en/geographical-distribution-2019-ncov-cases) probably deserves a mention too
 * [Il Solve 24 ore's Italy-specific tracker](https://lab24.ilsole24ore.com/coronavirus/) with cases by region and province as well as hospitalization/ICU rates
 * [Robert Koch-Institut's COVID-19-Dashboard](https://experience.arcgis.com/experience/478220a4c454480e823b17327b2bf1d4) for Germany
+* [DGS's COVID-19 em Portugal](https://covid19.min-saude.pt/ponto-de-situacao-atual-em-portugal/) map for Portugal
 * [Virginia's Department of Health tracker](http://www.vdh.virginia.gov/coronavirus/) for the US state of Virginia
+* [COVID-19 Canadian Outbreak Tracker](https://resources-covid19canada.hub.arcgis.com/app/eb0ec6ffdb654e71ab3c758726c55b68) based on the data from [ViriHealth](https://virihealth.com/)
 
 # Info
 
