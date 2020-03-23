@@ -46,7 +46,7 @@ You can read and follow [this self-triage tool](https://www.statnews.com/2020/03
 * [Flatten The Curve](https://flattenthecurve.co.nz/), with graphs that compare the epidemic progression in different countries
 * [nCoV Tracker](https://vac-lshtm.shinyapps.io/ncov_tracker/) has a map with an (animated) timeline
 * [Global Kaggle Data's dashboard](https://covid19-dash.herokuapp.com/), another animated dashboard
-* [Healthmap](https://healthmap.org/covid-19/, a third animated dashboard
+* [Healthmap](https://healthmap.org/covid-19/), a third animated dashboard
 * [SCMP published](https://multimedia.scmp.com/infographics/news/china/article/3047038/wuhan-virus/index.html) a semi-regularly updated article with many infographics
 * [The John Hopkin's University map](https://gisanddata.maps.arcgis.com/apps/opsdashboard/index.html#/bda7594740fd40299423467b48e9ecf6) is probably the best-known COVID-19 tracker worldwide. See [their introduction](https://systems.jhu.edu/research/public-health/ncov/)
 * [Worldometers Coronavirus](https://www.worldometers.info/coronavirus/)
