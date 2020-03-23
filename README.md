@@ -77,6 +77,7 @@ You can read and follow [this self-triage tool](https://www.statnews.com/2020/03
 
 # Info
 
+* [Google's COVID-19 information page](https://www.google.com/covid19/)
 * [CDC's situation summary](https://www.cdc.gov/coronavirus/2019-ncov/index.html)
 * [WHO's general information page](https://www.who.int/emergencies/diseases/novel-coronavirus-2019)
 * [ECDC's general information page](https://www.ecdc.europa.eu/en/novel-coronavirus-china)
