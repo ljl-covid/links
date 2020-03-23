@@ -87,18 +87,6 @@ You can read and follow [this self-triage tool](https://www.statnews.com/2020/03
 * [Community Mutual Aid Coronavirus Response Mapping](https://www.arcgis.com/home/webmap/viewer.html?webmap=fa2668225f6c46408ec4016fd6cd5b09&extent=-136.6103,8.3024,35.6553,66.7501) shows help networks around the world (but mostly in the US and UK) for people who are most vulnerable
 * [Covidaire](https://covidaire.fr/map.php), a network and map for mutual aid in France specifically
 
-# Epidemiology
-
-* [Imperial College's comparison of containment vs mitigation strategies](https://www.imperial.ac.uk/media/imperial-college/medicine/sph/ide/gida-fellowships/Imperial-College-COVID19-NPI-modelling-16-03-2020.pdf) mainly with a view on the UK and US
-* [CMMID traveller screening effectiveness simulator](https://cmmid.github.io/visualisations/traveller-screening)
-* [CMMID repository of COVID-19 research](https://cmmid.github.io/topics/covid19/)
-* [Curated updates from the International Society for Infectious Diseases](https://promedmail.org/coronavirus/)
-* [Evolutionary history of SARS-COV-2](https://www.nature.com/articles/s41586-020-2012-7), a paper published on Nature
-* [Origin and evolution of SARS-CoV-2](https://academic.oup.com/nsr/advance-article/doi/10.1093/nsr/nwaa036/5775463) highlighting presence of two clades with distinct behaviors
-* [Rebuttal to the "two strains" (S and L) claim](http://virological.org/t/response-to-on-the-origin-and-continuing-evolution-of-sars-cov-2/418)
-* [Preliminary evidence of association with temperature](https://www.medrxiv.org/content/10.1101/2020.03.18.20036731v1), where a correlation with lower temperatures is found but not conclusively and not very significantly
-* [Paper on demographics and intergenerational contact in Italy and South Korea](https://www.medrxiv.org/content/10.1101/2020.03.15.20036293v1.full.pdf) and their influence on COVID-19 epidemics
-
 # Science
 
 * [ZB MED COVID-19 Hub](https://covid-19.zbmed.de/main/) collects a variety of scientific information and tools for SARS-CoV-2
@@ -115,6 +103,18 @@ You can read and follow [this self-triage tool](https://www.statnews.com/2020/03
 * [American Association for Clinical Chemistry](https://www.aacc.org/global-health-outreach/how-labs-can-prepare-for-coronavirus-and-other-outbreaks), how US labs can prepare
 * [The variability of critical bed numbers in Europe](https://link.springer.com/article/10.1007%2Fs00134-012-2627-8), a somewhat detailed, if outdated, source of information on ICU and "acute care" beds (both needed to treat serious COVID-19 patients) over the European Union
 * [A review of current possible treatments](https://blogs.sciencemag.org/pipeline/archives/2020/03/19/coronavirus-some-clinical-trial-data) discussing clinical trials or lack thereof
+
+## Epidemiology
+
+* [Imperial College's comparison of containment vs mitigation strategies](https://www.imperial.ac.uk/media/imperial-college/medicine/sph/ide/gida-fellowships/Imperial-College-COVID19-NPI-modelling-16-03-2020.pdf) mainly with a view on the UK and US
+* [CMMID traveller screening effectiveness simulator](https://cmmid.github.io/visualisations/traveller-screening)
+* [CMMID repository of COVID-19 research](https://cmmid.github.io/topics/covid19/)
+* [Curated updates from the International Society for Infectious Diseases](https://promedmail.org/coronavirus/)
+* [Evolutionary history of SARS-COV-2](https://www.nature.com/articles/s41586-020-2012-7), a paper published on Nature
+* [Origin and evolution of SARS-CoV-2](https://academic.oup.com/nsr/advance-article/doi/10.1093/nsr/nwaa036/5775463) highlighting presence of two clades with distinct behaviors
+* [Rebuttal to the "two strains" (S and L) claim](http://virological.org/t/response-to-on-the-origin-and-continuing-evolution-of-sars-cov-2/418)
+* [Preliminary evidence of association with temperature](https://www.medrxiv.org/content/10.1101/2020.03.18.20036731v1), where a correlation with lower temperatures is found but not conclusively and not very significantly
+* [Paper on demographics and intergenerational contact in Italy and South Korea](https://www.medrxiv.org/content/10.1101/2020.03.15.20036293v1.full.pdf) and their influence on COVID-19 epidemics
 
 # Polls
 
