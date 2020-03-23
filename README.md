@@ -43,6 +43,7 @@ You can read and follow [this self-triage tool](https://www.statnews.com/2020/03
 * [Coronatracker](https://www.coronatracker.com/analytics): see [this description](https://thelead.io/stories/tracking-the-wuhan-coronavirus-2019-ncov-with-data-analytics)
 * [Coronainfo](https://coronainfo.xyz/) has comparison charts with other diseases
 * [Offloop.net's COVID19](https://offloop.net/covid19/) has comparison charts for countries (take note of all the buttons)
+* [Google's simple tracker](https://google.org/crisisresponse/covid19-map) with data sourced from Wikipedia
 * [Flatten The Curve](https://flattenthecurve.co.nz/), with graphs that compare the epidemic progression in different countries
 * [nCoV Tracker](https://vac-lshtm.shinyapps.io/ncov_tracker/) has a map with an (animated) timeline
 * [Global Kaggle Data's dashboard](https://covid19-dash.herokuapp.com/), another animated dashboard
