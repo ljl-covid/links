@@ -90,7 +90,6 @@ You can read and follow [this self-triage tool](https://www.statnews.com/2020/03
 # Epidemiology
 
 * [Imperial College's comparison of containment vs mitigation strategies](https://www.imperial.ac.uk/media/imperial-college/medicine/sph/ide/gida-fellowships/Imperial-College-COVID19-NPI-modelling-16-03-2020.pdf) mainly with a view on the UK and US
-* [Nextstrain genomic epidemiology](https://nextstrain.org/ncov) showing genetic variants of the virus by area and other factors (see also [this article about "cryptic" transmission](https://bedford.io/blog/ncov-cryptic-transmission/))
 * [CMMID traveller screening effectiveness simulator](https://cmmid.github.io/visualisations/traveller-screening)
 * [CMMID repository of COVID-19 research](https://cmmid.github.io/topics/covid19/)
 * [Curated updates from the International Society for Infectious Diseases](https://promedmail.org/coronavirus/)
@@ -102,6 +101,8 @@ You can read and follow [this self-triage tool](https://www.statnews.com/2020/03
 
 # Science
 
+* [ZB MED COVID-19 Hub](https://covid-19.zbmed.de/main/) collects a variety of scientific information and tools for SARS-CoV-2
+* [Nextstrain genomic epidemiology](https://nextstrain.org/ncov) showing genetic variants of the virus by area and other factors (see also [this article about "cryptic" transmission](https://bedford.io/blog/ncov-cryptic-transmission/))
 * [Report from the WHO-China joint mission](https://www.who.int/docs/default-source/coronaviruse/who-china-joint-mission-on-covid-19-final-report.pdf)
 * [Eurosurveillance early incubation period study](https://www.eurosurveillance.org/content/10.2807/1560-7917.ES.2020.25.5.2000062)
 * [Lancet early spread study](https://www.thelancet.com/journals/lancet/article/PIIS0140-6736(20)30260-9/fulltext) using Tencent data
