@@ -69,6 +69,7 @@ You can read and follow [this self-triage tool](https://www.statnews.com/2020/03
 * [Public Health England's Total UK COVID-19 Cases Update](https://www.arcgis.com/apps/opsdashboard/index.html#/f94c3c90da5b4e9f9a0b19484dd4bb14) for the United Kingdom
 * [Robert Koch-Institut's COVID-19-Dashboard](https://experience.arcgis.com/experience/478220a4c454480e823b17327b2bf1d4) for Germany
 * [DGS's COVID-19 em Portugal](https://covid19.min-saude.pt/ponto-de-situacao-atual-em-portugal/) map for Portugal
+* [Lombardy Region map and data](https://lispa.maps.arcgis.com/apps/opsdashboard/index.html#/637ec3dc28ec4ea591cc5c724f127701) from Italy's hardest-hit region
 
 ## North America
 
