@@ -76,6 +76,7 @@ You can read and follow [this self-triage tool](https://www.statnews.com/2020/03
 * [The COVID Tracking Project](https://covidtracking.com/data/), with the most detailed US data available, including negative tests
 * [1Point3Acres COVID-19 in US and Canada](https://coronavirus.1point3acres.com/en) with a map by state/province, and then detailed subsections with counties or other divisions and specific case reports
 * [Virginia's Department of Health tracker](http://www.vdh.virginia.gov/coronavirus/) for the US state of Virginia
+* [COVID-19 Canada](https://resources-covid19canada.hub.arcgis.com/), with a tracker as well as plenty of useful links both specific to Canada and global
 * [COVID-19 Canadian Outbreak Tracker](https://resources-covid19canada.hub.arcgis.com/app/eb0ec6ffdb654e71ab3c758726c55b68) based on the data from [ViriHealth](https://virihealth.com/)
 
 # Info
