@@ -53,7 +53,6 @@ You can read and follow [this self-triage tool](https://www.statnews.com/2020/03
 * [Worldometers Coronavirus](https://www.worldometers.info/coronavirus/)
 * [Covid Trends](https://aatishb.com/covidtrends/) is an animated chart with total cases on an axis and new cases on the other, for an unusual type of trajectory comparison
 * [NBONew's page](https://bnonews.com/index.php/2020/02/the-latest-coronavirus-cases/) is likely not the best tracking page, but the more the merrier
-* [1point3acres COVID-19 in US and Canada](https://coronavirus.1point3acres.com/en) is perhaps the best North America-specific tracker
 * [Coronawiki](https://coronawiki.org/), a somewhat up-to-date tracker with usable comparison charts between countries, combined with information on COVID-19 provided by medical doctors
 * [Bing's COVID-19 Tracker](https://bing.com/covid) from Microsoft
 * [COVID19INFO](https://covid19info.live/), a tracker with a black background, comparison with other diseases, and a news section
