@@ -51,6 +51,7 @@ You can read and follow [this self-triage tool](https://www.statnews.com/2020/03
 * [SCMP published](https://multimedia.scmp.com/infographics/news/china/article/3047038/wuhan-virus/index.html) a semi-regularly updated article with many infographics
 * [The John Hopkin's University map](https://gisanddata.maps.arcgis.com/apps/opsdashboard/index.html#/bda7594740fd40299423467b48e9ecf6) is probably the best-known COVID-19 tracker worldwide. See [their introduction](https://systems.jhu.edu/research/public-health/ncov/)
 * [Worldometers Coronavirus](https://www.worldometers.info/coronavirus/)
+* [Covid Trends](https://aatishb.com/covidtrends/) is an animated chart with total cases on an axis and new cases on the other, for an unusual type of trajectory comparison
 * [NBONew's page](https://bnonews.com/index.php/2020/02/the-latest-coronavirus-cases/) is likely not the best tracking page, but the more the merrier
 * [1point3acres COVID-19 in US and Canada](https://coronavirus.1point3acres.com/en) is perhaps the best North America-specific tracker
 * [Coronawiki](https://coronawiki.org/), a somewhat up-to-date tracker with usable comparison charts between countries, combined with information on COVID-19 provided by medical doctors
