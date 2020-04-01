@@ -28,6 +28,7 @@ You can read and follow [this self-triage tool](https://www.statnews.com/2020/03
 
 # Basics
 
+* [Covidly](https://covidly.com/), likely the most comprehensive tracker including many subnational units, graphs and derived data
 * [Flatten the curve](https://www.flattenthecurve.com/): what you can and should do even before your government mandates it
 * [WHO's COVID-19 technical guidance](https://www.who.int/emergencies/diseases/novel-coronavirus-2019/technical-guidance)
 * [ArsTechnica's "comprehensive guide"](https://arstechnica.com/science/2020/03/dont-panic-the-comprehensive-ars-technica-guide-to-the-coronavirus/#h1) to COVID-19
