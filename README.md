@@ -133,6 +133,7 @@ You can read and follow [this self-triage tool](https://www.statnews.com/2020/03
 * [Rebuttal to the "two strains" (S and L) claim](http://virological.org/t/response-to-on-the-origin-and-continuing-evolution-of-sars-cov-2/418)
 * [Preliminary evidence of association with temperature](https://www.medrxiv.org/content/10.1101/2020.03.18.20036731v1), where a correlation with lower temperatures is found but not conclusively and not very significantly
 * [Paper on demographics and intergenerational contact in Italy and South Korea](https://www.medrxiv.org/content/10.1101/2020.03.15.20036293v1.full.pdf) and their influence on COVID-19 epidemics
+* [Fighting COVID-19: the heterogeneous transmission thesis](http://www.math.cmu.edu/~wes/covid.html), arguing that vulnerable people should be isolated while younger people at low risk and fit to work should be allowed work and socialization to limit total deaths
 
 # Polls
 
