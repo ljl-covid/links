@@ -135,6 +135,11 @@ You can read and follow [this self-triage tool](https://www.statnews.com/2020/03
 * [Paper on demographics and intergenerational contact in Italy and South Korea](https://www.medrxiv.org/content/10.1101/2020.03.15.20036293v1.full.pdf) and their influence on COVID-19 epidemics
 * [Fighting COVID-19: the heterogeneous transmission thesis](http://www.math.cmu.edu/~wes/covid.html), arguing that vulnerable people should be isolated while younger people at low risk and fit to work should be allowed work and socialization to limit total deaths
 
+## Models
+
+* [IHME COVID-19 Projections](https://covid19.healthdata.org/projections)
+* [Ontario's COVID-19 Technical Briefing](http://s3.documentcloud.org/documents/6824779/COVID-19-Technical-Briefing-Friday-April-4-2020.pdf)
+
 ## Masks
 
 There is mixed advice on the use of masks by the general public, and the advice from political authorities appears to be changing in various parts of the world dependingon the availability of masks and the state of the pandemic. Here are some scientific articles or papers trying to determine the usefulness of masks, and behaviors such as re-use of masks.
