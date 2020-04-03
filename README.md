@@ -67,7 +67,7 @@ You can read and follow [this self-triage tool](https://www.statnews.com/2020/03
 
 * [The ECDC's case distribution map](https://www.ecdc.europa.eu/en/geographical-distribution-2019-ncov-cases) probably deserves a mention
 * [COVID-19 outbreak in Italy](https://www.arcgis.com/apps/opsdashboard/index.html#/4f74fc222b7041cd9cc3c52e62af1b8c) with a map and data for Italy by provinces
-* [Il Solve 24 ore's Italy-specific tracker](https://lab24.ilsole24ore.com/coronavirus/en) with cases by region and province as well as hospitalization/ICU rates and other detailed graphs
+* [Il Sole 24 Ore's Italy-specific tracker](https://lab24.ilsole24ore.com/coronavirus/en) with cases by region and province as well as hospitalization/ICU rates and other detailed graphs
 * [Covid-19 Situación en España](https://www.arcgis.com/apps/opsdashboard/index.html#/92d60c15bb004fd2b9a78a9c60a58d05), a map of contagion in Spain by autonomous regions
 * [Public Health England's Total UK COVID-19 Cases Update](https://www.arcgis.com/apps/opsdashboard/index.html#/f94c3c90da5b4e9f9a0b19484dd4bb14) for the United Kingdom
 * [Robert Koch-Institut's COVID-19-Dashboard](https://corona.rki.de) for Germany
