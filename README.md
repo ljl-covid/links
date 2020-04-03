@@ -141,6 +141,7 @@ There is mixed advice on the use of masks by the general public, and the advice 
 
 * [Rational use of face masks in the COVID-19 pandemic](https://www.thelancet.com/journals/lanres/article/PIIS2213-2600(20)30134-X/fulltext), a review of mask-related advice from authorities published on The Lancet
 * [BBC: Coronavirus Expert panel to assess face mask use by public](https://www.bbc.com/news/science-environment-52126735) covers the WHO "reopening discussion" on the matter, and scientific literature on the aerosolization of cough and sneezes
+* [N95DECON](https://www.n95decon.org/), a scientific consortium for data-driven study of N95 filtering facepiece respirator decontamination
 * [Turbulent Gas Clouds and Respiratory Pathogen Emissions: Potential Implications for Reducing Transmission of COVID-19](https://jamanetwork.com/journals/jama/fullarticle/2763852), a paper published on JAMA on aerosolization and characteristics of respiratory emissions like coughs and sneezes
 * [BBC: US 'considers cloth face masks for public'](https://www.bbc.com/news/world-us-canada-52126183), discussing an internal memo from the CDC where widespread use of many types of masks may be suggested
 * [Professional and Home-Made Face Masks Reduce Exposure to Respiratory Infections among the General Population](https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0002618), a study on the effectiveness of various types of masks on protecting from respiratory infections
