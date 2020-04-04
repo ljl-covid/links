@@ -99,6 +99,7 @@ You can read and follow [this self-triage tool](https://www.statnews.com/2020/03
 * https://www.straitstimes.com/asia/east-asia/reporters-notebook-life-and-death-in-a-wuhan-coronavirus-icu interview
 * [Community Mutual Aid Coronavirus Response Mapping](https://www.arcgis.com/home/webmap/viewer.html?webmap=fa2668225f6c46408ec4016fd6cd5b09&extent=-136.6103,8.3024,35.6553,66.7501) shows help networks around the world (but mostly in the US and UK) for people who are most vulnerable
 * [Covidaire](https://covidaire.fr/map.php), a network and map for mutual aid in France specifically
+* [Google COVID-19 Community Mobility Reports](https://www.google.com/covid19/mobility/), a set pf PDF documents showing changes in frequentation of various types of places as recorded by Android smartphones during the epidemic
 
 # Science
 
