@@ -181,6 +181,7 @@ There is mixed advice on the use of masks by the general public, and the advice 
 * https://www.theguardian.com/world/2020/feb/10/coronavirus-who-warns-spread-by-people-who-had-not-visited-china-could-be-tip-of-the-iceberg   creepy
 * https://www.lbc.co.uk/news/coronavirus-residents-welded-inside-their-own-home/   creepier
 * [American President Trump suspends travel from the EU](https://www.c-span.org/video/?470284-1/president-trump-travel-europe-us-suspended-30-days-uk)
+* [WHO reverses course on use of face masks by the general public and home-made masks](https://www.scmp.com/news/china/article/3078407/coronavirus-world-health-organisation-reverses-course-now-supports), an article by the SCMP which details changing attitudes towards face masks by the WHO and various governments
 
 # Italy
 
