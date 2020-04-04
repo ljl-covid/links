@@ -105,6 +105,7 @@ You can read and follow [this self-triage tool](https://www.statnews.com/2020/03
 
 * [ZB MED COVID-19 Hub](https://covid-19.zbmed.de/main/) collects a variety of scientific information and tools for SARS-CoV-2
 * [Nextstrain genomic epidemiology](https://nextstrain.org/ncov) showing genetic variants of the virus by area and other factors (see also [this article about "cryptic" transmission](https://bedford.io/blog/ncov-cryptic-transmission/))
+* [neherlab@biozentrum COVID-19 Scenarios](https://neherlab.org/covid19/), a customizable parametric modeller of COVID-19 outbreaks in various conditions with accounting for hospital and ICU bed availability
 * [Report from the WHO-China joint mission](https://www.who.int/docs/default-source/coronaviruse/who-china-joint-mission-on-covid-19-final-report.pdf)
 * [Harvard CCDD's work on COVID-19](https://ccdd.hsph.harvard.edu/covid-19/)
 * [Eurosurveillance early incubation period study](https://www.eurosurveillance.org/content/10.2807/1560-7917.ES.2020.25.5.2000062)
