@@ -158,6 +158,12 @@ There is mixed advice on the use of masks by the general public, and the advice 
 * [Papers about effectiveness of basic masks #masks4all](https://docs.google.com/document/d/1HLrm0pqBN_5bdyysOeoOBX4pt4oFDBhsC_jpblXpNtQ/preview#heading=h.88sn77t4huar) a collection of scientific literature on the use of masks, though itself clearly biased in favor of using them
 * [Addressing COVID-19 mask shortages](https://m.box.com/shared_item/https%3A%2F%2Fstanfordmedicine.box.com%2Fv%2Fcovid19-PPE-1-1), a paper published at Stanford evaluating the filtering efficacy of many non-standard types of masks, and effective way to disinfect and re-use single-use masks
 
+## Prior research
+
+* [Isolation and characterization of a bat SARS-like coronavirus that uses the ACE2 receptor](https://www.nature.com/articles/nature12711), a 2013 study published on Nature
+* [A SARS-like cluster of circulating bat coronaviruses shows potential for human emergence](https://www.nature.com/articles/nm.3985.pdf), a 2015 study published on Nature
+* [How China’s “Bat Woman” Hunted Down Viruses from SARS to the New Coronavirus](https://www.scientificamerican.com/article/how-chinas-bat-woman-hunted-down-viruses-from-sars-to-the-new-coronavirus1/), an article on Scientific American
+
 # Polls
 
 * [ProPublica's information sharing request](https://www.propublica.org/getinvolved/we-want-to-talk-to-people-working-or-living-on-the-front-lines-of-coronavirus-help-us-report) for people who have been affected by the virus (as patients, caregivers or health workers)
