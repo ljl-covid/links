@@ -202,6 +202,7 @@ There is mixed advice on the use of masks by the general public, and the advice 
 * [Map of the areas currently under lockdown](https://i.imgur.com/SpxMyVz.png)
 * [PM Conte's press conference about the lockdown](http://www.governo.it/it/media/dichiarazioni-alla-stampa-del-presidente-conte/14265)
 * [Emergency decree instituting the lockdown](https://www.gazzettaufficiale.it/eli/id/2020/03/08/20A01522/sg)
+* [Il Segnalatore's COVID-19 articles](https://ilsegnalatore.info/category/covid-19/), covering the epidemic in general and with daily updated sets of graphs based on official data but including predictions of future trends
 * [LiveNewsMap](https://livenewsmap.it/?region=italia) is not about the coronavirus in particular, but right now mostly is
 * [Age statistics for Lombardy](https://ugeo.urbistat.com/AdminStat/en/it/demografia/eta/lombardia/3/2)
 * [LeccoNotizie's map and statistics](https://lecconotizie.com/cronaca/lecco-cronaca/coronavirus-la-mappa-del-contagio-in-lombardia/) for the cases and deaths in Lombardy
