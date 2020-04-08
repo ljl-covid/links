@@ -197,6 +197,7 @@ There is mixed advice on the use of masks by the general public, and the advice 
 
 * [Vital links from Reddit](https://www.reddit.com/r/italy/comments/f87rbo/megathread_4_coronavirus/)
 * [Protezione Civile's JHU-like tracker](https://opendatadpc.maps.arcgis.com/apps/opsdashboard/index.html#/b0c68bce2cce478eaac82fe38d4138b1)
+* [Protezione Civile's Open COVID-19 Data](https://github.com/pcm-dpc/COVID-19) licensed under Creative Commons Attribution 4.0
 * [Detailed daily data by the Ministry of Health](http://www.salute.gov.it/portale/nuovocoronavirus/dettaglioContenutiNuovoCoronavirus.jsp?lingua=italiano&id=5351&area=nuovoCoronavirus&menu=vuoto)
 * [La Repubblica's live updates](https://www.repubblica.it/cronaca/2020/02/22/news/coronavirus_in_italia_aggiornamento_ora_per_ora-249241616/) are reasonably up to date
 * [Map of the areas currently under lockdown](https://i.imgur.com/SpxMyVz.png)
