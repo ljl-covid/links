@@ -50,6 +50,7 @@ You can read and follow [this self-triage tool](https://www.statnews.com/2020/03
 * [Global Kaggle Data's dashboard](https://covid19-dash.herokuapp.com/), another animated dashboard
 * [Healthmap](https://healthmap.org/covid-19/), a third animated dashboard
 * [SCMP published](https://multimedia.scmp.com/infographics/news/china/article/3047038/wuhan-virus/index.html) a semi-regularly updated article with many infographics
+* [WHO's Coronavirus tracker](https://who.sprinklr.com/), with a world map and data by country (no sub-national entities)
 * [The John Hopkin's University map](https://gisanddata.maps.arcgis.com/apps/opsdashboard/index.html#/bda7594740fd40299423467b48e9ecf6) is probably the best-known COVID-19 tracker worldwide. See [their introduction](https://systems.jhu.edu/research/public-health/ncov/)
 * [Worldometers Coronavirus](https://www.worldometers.info/coronavirus/)
 * [Plague.com](https://plague.com/) has more data for the United States but a map and charts for the whole world as well
