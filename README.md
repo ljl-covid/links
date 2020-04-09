@@ -138,6 +138,7 @@ You can read and follow [this self-triage tool](https://www.statnews.com/2020/03
 
 ## Epidemiology
 
+* [BlueTrace](https://bluetrace.io/), a proposed protocol with open-source reference implementation as smartphone apps to enhance contact tracing internationally
 * [Imperial College's comparison of containment vs mitigation strategies](https://www.imperial.ac.uk/media/imperial-college/medicine/sph/ide/gida-fellowships/Imperial-College-COVID19-NPI-modelling-16-03-2020.pdf) mainly with a view on the UK and US
 * [CMMID traveller screening effectiveness simulator](https://cmmid.github.io/visualisations/traveller-screening)
 * [CMMID repository of COVID-19 research](https://cmmid.github.io/topics/covid19/)
