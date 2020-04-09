@@ -71,12 +71,13 @@ You can read and follow [this self-triage tool](https://www.statnews.com/2020/03
 * [COVID-19 outbreak in Italy](https://www.arcgis.com/apps/opsdashboard/index.html#/4f74fc222b7041cd9cc3c52e62af1b8c) with a map and data for Italy by provinces
 * [Il Sole 24 Ore's Italy-specific tracker](https://lab24.ilsole24ore.com/coronavirus/en) with cases by region and province as well as hospitalization/ICU rates and other detailed graphs
 * [Covid-19 Situación en España](https://www.arcgis.com/apps/opsdashboard/index.html#/92d60c15bb004fd2b9a78a9c60a58d05), a map of contagion in Spain by autonomous regions
+* [El Pais Coronavirus tracker](https://elpais.com/sociedad/2020/03/30/actualidad/1585589827_546714.html) with maps and data for Spain and the world, in Spanish
+* [DGS's COVID-19 em Portugal](https://covid19.min-saude.pt/ponto-de-situacao-atual-em-portugal/) map for Portugal
 * [Public Health England's Total UK COVID-19 Cases Update](https://www.arcgis.com/apps/opsdashboard/index.html#/f94c3c90da5b4e9f9a0b19484dd4bb14) for the United Kingdom
 * [Robert Koch-Institut's COVID-19-Dashboard](https://corona.rki.de) for Germany
 * [Epidémie COVID-19](https://thibautfabacher.shinyapps.io/covid-france/), a map by department for France with data on hospitalizations, fatalities and ICU cases
 * [Coronavirus France](https://www.arcgis.com/apps/Embed/index.html?webmap=4f9b1d34abcd44f0bca03ec381cc1e55&extent=-13.8471,39.9083,18.6065,53.356&zoom=true&previewImage=false&scale=true&disable_scroll=true&theme=light), a case map by region for France
 * [Coronavirus in Nederland](https://www.arcgis.com/apps/opsdashboard/index.html#/cfc2084c995c40e7ae72254029bf6251) with data and a map by municipalities for the Netherlands
-* [DGS's COVID-19 em Portugal](https://covid19.min-saude.pt/ponto-de-situacao-atual-em-portugal/) map for Portugal
 * [Lombardy Region map and data](https://lispa.maps.arcgis.com/apps/opsdashboard/index.html#/637ec3dc28ec4ea591cc5c724f127701) from Italy's hardest-hit region
 
 ## North America
