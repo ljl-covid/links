@@ -79,6 +79,7 @@ You can read and follow [this self-triage tool](https://www.statnews.com/2020/03
 * [Coronavirus France](https://www.arcgis.com/apps/Embed/index.html?webmap=4f9b1d34abcd44f0bca03ec381cc1e55&extent=-13.8471,39.9083,18.6065,53.356&zoom=true&previewImage=false&scale=true&disable_scroll=true&theme=light), a case map by region for France
 * [Coronavirus in Nederland](https://www.arcgis.com/apps/opsdashboard/index.html#/cfc2084c995c40e7ae72254029bf6251) with data and a map by municipalities for the Netherlands
 * [Lombardy Region map and data](https://lispa.maps.arcgis.com/apps/opsdashboard/index.html#/637ec3dc28ec4ea591cc5c724f127701) from Italy's hardest-hit region
+* [COVID-19 Cases in Scotland](https://corona.scot/), map and graphs
 
 ## North America
 
