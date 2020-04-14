@@ -1,0 +1,50 @@
+Italy's daily Civil Protection press conference from April 3 at https://www.youtube.com/watch?v=pjo5-2Cwwsw
+
+
+
+
+Total active positive: 85388, +2339 since yesterday
+4068 are in ICU, 28741 are in hospital with symptoms, while 52572 are self-isolating at home (62%)
++766 fatalities
++1480 recoveries
+As of today, 61849 tests have been made, +80000 in the past couple of days
+114 patients have been transferred from Lombardy to other places, +9 since yesterday
+38 patients were transferred to Germany
+16798 volunteers are working.
+There are 792 pre-triage tents outside hospitals, and 151 in prisons.
+11.5 million euro have been spent as of today for PPEs and ventilators from the amount donated to the Civil Protection, around 10.5 million
+For the time being, "phase 2" is scheduled to start on April 13, and today there was some misunderstanding of Borrelli's words, he claims, because he clearly said the measures to be adopted would be determined as things occur. He's sorry his reasoning was turned into a headline not reflecting his thoughts.
+Something about scams occurring and unauthorized interviews
+Some data about ICU: on Monday a re port about 1310 ICU patients will be published on JAMA, which will show the great majority had comorbidities. 90% were put under invasive ventilation. Mortality in this sample has been around 15%, mostly between 65 and 90 years of age. Data on my particular hospital are that we've had 150 patients in ICU in the past few weeks. 63% came from ER, and others from other departments. So patients don't end up in ICU all 
+immediately, sometimes they are hospitalized but deteriorate until they need to be taken into ICU. Anyhow, the age group also includes 45-64 years of age. Lastly, average stay in ICU is 10 days, and often extends to 15-20 days, so the impact is not only from the severity of the disease, but also due to the long times taken for recovery.
+Questions now.
+
+
+
+
+Q: On "phase 2", aside from dates, it will happen sooner or later. You're telling Italians to stay home, and Italians are doing it, but they also need to be able to imagine what will happen afterwards. We know there will be a middle ground between "now" and "afterwards"... how do you imagine this transition? By steps, by geographical zones, by age groups, by activity...? Please don't tell me you're only "working on it"!
+A: I will be able to provide my opinion when the scientific committee is done evaluating the situation. I really cannot afford to predict things I do not know.
+Q: But how do YOU imagine it? You must know what you think about it.
+A: Without scientific elements, I cannot say anything about it to you now.
+(Doctor) There is no clear and certain answer to your question until scientific evaluations are completely; for now we can only notice there is a decrease in virus transmission, and it appears we're just repeating the same things over and over, but it's clear containment measures have been useful, which has also reflected in ICU pressure; but it's hard to give a specific answer to your question.
+Q: But you must give people some hope? It's important.
+A: Certainly.
+Q: You often say experts must give the answers. We then go to the experts and they say we must go elsewhere still. We need clear and timely communication. This country has been wounded by grief and suffering, and maybe this is the place where experts should give actual numbers and answer our questions. Anyhow, do you think during "phase 2" it will be mandatory to wear masks?
+A: I am happy to have all the experts we need on my site during these press conferences. Today we have an authoritative person from the scientific committee, but I wish there will be many other scientific committee representatives at this table.
+As to masks, I think it will be more important to increase our social distancing measures: as you see, I'm not wearing a mask, and it's not because I think it's useless, but I simply try to respect the distances instead. So, again, I cannot tell you anything about masks in the present moment, since we don't know about the evolution of things and whether it will be needed or not to wear masks. Today, whoever is able to respect the distancing doesn't need to wear them.
+Q: Back to the question of adequate protection for healthcare workers, since hospitals are the place with the most risks... you told us how 6000 masks from China were delivered to doctors but turned out not to be adequate as they weren't FFP2. I'd like to know how other deliveries are going, as there have been several rumors on subpar masks, and someone in Hong Kong says all masks being made in China are not adequate. Another thing, too many PPEs get to 
+doctors without being certified, and they don't know whether or not to use them. What's your answer to them?
+A: As I said before, there was a logistics problem with the masks that were delivered the other day. We deliver masks to healthcare workers but also to the public, and just yesterday we distributed nearly 5 million masks. In the next few days, we'll be sending replacements for those masks which were not adequate. We control the quality of masks, together with the Red Cross. I am convinced we won't have future difficulties.
+As to PPE use in general, we all verify them, and unlike that batch of masks, I'm not aware of any critical issues with them.
+(Doctor) We optimize resource use in hospital depending on the type of thing the personnel must be doing: if I need to be in the COVID ward but not visit patients, I will wear a mask; but if I have to make a procedure like intubation, then I need further protection. The WHO itself has a very clear table indicating how to use the various PPEs. Knowing how problematic the lack of these resources can be, we do try to optimize, and for example, people tend to keep wearing PPEs throughout their turn, even though this is fatiguing.
+Q: We are witnessing an apparent decrease in ICU use, but this does not match the number of new infections. So are we doing more tests, finding more asymptomatic cases, or relatives of sick people who are less critical...?
+A: It's not easy to give you a very certain answer. You must consider the peak has not ended yet, and while there is a slight decreasing trend, it's the fruit of what we did during the past three weeks... so it's hard to evaluate new cases.
+Q: Another question about ICU, and what stage are experimentations on new treatments at? And could these treatments reduce the need to use ICU beds, allowing people to be treated in normal hospital beds?
+A: The answer is dual: first, there is not currently a scientifically proven therapy, and there are, both at an Italian level through AIFA and internationally, a set of very serious studies ongoing. If one of these therapies turned out to be useful to prevent ICU access, that's not something we can say now, but the reasoning is sound that it could happen.
+aradesh, note it for later, when they'll be saying the opposite
+Q: I think you must "unify" communication. During the past week, we had to listen to Dr Arcuri at noon, then Prof. Brusaferri, then again to your press conference at 18. I won't even ask you about the deceased in immigrant camps etc because no one knows the answer. Do you think you can discuss with the Minister the addition to the committee of other professional figures? A psychologist, a statistician...
+A: The way it's been created, the scientific committee can be integrated with new professional roles. Psychologically, our volunteers are working on psychological issues and they have psychologists, and I will try to request further information.
+Follow up: I would like to add, from the frontline, which I belong to, that hospitals highly value people like psychologists, not only to provide support to people who are sick, but also for the personnel themselves. In our "critical area" in particular, the stress we are subjected to is very strong. Having support available helps.
+Q: Since this crisis began, there have been a continuing conflict between the central government and individual regions. So I'd like to ask, first, I get at this is a technical question and not political, but do you think there should be more centralization? Secondly, do you wish new regional ordnances will be in line with the central government's stance, especially during "phase 2" where there may be more localized clusters?
+A: I think I can answer both questions with our intervention model in the Civil Protection. The matter is preeminently regional, but when there is a national emergency, we are all united in managing it under Civil Protection handling. Since this is a health emergency, it has been handled differently from disasters where the Civil Protection intervenes. When I had a meeting with Lombardy's government, I said the Civil Protection was to work next to the regional healthcare system. Our capabilities are tested, and in full synergy for teamwork.
+About regional laws, we wish to avoid dissonant decisions; it's my wish but also a technical and common sense wish.
