@@ -1,0 +1,59 @@
+Italy's daily Civil Protection press conference from April 5 is at https://www.youtube.com/watch?v=69C3v5CHXnI
+
+
+
+(Borrelli) Good evening. Thanks to Prof. Brusaferro who is with me today.
+Two positive things today: less hospitalizations, and less ICU.
+91496(?) total +2872
+3977 are in ICU, which is -17 compared to yesterday
+28949 are hospitalized with symptoms, -61
+Most of the positive patients, 58320, are at home in self-isolation.
+We register +525 deaths, which is the lowest number since March 19.
+The total recoveries are 21815, +819 from yesterday.
+The "cross" system has transferred 116 patients from Lombardy, 76 of which COVID-19 patients, 40 regular patients.
+We are no longer transferring people from Lombardy to hospitals elsewhere starting today, because the situation is such that there is no longer this need. "Cross" remains active and can start again in case it's needed.
+We have 15550 volunteers as of today.
+Another good bit of news is that the Rome hospital Spallanzani has more patients released than inbound.
+I'd like to conclude that while I've given some good news today, they must not make us lower our attention: staying at home is fundamental.
+I'll now ask Prof. Brusaferro to speak.
+(Brusaferro) My first comment is on the evidence that the curve has reached its plateau and is starting to go down, and fortunately, the deaths curve is doing the same, which is extremely important, but as we know, these are trends that reflect events from weeks ago.
+Another thing is that these positive data points must be conquered day after day. We also must start thinking of a "phase 2", as our PM called it, which can be done if the data we have today are confirmed: we must reflect on how to keep infection rates low, because that will be the only thing determining whether we can change the measures that limit our lives, while allowing R0 to remain below 1.
+(Borrelli) Questions now.
+
+
+
+Q: Lombardy ordered yesterday to wear masks when going out. Today the Mayor of Milan said he'll respect this, but he feels confused by Dr Borrelli's words, since you said yesterday that you won't wear a mask because you just respect social distancing. I think many people are disoriented.
+A: I'm sorry to have been misunderstood again. I said that I don't wear a mask because in the environments I find myself in, it is possible to respect social distancing. Anyway I must say that Lombardy's ordnance must be respected, because it's law. It's fundamental to wear a mask in places like the metro, or public transport, where respecting distances is not possible. Masks are important as they lower the risk of contagion.
+As you can see I don't wear a mask here, but it's for a simple reason: I don't find myself in places where I'm exposed to risk.
+Q: And Prof. Brusaferro, about using scarves as masks...?
+A: We must remind that from a scientific point of view, measures to contrast this infection involve physical distancing, and washing of hands, as we must not forget that indirect contact through the hands is a very important element, and washing your hands or using sanitizer is just as important as masks.
+Protecting the airways has a twofold motivation: if we are positive we can release virus-containing droplets to the environment, and we may be positive without knowing; the other thing of course is being protected from other people.
+I think the really important point is about closed places. If it's difficult to keep distances there, protecting the airways is important.
+Surgical masks have specific characteristics, with filtering that is appropriate in hospitals. For the citizens, there will be masks with lower protection, because they are less at risk, so under the umbrella term "surgical masks" there are three types at least: there are also "art. 16 masks" under the new law, which have no protection but just act as a simple barrier.
+[?]
+Q: About Lombardy's previous ordnance and announcement [...] masks in the streets, are you thinking about how to manage distribution of masks in those territories where they are made mandatory? There will be more need for the population to obtain them, since they will be compulsory.
+A: I will give a partial answer and then let Prof. Brusaferro complete it. As he said, we have started a florishing activity of local production of masks for use by the population, for which there are no particular formalities for authorizing them, as he can explain now. I think it will be possible to provide those to everyone.
+(Brusaferro) Yes, I will complete what I said in my previous answer: we have three types of masks today: those with filtering fronts, which are a prerogative of healthcare workers; then there are surgical masks which are in turn divided into three categories, two of which are again for healthcare workers; but then "type 1" masks are for the population. Then there's a third type dubbed as "art. 16" which are simply not regulated, and must not respect any specific standards, and the population may use them for protecting airways.
+For FFP2 and FFP3, INAIL must manage and authorize the production of these. As to surgical masks, the ISS must give an evaluation and support companies that are converting to their production. The last type requires no particular authorization by any entity.
+As to actual production, as Prof. Locatelli said yesterday, we have had many companies who requested to be allowed to convert to production of surgical, I repeat surgical, masks... about 80 of them have been authorized to "produce", which means in their self-certification they claim they respect the required parameters.
+Authorization to produce means they can start productive activities and stock them up, while at the same time they are producing experimental evidence to actually show the international requirements are respected.
+As these are provided, the institute immediately authorized commercialization.
+But this route is about surgical masks, which are medical devices of a specific type.
+Q: We see today that the number of deaths is lowering a fair bit. Should we expect a decrease in the coming week, since we're talking about deaths due to previous weeks?
+A: You caught the dynamics of this curve very well. We have indications on new cases, hospitalizations, and fatalities every day. New cases are the first indication, which refers to just a few days ago, a week ago... hospitalizations and deaths lag by some 15 days.
+We have indications that the number of new cases is decreasing, and we expect that consequently, ICU admissions and deaths will also decrease. The data are consistent with that. This is an extremely important and positive fact.
+We expect the trend to continue in the coming days.
+Q: A small thing that GPs asked to clarify: those 620k masks that are to be distributed, will they only be given to GPs, and not to all doctors, who may not even be working anymore, or working in private clinics? And then I'd like to ask Prof. Brusaferro about experimentation on "quick tests", they should be validated within a week, and rumors are that these tests have shown to be even better than regular tests. Where are we on that? Also on data just released, the region of Lombardy reports data that are very different from the central ones: they say they have obtained many more PPEs than the Civil Protection has, and they say the CP has provided a very different number from what is stated on their website.
+A: I will start with the first piece of data: providing masks for general practitioners, it's obvious those masks should only be given to doctors actually practicing. As to the ADA system, I don't have the data on what the CP distributed today, but the data the Commissioner put into the website is what we communicate to the regions. We will verify, I don't have the file with me.
+(Brusaferro) Diagnostics is a recurring theme today, both as to PCR tests and serology. As you noted, it's under trial, and there's something I want to remark: there are many groups in Italy that are testing and validating both molecular tests and serology ones. But we cannot comment now; we have to reach a certain significance level, and expressing an evaluation before would be inappropriate.
+Q: But do you have a time horizon...?
+A: Well, what I wish is that within a week... operators in all of Italy are finalizing interesting mechanisms to make testing these things faster, and obviate to the lack of certain reagents, boosting productivity. Researchers have an important role: this common effort can allow us to get past a critical moment, since the theme of diagnostics is extremely important, as it will influence the policies on using these tests too.
+IndoAnon, first time I hear about them
+Q: We know the real contagion numbers may be much higher than what appears from the tests. The Imperial College study talks about possibly 3 million italians infected, Prof. Ricciardi talked about 20% potentially being already infected... I know it's difficult, but can you give us something approaching real data? And how will this influence the decrease that you said would be slow?
+A: What we are organizing now is a national-scale prevalence study, which aims to find how many people have developed an immune reaction to this. We have estimates that are very different from one another: 5%, 10%, even more. As to the significance of that number, it's very critical: having 1 Italian out of 10, or 1 out of 20, having developed immune response, means that most of the population is still susceptible, in concrete terms, which means they can potentially become positive. So, aside from the exact numeric value, which we are very interested to know as researchers, the practical significance is that we must use the uttermost care and social distancing... still... because in any case, even if it were 90%, 85% or so who are still susceptible, it's still a very large number, and the curve can spike again if we aren't careful.
+Q: I'd like to ask Prof. Brusaferro about drug tests. We have heard of many studies, is there some that is giving the best results? Another thing is, are you afraid there will be more people leaving home for Easter? Do you think police checks should be increased?
+A: As Prof. Locatelli said yesterday, AIFA did a fantastic job, which is available transparently on their websites. I understand the stress from waiting, but we do need a sufficiently large sample to give these results significance. We must reach a certain goal in terms of test subjects, a goal set by AIFA or by the researchers themselves. Many of the studies proposed that pass the plausibility evaluations are immediately listed.
+I believe as soon as AIFA reaches the minimum threshold to say that a given treatment can significantly improve conditions, they will communicate it immediately. But we need patients, there are times and numbers to be reached.
+I cannot give you more information than what we already know about the number of studies in progress, under evaluation, and the rejected ones.
+(Borrelli) About the danger that people will pay less attention to behaviors, we already said it, and in this circumstance, given your question, I want to thank the police force who perform checks across the country every day, as they constitute a deterrent, but the most important thing is us behaving responsibly. We trust in our population acting consistently with what is requested.
+If there are no further questions, we're ending this now. Good evening and have a good Sunday.
