@@ -1,0 +1,69 @@
+Transcription of Italy's daily Civil Protection press conference https://www.youtube.com/watch?v=2xF9PVrRekw on April 13
+
+
+
+(Borrelli) Good evening. Prof. Gianni Rezza, director of Infectious Diseases at ISS, is with me.
+Today there are +1663 current positives.
+We have 3260 ICU patients, -83 from yesterday. 28023 are hospitalized, +176.
+Most positives are self-isolating, 72333 (70).
+We have unfortunately +566 deaths. Recoveries +1224.
+18467 volunteers are working as of today, together with firefighters, armed forces etc.
+We have 117 million euro in donations, for buying PPEs and ventilators; about 25 million have already been spent, 9 million for ventilators, the rest for masks.
+I want to correct a piece of news that was shown on Repubblica, which is unfunded: all components of the nurse team that have been assigned to the regions had been tested for coronavirus, so only those who were negative were transferred. No one went to Turin without having their test result.
+I can confirm that during our preliminary checks, we found 2 people, one positive and another unclear, and those two people did not leave.
+The region of Piedmont has nonetheless decided to keep these nurses "on standby" for 14 days.
+As to quarantine, the healthcare personnel are under special sanitary measures: they undergo checks, and they continue working until they develop any symptoms.
+Now, Prof. Rezza, please?
+(Rezza) I'd like to interpret the data a little. Sometimes people say, how come one month since lockdown, you say things are getting better, but then we still have many cases, and unfortunately, many deaths?
+The thing is: right after the lockdown there was a fair bit of violation of it, and there can be transmission in the families, in apartment buildings... so the "tail" lengthens.
+After that, was must keep something into account: the time between being infected and the time of notification can be even 20 days. +3000 new cases are not new infections, they are new notified cases, that have gotten the infection 20 days ago. In terms of mortality, that's even longer: someone can be in ICU for many days unfortuntely. So you must keep into account the time of infection, time of symptoms, time of diagnosis, and waiting for hopefully 
+recovery, but sometimes death.
+If we don't keep this in mind we cannot understand why we say things are getting better while cases and deaths are still rising.
+Reduction in hospitalizations and ICU admissions are earlier signals, which are more meaningful.
+We are still definitely in "phase 1": there are good signals, but we must yet see how the data consolidates.
+I hope I was clear, since the data can create some perplexities.
+(Borrelli) Okay, thank you. Any questions now?
+
+
+
+
+Q: Are there studies on damage to other organs, aside from the lungs, or is it still early for that? Second thing, about soccer, various entities disagree on whether or not to continue matches. According to the scientific committee, is it thinkable to give the "go ahead" to a contact sport, which also includes hundreds of accessory people?
+A: This is a new virus and the effects on the hosts are not fully clear, but for now, despite follow-up being somewhat limited, we are not seeing residual damage, like organ deficits that persist after recovery.
+We've seen relapses, which are probably not re-infections, but rather seeming negatives that turn positive again. It is not certain that a relapsing person is still infectious, but there is a scientific effort on this.
+There are some studies that talk about effects on the CNS, but data are not consolidated yet. Certainly there are symptoms that were neglected at first, such as olfactory disorders... but these do not seem to persist in time, it's probably epithelial damage.
+Clearly, in more serious cases with citokyne storms, more organs can be compromised.
+As to soccer, personally I'd say let's forget about it. The CTS has not expressed itself, politics will decide, and contacts sports incur some risk of transmission... I heard some have proposed very strict monitoring... sincerely, I find it a bit of a stretch.
+Q: About vaccines, during the past hours expectations seem to have risen, and a company has announced a trial on 500 volunteers by the end of April. Are there any actual hopes?
+A: Vaccines are accelerating... we always talked about one year, but what happens? During the epidemic, regulatory agencies become less strict, and timeframes get shorter. I think Science or Nature, the other day, talked about the first 5 vaccines in phase-1 human trials, including an mRNA vaccine by NHS in cooperation with a privacy company, and others in China.
+As to Pomezia, it is a "vector" vaccine, using an adenovirus as the vector, expressing the coronavirus's spike protein (which is produced at Oxford).
+It's a vaccine that makes use of a platform that was used in Ebola before.
+So it's the same platform which gives the advantage the vacine is not particularly innovative, it has already been used in a sense.
+Phase 1 and 2, or even 3, could be "compressed" together. Perspectives I've heard were optimistic, not only on this vaccine but all of them.
+What we wish is they can evoke immune responses and that they will be retained in time.
+Q: Our audience keep asking about tests, why do politicians, footballers and even journalists keep getting tested, while doctor Valli who died the other day didn't get tested? Why do I 3.9°C fever, and do not get tested?
+A: We did see there were difficulties with tests in the initial phase, but now we are doing many of them every day. We have followed WHO rules on making them. I don't think anyone received preferential treatment. We should look at specific cases and see why they did not get a test.
+I can't answer to that specific case, I don't know about it.
+(Rezza) There were problems with reagents too, and we're trying to deal with it... we are witnessing a reduction in the number of cases despite testing more. Milan was a problem for instance, but lately they have been able to make many more tests. Maybe they have less pressure on the hospitals now.
+I think things are going better now, but there was definitely a problem. I will still say we're in "phase 1" and we must be careful, attentive and respectful of the rules. During "phase 2" we will really have to catch cases immediately, to find any new clusters immediately.
+Q: Deaths are more than 20000 as of today, and a WHO note tells us that this coronavirus is 10x as deadly as the 2009 flu virus. When do you think we'll see consolidation of data, especially deaths?
+A: I never had a doubt that this was not a flu, at least not the normal seasonal flu... if anything it can be compared with pandemic flu, but H1N1 mostly spared the elderly.
+So, lethality of this virus is definitely higher than seasonal flu. I remember even some colleagues saying it could be a cold, a flu-like disease... but no this is a virus that attacks the lungs, it gives pneumonia in a certain fraction of cases. So the fact mortality would be higher was to be taken for granted.
+When will we see effects of containment even on deaths? I believe it'll be the last figure that goes down.
+As I said before, the timeframe is longer. So unfortunately this number will go down last. We have a downward trend, fortunately, as we had reached +1000... I don't mean to say +500 makes us happy, it's still dramatic, but there has been a reduction.
+We are trying to model this, but since infection to notification we believe it's around 20 days, so infection to death could be longer. Now it's getting shorter, because the fact there are more tests suggests we reach diagnosis sooner.
+So we see a downwards trend, but slower than the trends on ICU admissions.
+Q: Prof. Locatelli wished schools can be resumed in September. Do you agree? We've also talked about reopening some industries in the coming weeks... are there just rumors?
+A: About schools... this is phase 1, okay? There are positive signs, but the virus is circulating. I cannot agree with Prof. Locatelli, honestly... and I think Dr Borrelli agrees with me on something: we've seen a lot of new things, such as remote working, "agile" working... other countries had already introduced it, and in our country this dramatic period has helped innovation.
+It's clear that since we cannot stay fully locked down for multiple months, but, reopening some production activities, even if we do it, doesn't mean we're back to normal. We will still inevitably have social distancing and rules on transport etc.
+(Borrelli) On the task force, they are working, they just started, let's give them the time to work, I don't feel like saying anything right now, it's premature.
+Q: I want to go back on daily new cases: the numbers keep being high as far as I see... it's true the infection comes from earlier, but we were already in lockdown. So if these are the numbers now, won't the situation if we "reopen" some things become unacceptable? During "phase 2", what will happen then?
+A: (Borrelli) I will ask Rezza to answer, but we saw a graph, right? There is a downward trend but...
+(Rezza) Apart from the fact we are seeing infections from 20 days ago... after the lockdown, there was still infections within families, we haven't done like the Chinese who "deport" relatives into special structures. We have also had clusters in the nursing homes. Those things do cause new cases.
+If you look at the curve being referenced by Borrelli, even in terms of... I don't want to call it a peak, without our measures, the curve would have kept growing... we are seeing stabilization now, not a peak. New cases are less than reported one week ago. But we see a jittering that is normal and natural.
+But if you drew a straight line, you would see a downward trend.
+Sure, the models that show you that by mid-May we will be at "zero" cases are wrong, we won't reach zero. Maybe Wuhan could do it, by taking incredible measures, and despite that, they have "return cases".
+So we'll have a downward trend that will consolidate, but the virus will kept circulating to an extent, and we will have to "patch" it all the time.
+Even if circulation is lower, every time we have a cluster, we will have to be extremely quick in identifying them and containing them.
+Apps will be fine, but we need people, just like in Korea: they have apps but they also have people testing and tracing cases.
+"Territorial medicine" will have to be strengthened, not just things like ICUs.
+(Borrelli) Okay. Thank you and good evening.
