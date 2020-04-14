@@ -199,6 +199,7 @@ There is mixed advice on the use of masks by the general public, and the advice 
 # Key news
 
 * [Info and live news updates from The Guardian](https://www.theguardian.com/world/coronavirus-outbreak)
+* [Our transcription of speeches and press conferences](https://github.com/ljl-covid/links/tree/master/speeches) related to COVID-19
 * https://www.scmp.com/news/china/society/article/3049623/coronavirus-hubei-province-reports-81-new-deaths-and-2841   aerosol transmission, "viral pneumonia"
 * https://arstechnica.com/science/2020/02/quarantine-camps-door-to-door-searches-in-wuhan-as-coronavirus-rampages-on/   quarantine camps
 * https://www.theguardian.com/world/2020/feb/10/coronavirus-who-warns-spread-by-people-who-had-not-visited-china-could-be-tip-of-the-iceberg   creepy
@@ -229,6 +230,7 @@ There is mixed advice on the use of masks by the general public, and the advice 
 * [Paper estimating real infected population in Italy](https://www.medrxiv.org/content/10.1101/2020.03.14.20036103v1)
 * [Ministry of Interior self-certification form for movement within the quarantine area](https://static.gedidigital.it/repubblica/pdf/2020/cronaca/moduloautodichiarazione.pdf) which needs to be filled in whenever leaving one's residence with information on where you're going and why
 * [Free online services for the quarantined areas](https://solidarietadigitale.agid.gov.it/#/)
+* [Translated Civil Protection press conferences](https://github.com/ljl-covid/links/tree/master/speeches/Italian-Civil-Protection) and [Prime Minister speeches](https://github.com/ljl-covid/links/tree/master/speeches/Italian-Prime-Minister)
 
  
 (For history and diffs of this document, see [its GitHub page](https://github.com/ljl-covid/links))
