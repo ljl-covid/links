@@ -1,0 +1,111 @@
+Italy's daily civil protection converence at https://www.youtube.com/watch?v=_xDIsotty1U on April 18
+
+
+
+
+Good evening and thanks to Prof. Brusaferro who is with me today.
+First we're giving you the data we got, but the region of Campania is missing for today.
+Recovered: +1084, an important number, for a total of 4025, a 37% increment
+Positives: +2648, as you see in the course of this week, the trend is substantially stationary (linear), for a total of 28710
+12090 are in self-isolation at home, with mild or no symptoms; 2257 are in ICU.
+Unfortunately the deaths are +475 today.
+[I am not sure I understood that right :\]
+55 patients have been transferred to other regions in total as of today.
+Installation of new structures has continued, also by the armed forces in Crema and Piacenza. I want to thank the armed forces who are working closely with us.
+We have distributed more masks and more ventilators, 1 million masks and 40 ventilators.
+About the rest, I want to remind you that the Civil Protection department, on the basis of requests we've had in the past few days, has opened a bank account to get donations from citizens. You can find the info about this bank account on our site. The donations will be used to buy medical equipment.
+I want to end my statement by stating I'm close to the mayors in the Bergamo area, who are living, together with healthcare structures and the population, a time of real hardness.
+Let me also remind everyone to keep correct behaviors, and to limit travel in the strictest possible way, also with a look at today's numbers.
+(Brusaferri) As you know, we at the ISS provide twice-weekly reports on epidemiology and mortality, aside from the daily infographics.
+Today I want to focus on these reports, which you can find on our sites. The trend on curves for confirmed cases shows that it's growing, and the maps in our infographics shows that northern regions are still the most critically hit.
+Borrelli mentioned earlier that some areas of the country are installing new structures in an extraordinary effort, and I want to join him in thanking them.
+That said, in other areas of the country there is growth, but it's not that fast. This is still an important element to consider: we must not be deluded by thinking that the lower numbers in southern regions. Only if we all behave in the recommended ways, avoiding close contracts and keeping social distances, we can slow the curve.
+The most important issue is on ICU beds; it's true it's a limited number of the infected who need them, but even 5% becomes a very high number of there are very many infected.
+It's most important to keep our recommendations in mind in everyday life.
+One aspect I'd like to highlight, actually two, is: for people who are positive but asymptomatic or nearly asymptomatic, they MUST absolutely respect isolation rules.
+We published information leaflets on the rules for those people, which you can find on our site. If these people do not respect the rules, they are the most likely to infect. People who are hospitalized are already isolated completely; but people who feel well enough, with few symptoms, maybe just a little fever, those are the ones who can most easily infect the virus.
+The second recommendation, before I analyze the mortality data, concerns vulnerable people: unfortunately, mortality hits people affected by pathologies and people who are elderly. If we combine those two factors, that's the most salient scenario in the mortality data.
+Hence the recommendation to give these people the most protection: it means they must stay home. It means that the support networks must help them stay home, by bringing them food etc.
+These are people who will pay the highest price if they get infected.
+Similarly in nursing home: they must unfortunately be denied visits, but this denial is very important because an infection in those contexts is both hardly controllable, and affecting people most at risk.
+Now to the deaths: next to a daily analysis made by the civil protection, which gives the main numbers, we have a slightly more delayed but more detailed analysis on the profiles of people who lose their lives.
+We must obtain the individual files, which causes a delay, but allows a more exact definition of their course.
+The data are not significantly different from the ones given in previous days: we obtain more details, but generally, we're still speaking about a dying population that is around 80 years of age, mainly male (women make up 30%), and the age difference between who dies and those people who get hospitalized or are affected is about 15.
+So it's a reality that hits mainly the elderly, with the peaks in the 70-79 range and highest in 80-89.
+Next to the age groups, the other important element is comorbidities: they are often common issues, but when they come together, they make people very fragile. High pressure, strokes, etc etc
+When we analyze mortality, we find out that 48.5% has 3 or more comorbidities. 25% has 2 and 25% has one.
+With the current analysis, only 0.8% have zero comorbidities.
+This is an important part to understanding the epidemiology, and it explains why I recommend the utmost attention to vulnerable people.
+The symptoms that characterize people who tend to have a bad prognosis are fever and dyspnea, followed by coughing.
+Other elements: among younger people, who do die even below 50, when we look at the files, some of those people are already affected by comorbidities even at that range: kidney issues, heart issues, psychiatric issues[!]
+The general picture, so I can also give a final message before questions, we must be aware we're in a phase where we're still looking at effects of the measures adopted, and we can't see any benefits immediately, but we must not give up. We are not in the condition to give up. We must keep these measures going if we want to see any effects and protect the most vulnerable. This is our bet together, and the numbers we are sharing twice weekly and daily 
+indicate that this is the correct path to keep treading.
+If cases are diluted in time, people will find our healthcare workers most able to treat them.
+Finally let me thanks all of our professionals and volunteers, as well as local, regional and national authorities who are doing everything to reduce the impact.
+(Borrelli) Thanks, questions now.
+
+
+
+
+Q: the situation in the provinces of Bergamo and Brescia: has the Institute done any studies, explaining the scary growth of cases there? Is it just because they are close to the initial "red zone", or are there other regions? They have more cases alone than the whole regions of Veneto and Emilia-Romagna. Many people also left Lombardy, so should other regions expect a similar growth?
+A: (Borrelli) the adopted measures exist to see these bad consequences, if at all, in an attenuated way.
+The reality of Bergamo and Brescia is that there are many elderly people, who before the epidemic meant there was a very good quality of life, since it meant a long life expectancy even with comorbidities. BUt in this situation, it represents highened risk.
+We cannot make predictions, but on the basis of similar situations like in the original red zone, we can wish systematically adopted measures can lower this curve, and stop it from happening again in other provinces.
+The pattern of cases in these provinces is very bad, but we must keep in mind it still reflects the situation before the stricter measures after Lombardy was only a "yellow zone".
+The whole of Lombardy is a place with high circulation of people and goods, and this facilitates the epidemic, and it's complex to interrupt contacts... now it may be simpler since we "stopped everything", but the connectivity factor is one we have found important before.
+Adopting the same measures on the whole of the national territory should make it so these contacts stop, and the epidemic relents.
+Q: from the data........ people who died..... in hospital or at home? And, ....% of infected people are within health structures..... they ask to obtain tests.... what about their request?
+About the first question, which was about whether people died at home or hospital. Well, we have most indication of deaths in hospitals, and secondly in nursing homes. That's why you've heard many times from me about nursing homes.
+I'm not saying there are no deaths at home, but these are the data we have.
+About healthcare workers, our data say that a few of them have become positive and unfortunately even died, and obviously this, like I said in the press conference, well it's not about my individual friend, but all the people who are sacrificing themselves for this.
+But Borrelli is more qualified here to provide equipment to let these people make a better job.
+But unfortunately we're still in a phase where industrial conversion to product medical equipment has not yet occurred.
+(Borrelli) This work is not only being done by us at the CP, but the regions are also doing it, and there is mutual help, such as when we obtained masks from Brazil, or when we manage to "unlock" goods that are stopped at borders.
+This is like something we create every day, but then in the evening it gets partly undone, because some contracts fail to materialize, partly because of border closures.
+What we all expect is that our country can start production of PPEs ASAP. In the meanwhile, we'll face the situation with all the possible efforts, going around the world finding needed PPEs.
+(Brusaferro) Adding just one element: the scientific committee, but also this has been turned into directives by the government, is monitoring the healthcare workers who were exposed.
+Question from ADN Kronos: [inaudible] men of 69 years of age ...
+No, at the moment we are unable to provide this kind of answers. It's a data point we also are seeing, and when the sample of people tested grows, we will see. But this is the data we have today.
+[This seems like it would have been important]
+Q: the very high mortality rate, what do you attribute it to? The fact only a few of actual cases are tested, or does Italy have peculiar conditions?
+A: we are been asked these questions by the international scene too.
+One factor characterizing our populace is average age that is quite advanced.
+This type of population is the "favorite target" by this type of infection, because in people who are already comorbid, you add an element that makes the situation fatal.
+Certainly, our population's age justifies this data point. There is no evidence that the virus circulating here is any different from the one in other parts of the world.
+Virus sequencing is also showing this. Another consideration is that this is hitting some parts of the country the most where the average age is even higher.
+We have no reason today to state there is a different specificity than in other parts of the world.
+That said, individual files are letting us analyze all of this more specifically.
+[lost some part] A portion of people are positive but asymptomatic at home, but the policies adopted according to WHO guidance make the number of positives, or simply nontested but isolated people, like close contacts, who MUST respect the quarantine, it causes the denominator to be larger, so if we only do deaths/cases, this risks being overestimated.
+This is the scenario at the moment.
+Q: I had written a question that you partly already answered, but I'll try asking it again because I think it is important, also about respect to the people who die from this. So the question is, with respect to the data published today, too, how much can it be clarified whether a death is actually due to COVID-19, and not what the FDA itself called a "commuter disease", meaning it infects someone who already has health issues, and makes them critical. Is there any specific data point indicating the *real* mortality rate?
+A: (Brusaferro) I'm using the data I gave before, but I'll try to say this another way. Of course, every death is a defeat for us, for all of us who are trying to safeguard the most vulnerable people. (Journalist) I absolutely didn't mean to... (Brusaferro) No, it's okay. When the Institute reports data and says 48.5% of deaths had 3 or more comorbidities, and they peak between the ages of 80-89... those are people we call in a condition of fragility. Even a very small thing can tip the balance towards the end of their lives.
+An analogy can be made with events from climate, like heatwaves, or simply influenza, the most fragile people pay the toll the most. A small factor altering equilibrium is enough to change the person's course of life.
+In this case the infection is the straw that breaks the camel's back. It's people who were taking many medications... In Italy, thankfully, we live long, but that means the more fragile you are, the more even a small perturbation tips the balace.
+That our population is older than most is an objective fact. The infection hitting mostly the elderly is also an objective fact.
+This does not justify anything, we do mean to do anything possible to avoid even this "straw".
+Q: [missed] How and when will we be able to use the plasma from recovered people to cure the sick?
+Okay, this is one of the most interesting question in public healthcare. But to make use of this, we need some assumptions to be true: we must be able to dose the amount of antibodies in the plasma of recovered people. We all have a different antibody response, depending on our body and our immune system.
+Today we don't have any standardized techniques to do this, which is one of the main limitations. This doesn't mean we won't get it in the next few weeks, but, a very important thing is being able to dose antibodies. If we can do this, then we can select the plasma from people with a significant antibody response, and use it to help other people's immune response.
+I have trust our researchers, companies and research centers are working on this. Please let me not quantify what "shortly" means, but shortly we'll be able to understand and evaluate this option.
+Q: A question for both of you: we have two deadlines for now, 25 March for commercial activities, and 3 April for opening schools. Do you think these dates will be respected, or will the measures have to be continued, or be made even stronger, more stringent, which some government people have suggested?
+A: (Borrelli) It's soon to make a judgment and decide on the matter. My own evaluations from the indication I get also from the scientific committee, we will have to wait a few more days, maybe a week, to be able to see the trends consolidating. At this time I would not fixate on the future decisions. Our country has been good in making the right but also most adequate and most proportional decisions at each step.
+This is also what our PM Conte remarked. We must not take measures too much in advance.
+(Brusaferro) I can stress that we must measure the effects of the adopted measures, and we're doing it, but we're still at the start. We must keep in mind this epidemic concerns Italy in a very hard way, but it really concerns all of the EU, and all the world.
+The battle is about behavior, social distancing, etc, but we must manage this while measuring what's happening and "modulating" adopted measures.
+I will never get tired of saying that the efficacy of any measures goes through the understanding everyone must respect them, and if you test negative today, you could test positive tomorrow, so there is no shortcut.
+The tests for plasma antibodies are under validation by the WHO.
+But for now the tests aren't the decisive weapon at this point; it's our behaviors. The tests only give you a snapshot, "I'm negative now".
+We must keep in mind the newer tests have not been validated, but during the next weeks this will change, and so may the behaviors and choices.
+But today the battle is won with behavior.
+Q: [inaudible]
+A: Well, let us measure the effects. We can't change our laws every day. Just last week a very strict law was adopted, so let's this act before we make conclusions.
+Q: When governor Fontana says: "There is the chance we won't be able to provide cure to the sick", does this concern you? And when Mayor Gori says the number of dead is underestimated, as in Bergamo there is not even the chance to get a post-mortem test, does this concern you? How will this situation translate into the south of the country, since the "fleeting" may create a huge problem we do not wish to have?
+A: (Borrelli) We wouldn't be here sharing our recommendations and restrictive measures... yes, of course I'm concerned, but I'm also working, to make it so that particularly critical scenarios NOT occur in other areas of the countries.
+Even if some areas of the countries seem to act like it's something far away, something only concerning others... even if we live hundreds of kms from Lombardy, our behavior is essential.
+But I'm hopeful Italians understand this, so I'm worried, but working hard, and taking comfort from the fact that my colleagues, the authorities, volunteers... I have the feeling, as you may have, that the message is getting through, and we must all work to let that continue.
+The deaths in Bergamo... unfortunately, at this time the virus is very widely circulating in its province, and its population is very old, and this... is one of those elements: high circulation, elderly population, many comorbidities... They have outstanding medical structures there, but even when you have the best, when you're faced with those numbers and those types of people, it is very difficult to give more than you possibly can.
+Q: the case of Veneto, it appears to have a "performance" that's fairly good: I see the testing rate is very very high, 40000, which is similar to Lombardy but Lombardy has 10 times they cases. Veneto also has many more self-isolated patients than hospitalized. You said tests are not the deciding factor, so, why do you think Veneto is performing better than other regions?
+A: (Borrelli) One of the most important bets, aside from medical care (ICU beds, sub-ICU beds, which are being installed also in the Bergamo area), is management of people at home, who are either positive or close contacts of positivies.
+It's early today to compare different regions, but this is what I can recommend, and I'm sure all regions, be it Lombardy which is unfortunately the epicenter of this crisis, but also other regions we wish never to get into this situation, for all of them it is very important to trace contacts and people who are asymptomatic or mild, and those people MUST follow isolation rules.
+(Borrelli) I'll end with the communication that Campania will shortly make its data for today Available.
+Thank you and good evening.
