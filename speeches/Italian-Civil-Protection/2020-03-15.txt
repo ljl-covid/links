@@ -1,0 +1,67 @@
+https://www.youtube.com/watch?v=kLCGBBx6HMU&feature=youtu.be
+
+
+
+
+Today's data:
++369 recovered, 2335 total.
++2853 new cases, total 20603, of which 9268 are in self-isolation at home without symptoms or with mild symptoms, 1672 in ICU. The percentage is still 10% for ICU patients.
+Unfortunately today we registered 368 deaths.
+Concerning the "Cross" activity (exchange of patients between regions), today 6 more people have been transfered, for a total of 40 patients moved from Lombardy to other regions
+Today we have 3385 volunteers, who add to the police forces, etc.
+Pre-triage tends are increased by 7, for a total of 548. We also have 19 more pre-triage tents in prisons.
+We have distributed more than 10 million PPEs. We also planned distributing between 1.5 and 2 million surgical masks tomorrow, and 300000 FPP2.
+I'd like to finish this speech with a reminder to respect the rules: only go out for work, medical issues, groceries... limit travel and leaving your homes.
+I want to thank prof. Silvio Brusaferro who will talk now.
+(Brusaferro) as always, tonight we have put the infographic on our site synthesizing the epidemiological analysis of the data. It can be downloaded as a PDF from the ISS website.
+They are delayed compared to the civil protection data: our data are delayed due to coming from the regions and having more specific information about cases
+This is all for now.
+
+
+
+
+Q: Today we had the most new cases in a day, if i'm not mistaken. do you think we are reaching the peak? Secondly, what is the average age of ICU patients, and the percentage?
+A: Concerning the curves, we will not make statements about the current state, we are measuring it and we are seeing growths that are different by regions. It's clear that on a national basis, today the number is higher.
+We are monitoring it and in our weekly bulletin (Tuesday is next) we will have some more data, by region. In the same bulletin we'll have up to date data for ICU by age. Right now we have age group data for the deaths. Those still reflect the percentages we have seen in the past.
+We are systematically getting these data from the regions, to represent the situation as best as possible, and interpret trends, on a national level but first and foremost on a regional level, because we have realities where the virus circulation is very different.
+Again, on tuesdays and fridays we'll have a report on deaths, which is made up by a description of the situation and then a number of maps.
+Precisely because of our curves, other European countries are adopting the same measures as we have, which we now know are effective, and if other european countries adopt them, they can work in synergy.
+Q: For the first time, there are victims in Sardinia and Calabria. this reinforces the idea that contagion is at a national level now, not just northern regions...?
+A: Yes, we said this many time, it's a problem that's being faced by some areas of the countries, in a way i'd like to call heroic, but no part of the country can feel exempt and uninvolved
+I'm reiterating the request to adopt all the recommended measures, for everyone, even where in our maps it appears cases are limited
+If we don't, we won't be able to change the curve's shape, and we'll have many critical situations
+I also want to remind you of how all of the national territory, but in particular the places with much circulation, many hospitalized, many positives, these people are receiving help thanks to the extraordinary heroic efforts of all the professionals, doctors and volunteers that work to provide the best possible assistance, sometimes costing them their life
+like a colleague who i am tied to by a collaboration and friendship relationship, who has spent part of his life training others: Roberto Stella. and likewise a 118 operator who worked in a part of the country where the situation was particularly dire. it's thanks to professionals like them that our country is able to react even in areas where things are most critical.
+we must be aware that our behaviors can change the ways in which the curve happens
+Q: the president of Veneto, Zaia, said he wants to blanket test the whole population. but this goes against your recommendations, what of it? also, Lombardy governor Fontana has kept asking for creating a hospital in the world fair area. you have said that can't be done due to lack of equipment. how is that evolving?
+about tests, we are in an international context, we have continuing cooperation with interantional organizations, and as i said at the beginning, the fact other countries are replicating our behavior gives an idea of how important it is to act in coordination. i believe that today i can express on behalf of the scientific committee is what we have already expressed internationally.
+about the Milan world fair hospital, i want to repeat that the difficulties are known: equipment, and personnel. we are trying to solve both issues, as you know there will be a Council of Ministers tonight, which will pass a law enhancing healthcare resources available
+we are working to provide equipment, in particular ventilators for ICU, to Lombardy and other regions
+Q: still about the hospital, Bertolaso was appointed (as a commissioner?) - how do you feel about it?
+A: I'm very happy Bertolaso can help Lombardy and i'm happy he's on the team. i won't hide the fact i was trained by Bertolaso, and i think i've learned from him. we have a great relationship and i'll be happy to work with him.
+Q: can you clarify, to avoid panic, the issue of how the virus remains on surfaces? there are fake news circulating. about masks, i've noticed a lot of people running and even driving with masks and gloves. can you specify the correct use of those things?
+[Where is everyone getting masks?!]
+A: this has been with us since the epidemic started. we have experimental data on coronaviruses showing they can survive for a few hours, up to a few days, on different surfaces, if those surfaces aren't cleaned or sanitized
+or they simply aren't exposed to the elements such as rain and sun
+there was something circualting today about the virus's survival on street surfaces
+we must be aware this virus can stay around for hours to day
+but we also know the virus is very vulnerable to disinfectants
+the virus is transmitted partly via droplets, and partly via hand contact, so we always said we should frequently and correctly wash our hands. that's the best prevention wrt surface transmission
+but next to personal hygiene, environment hygiene is important. in public places there can be periodic disinfection, but with many people around, the best prevention is to wash your hands
+this is an extremely important element: it's true of this virus and any infection
+now about items that we bring home from outside... those are surfaces that must be contaminated in order to be dangerous. we cannot rule it out as a way of transmission, but it seems highly unlikely. foods are packaged rigorously according to EU directives, and i don't think this is a problem. the problem is the knowledge we must always provide adequate hygiene.
+we must also gauge the risk: driving alone in a car with gloves and a mask, i honestly think that based on our assumptions on trasmissions, this is not very justified
+on the other hand if you're in a crowded car, [...] a mask can be useful
+if you're jogging or running, aside from the fact with a mask you may have problems breathing, since masks are after all a bit of a barrier to breathing, the main thing to keep in mind is social distancing: if you're running alone in a field, it seems difficult to think they could infect anyone. on the other hand if you're running a marathon with others, sure, it could happen, but current laws forbid this kind of activity
+Q: i'd like to know how you explain the rise in deaths during the past 24 hours but also previous days. is it related to difficulties with ICUs in Lombardy? i am seeing in the past few days, there've been fewer ICU hospitalizations in Lombardy, likely because we've run out of beds.
+A: i think ICUs have been significantly enhanced. just like i won't express myself on the curve, i also won't express myself on the deaths, because we cannot yet characterize what's happening in a scientifically accurate way. at this time, unfortunately, we can only acknowledge this data, but i am unable to give it an evidence-based interprettaion
+about ICU beds, we are 40 people now working on lightening the load of Lombardy ICU units. we have many units in Italy and we're working to transfer patients to other regions and support Lombardy.
+I haven't had any news, and i think neither has anyone, about deaths due to Lombardy being unable to assist any patients... When Lombardy asks us to lighten their ICU load, we do it.
+[Some doctors in Lombardy have stated some rather different things.]
+Q: Since you said no region can consider itself exempt from the issue... a question about Puglia, since tomorrow the deaths doubled and the cases also, is this something you're particularly worried about?
+A: The answer to this was partly given previously... and partly, there is an issue with let's call them "migrations" during the past days, which inevitably make it easier for the virus to infect people in more areas.
+It's been about a week since the adoption of the early measures, and in the next few days we'll be able to understand better how these measures impact the curves.
+I believe there isn't a hiding place in our country where you can hide and be safe, and really, there isn't such a place even in all of Europe
+The only way to win this battle is by all behaving correctly. The data confirm that the most vulnerable people in our community can get the most appropriate care.
+Q: have you already located the best hotel structures to requisition?
+A: we have worked on this with our regional civil protection sections. our colleagues in the region have made a plan for requisitioning, and we will enact it if it will be necessary.
