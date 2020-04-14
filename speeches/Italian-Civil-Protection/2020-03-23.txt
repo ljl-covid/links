@@ -1,0 +1,91 @@
+(Borrelli) Good evening and thanks to Prof. Brusaferro, which is with me today from ISS.
+Today's bulletin:
++408 recoveries, for a total of 7423
++3780 new cases, for a total of 5418
+26522 of them are in self-isolation at home, with few symptoms, and 3204 are in ICU, which is 6% of positives. The others are in hospital.
+We sadly register +602 new deaths.
+About today's activities, we continued transferring, and moved +4 patients from Lombardy for a total of 68, of which 28 are COVID patients and 40 are other patients.
+I want to highlight that Germany received the first two patients who are leaving now, and they will be taking 8 positive patients, which highlights how important international solidarity is.
+Another type of solidarity I want to highlight is that of Italians, who sent us more than 25 million euros, in few days since we opened our bank account for donations, which will be for acquiring medical equipment.
+This will enhance our capacity to limit the epidemic.
+I also want to thanks the many countries that have contributed to our country's activities, particularly the Russian Federation, the PRC, Cuba, France and Germany, who provided us with manpower and equipment.
+This is the result of relationship that the Civil Protection system has, and I want to remind you that we have a relationship for several decades with Russia; we intervened in 2003 when there was a terror attacks, as well as in the 2010 fires.
+With many of these countries, we've exchanged protocols and experiences, and we continue providing assistance in case of emergency.
+I want to note that there was an earthquake in Croatia/Slovenia yesterday, and we are sending aid, which means our Civil Protection system is still working in solidarity even during this time.
+I'll end here and let Prof. Brusaferro speak.
+(Brusaferro). Good evening. Some considerations: you can find the infographic we make on a daily basis on our site, which synthesizes the distribution of cases as well as the epidemiology of what's happening, and agian, this bulletin is released twice a week.
+Today, we can say that, first, this is a very important week for us, to gauge the trends of the curves, which we are all watching with the utmost attention. This attention must also remind us that the highest contribution to those curves is from the highly infected northern regions, and our effort at this time is to prevent the curves in the south reproducing this trend.
+So when we look at Italy's data, we must look with attention: the highest contribution now is from Lombardy, Piedmont and Emilia-Romagna, but other regions, while being lower in numbers, represent a bet for us: not creating more of those curves there.
+Secondly, I'd like to mention the importance for our measures to be articulated as two broad parts: the first is the way we look, at every day, at treatments in hospitals, in ICUs especially, whcih are very strained in some regions, and we will never stop thanking all the medical personnel.
+But i'd like to emphasize the territorial aspect, or rather the household aspect: to let the curve, hopefully, as soon as possible, go down again, we definitely require social distancing measures, but can't avoid positives or presumed positive people HAVING to stay isolated to prevent passing on the infection.
+In the past few days, we always say that even tragic events like deaths or intensive care events, they happen after a certain amount of time: infection, then one week of symptoms, then this.
+What we must do today to avoid having in 15 or 20 days this large number of cases is to stop the positive people, and the suspected positives, from transmitting the disease.
+Without this, no ICU beds will ever be enough.
+They can only work if the numbers are limited somewhat.
+My third thought is that, as many of you mentioned, we started an appeal call, brief but extremely important, which tries to identify all potential technologies (IT, tele-medicine, etc) that may help support this.
+This is a very important event, and it's also a crucial passage to gather ideas and develop important technologies.
+It's important from the health aspect, but also the support in a difficult phase, where people are confined inside their homes, and there is a very important aspect about creating interconnections, social relationships even during this phase of limitation of movement.
+I think Borrelli would agree with me in the certainty that our Italian companies, our software designers, our ISPs, our young startups, will develop creatively on this challenge.
+(Borrelli) Thank you. Any questions?
+
+
+
+
+Q: today is the second day where both the new cases and deaths go down. How many days will it take to be able to speak of a trend? If the measures taken by the government, whcih the northern governors are criticizing as not harsh enough, but they are what the scientific committee asked for. Did you want more stringent ones?
+A: On trends, the more consecutive data points confirm a trend, the more confident we can be. But I am not able to confirm or deny that there is a trend right now. We can only take note of the fact that we are now seeing effects from two weeks ago.
+Restrictive measures taken more recently may reduce even more social interactions, but we'll see the effect of these later.
+The data we see today is certainly not from THOSE measures.
+I cannot speak in a manner... about the scientific committee, but they substantially claim that social distancing measures are the appropriate ones to reduce circulation of the virus. I'll say this transparently and openly.
+[And didn't answer.]
+Q: Prof Brusaferro said that the first thing to do is for symtpmatics to stop infecting others. Aside from what citizens can do, we know that many people are still moving from north to south etc... can we adopt the "Korean method"? GPS, tracking of people? But also, shouldn't we test contacts of possible positives?
+A: We are in a new situation, and we can see that also from how all other countries, G7 G8 countries too, are reacting in similar though distinct ways.
+We may adopt multiple solutions; we are all studying them, as well as the evolution in what is happening, while keeping in mind quality of life is important.
+We must have, on the one hand, rigorous social distancing, but on the other, keep it sustainable for people.
+We must study and contextualize all the options: we have certain juridical options in our country, certain degree of freedoms, and so we must evaluate solutions that match our values: on the one hand, keep them up, on the other, guarantee the utmost efficacy of social distancing.
+This is the challenge, and I think we can find solutions, there needs to be some "Italian genius" in finding solutions that are fit for this.
+I wanted to emphasize in my introduction this is an extremely important moment, that with our research, technology, companies, we can find and offer opportunities in an exceptional situation.
+Q: Again for the professor: WHO is talking about an acceleratic pandemic. We want to understand how this concerns us as well, and if it may cause further measures? And about this mysterious drug, there's confusion on what Fujifilm claims, we have a few doubts, there needs to be an accurate trial, and how could this drug be used in Italy?
+A: as to the second question, our AIFA pharma agency has a very high profile, and they immediately showed tranparently all the experimentations we're doing.
+There are many proposals for experimentation, not just that drug, some of these will hopefully show efficacy, while others will inevitably not prove superior to placebo.
+Without getting into any single drugs, some information on anti-hypertensive drugs, including from research done in Italy, we are starting to get valuable information on them.
+It's important to experiment, to be transparent in it (everyone can go to the AIFA site and see it), and share this with the rest of the world.
+Italian experimentation is leading now in the G8 context, and hopefully we can provide useful therapeutic information to other countries to.
+So as to your Q: we've said Italy is leading, somewhat unfortunately, we have this sitaution... other European countries would follow, and they are following now. The curves will vary depending on their ability to adopt restrictive measures.
+The mechanisms of this infection involve having to socially distance.
+But when these epidemics hit countries with tens of million people, the curve can only grow.
+If it hits the US, the UK, etc... it's obvious that, globally, the numbers will rise.
+As you also noted, it's clear that this "slip" of curves brings us back to how global this challenge is:
+we may end up getting over our curve, while other countries are still in the middle of it.
+China is facing this now: they expect a flattening of their curve, but must provide for mechanisms to avoid being infected back.
+The best solution, long-term, to avoid further infection is having an immune population.
+Slowing down the curves means providing people with adequate medical help, but also giving time to our companies and industry to provide therapies and ultimately vaccines, to stop the virus completely, by immunizing the world population, not just the Italian population.
+Q: Good evening. Thanks for keeping up this democratic space where we can ask questions, thank you. About the south: we are 15 days after the infamoous 7-8 March when people panicked and moved to other regions, and the numbers there are still somewhat limited. What's your analysis of the growth of cases there? And at what stage are the healthcare structures especially in Puglia, Calabria and Sicily? Have ICU beds have time to be enhanced for the 
+emergency? And about the "call", are you working with the Privacy Authority?
+Q: tarting from the last thing, yes, the Ministers have agreed on this action, and the Privacy Authority will help with some solutions, less so with others.
+The call to solution is open, available on the web, and if you're talking... yes, they're on the site of the Ministry for Innovation.
+Privacy is important, and it is involved, but it will depends on the product we eventually select.
+The South is the other thing. The south, today, is showing data where the curve is not peaking yet. That's comforting on the one hand, but on the other hand, I must express my worry, I saw local newspapers from the south today, and they showed streets full of people, situations that we just don't see in other contexts.
+I don't know if those were isolated episodes, I just saw some pictures... can't be a reliable witness. However, if rigorous behaviors, unified in the whole of the countries, not north or south or center or islands, we're all on the same boat...
+I believe there can be a concrete possibility, and this is our bet on adopting country-wide measures, that curves won't start going up.
+But if we aren't careful and strict, well, the epidemic won't change just due to latitude.
+We are the deciders of how the curve will go in the next days.
+It is not a geography-specific problem, the virus doesn't care about latitude, it just infects from person to person.
+In any region, with must increase social distance to avoid transmission.
+These data must not reassure us, they must not give us delusions, we must be careful and rigorous.
+The curve represents in a timely manner our own behaviors.
+About the healthcare structures in the south, they are continuously enhancing ICU and sub-ICU sections, and every day the result improves, thanks to the work of emergency commissioner Arcuri, who is also acquiring ventilators, which are the limiting factor.
+We are adding new beds in pulmonology and intensive care units.
+We will empower the south with abilities to contrast the virus.
+Q: in the light of the latest news of people infected in the Roma camp in Rome... does the Civil Protection have a plan to prevent contagion in those places?
+A: The Rome Civil Protection and the region of Latium are working on this: we said there is a plan for homeless people, and for people who don't have a place to stay quarantined in, and we are available to support any local initiative to provide more of these places.
+Q: vice-Minister Sileri today highlighted that people die from COVID not just in ICU beds, but also, without being ABLE to reach ICU beds, and his proposal is to have the people with symptoms not in self-isolation at home, but in specialized structures where they can be properly assisted. This may not be possible given the numbers, but can we possibly provide better protection for people with symptoms who must stay home and cannot always talk to a 
+doctor? Do you have data on people who died at HOME from the virus?
+A: About the second thing, the data point we have is about people who died after testing positive. Whether they died at home, in a nursing home or in hospital, anyone who dies after a positive test ends in the COVID deaths number.
+Q: is there data on how many victims died without reaching a hospital?
+A: No, personally I don't have that data, but we are working with ISTAT to cross data, as data from homes are harder to obtain, it's more complex, but we're working on it.
+On the other part, vice-minister Sileri highlighted an important problem: since the beginning, the Civil Protection provided structures where anyone who cannot stay home, or the situation is critical, where these people can do their quarantine or isolation.
+This is an important element. The other thing is that in the regions where there is high virus circulation, we are creating solutions of tele-medicine to monitor some parameters, and stay in contact with these people, so that even when the symptoms are mild, they can be monitored and quickly "intercepted" if they become more serious.
+We are doing this based on the experience of the northern regions, but there is an effort from everybody, doctors, nurses, technology people, so that a set of tool can be useful.
+Hospitals are important, but this type of thing must also work well. Our battle is won on the territory, not just in hospitals.
+The big battle is to intercept people before they get as bad as having to be in hospital.
+(Borrelli) Thanks, and good evening.
