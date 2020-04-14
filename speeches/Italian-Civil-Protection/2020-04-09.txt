@@ -1,0 +1,60 @@
+Notes on Italy's daily Civil Protection press conference at https://www.youtube.com/watch?v=POKaxAI3egY on April 9
+
+
+
+Good evening. Sorry for being late, but I'm coming back now from Milan where we went along with the new medical task force.
+[Missed some figures that were provided here]
+ICU patients are -88 compared to yesterday.
+28399 are hospitalized with symptoms, -86.
+64877 are self-isolating at home (67%).
+The number of people self-isolating is growing, while the number of people in ICU or hospitalized is going down.
++610 deaths, +1979 recoveries, +4204 new cases.
+We now have more than 116 million euro in donations. These are being used for buying PPEs and ventilators.
+We have 17018 volunteers working in this emergency.
+The third section of the medical task force has gone to Lombardy, others are in some of the other hardest-hit regions.
+There are 345 doctors supplementing local ones, including some coming from international aid.
+Now I will ask Prof. Locatelli to speak.
+(Locatelli) Thank you Dr Borrelli, good evening.
+In the past 5 days, 4 had showed a negative change in hospitalized patients, i.e. fewer patients, and 5 days out of 5 we have had a decrease in ICU patients.
+This shows there is a reduction on healthcare structures. This should also been seen in a perspective that should also be remembered when we talk about a "phase 2": optimizing medical structures, including for non-COVID patients, will be fundamental.
+Something else that deserves highlight: despite today's high number of deaths, there are 10 regions, mainly in the Center and South, as well as Bozen, where this number is less than 10.
+This can be attributed to the efficacy of the restrictive measures as well as the capabilities of the healthcare system.
+I have an opportunity to say how we have proceeded in serology studies, as we've had a good teleconference with the delegates from all the regions, to share the rationale of what will be a sort of modus operandi to start this study, on which there is broad consent.
+The role of AIFA, the Italian pharmacology agency (and let me wish director Nicola Magrini to get well soon), has included evaluating and approving 12 studies. Other studies are undergoing a second evaluation, after further details were requested.
+In case of drug shortage, AIFA acted timely to prevent that. We are managing a time of experimentation on therapies that must be monitored attentively to check for potential side-effects, in a disease whose pathogenesis, especially in respiratory efficiency, is yet to be fully defined.
+Having read on some websites that report violations of the restrictions, I'd like to say that each one of us must rigorously respect the restrictive measures.
+Questions now.
+
+
+
+Q: Looking at phase 2, which regions do you consider less at risk? The ones with the most infections or the onest with the least? And what are the field of work more and less at risk?
+A: (Locatelli) You touched on two very important points. I'll start with the second question: on two extremes, assistants in dentistry study are an example of a category strongly exposed to risk, while those working on forestry, including to avoid fires next summer, which may be overlooked, are a category with a markedly lower infection risk.
+As to the first question, there are some opposite interpretations: obviously, in a region with high incidence of the epidemic, the risk of infection is higher; conversely, though, in a region where the incidence is lower, we can suspect that the number of people who have no antibodies is higher, and so there can be a higher proportion of susceptible subjects.
+As my personal interpretation, the policies that will be chosen by the government will have to act more on a national basis than a regional basis.
+[inaudible]
+Q: Again on serology tests, on April 3 you said we'd have validated tests within a few days, that could be used on a large national scale. Has the population sample been determined, are the criteria ready?
+A: (Locatelli) I'll provide two answers, one is about the sampling size, which will be chosen, also thanks to ISTAT's directions, considering gender, six age groups, job profiles, and regional differences.
+On serology, I will repeat what I've said before: a test will be chosen with high sensitivity and high specificity, and that can be applied to the entire national territory, as the study will be conducted country-wide, with a large contribution from the regions.
+It will also need to be a test that can be rapidly performed, to be able to process a large amount of sample in a short time, to complete this epidemiological evaluation (seroprevalance) in a short timeframe.
+Selection of the most appropriate tests will happen based on what I've described.
+Q: On a different subject, we've talked a lot lately about re-opening school next year: online teaching, social distancing...? But we can rule out social distancing in kindergartens. Can we already rule out being able to re-open these structures next September, or is there something that can be done, even for very young children? Would it be appropriate to use tablets and phones even at those ages, when it's normally not recommended?
+Q: (Locatelli) Personally, I think it's a bit premature to envision choices for September. We should limit the timeframe. As my personal wish, I hope that this problem will not be a problem in September, partly because we're doing everything to reduce R0.
+The choice on how realistic it is to stop the school year entirely is a prerogative of the Minister of Education and the Council of Ministers. I don't want to sound like I don't even try to give you an answer, though: in our scenarios, we have evaluated the imact of re-opening schools, and after we give the results of that to the government, I'm sure the most appropriate choices will be made.
+Q: I think we're starting to worry a lot about deaths among doctors and nurses, which I believe it's now 103 doctors and about 30 nurses. In your opinion, as your personal impression, have we reached a stage where something wrong has been made, the appropriate PPEs have not been provided? After all, they are those people we expect to help, not to get infected. Another question is, you told us about the decrease in numbers during the past few days: if it 
+were up to you, would you relax the restrictive measures shortly?
+A: As to the first question, you said the number of dead doctors and nurses is "unimaginable" [I did not transcribe that passage]... In my opinion, NO health worker should have died to assist the COVID-19 patients. You know I'm also a clinician, so I'm involved personally. Those who assist infectious patients must be placed in the condition, both in terms of PPEs and of professional training (a scenario like the one we're living is completely new to us, and there was a sort of learning process), in practice, both of these things must be optimized to protect healthcare workers. Substantially, that's the reason why there is a policy of leaving FFP3 masks to the doctors who handle mechanical ventilation, as they need priority, while surgical masks must be provided to workers who are not in intensive care.
+If something was handled suboptimally, we'll certainly look at it with the due attention. We don't want a sacrifice of lives like this to happen again. I want to tell all my collegues that there is currently the utmost attention in trying to protect them.
+[inaudible]
+The restrictive measures, I mentioned this before but I'll go back to it... I believe it's extremely important that at this time, everyone do what they are called to do. Members of the scientific committee provide orientation, then the government has the duty of making political choices. This relationship with a clear distinction of roles has been very clear in my opinion. I can say clearly that everything concerning policies of restarting non-essential production activities will have to be done extremely cautiously, to avoid encountering a second wave.
+The Minister of Health has also stated this, and personally I support this position fully. As I said many times, the economy must remain sustainable, but protection citizens' health has priority.
+Q: Despite the restrictive measures, there are thousands of new infections every day; it happens in hospitals, in homes, and in front of supermarkets... is there not a way to improve online shopping? Supermarket sites are often unusable at this time. Couldn't the government provide incentives to improve the situation?
+A: (Borrelli) These sites were already growing before the coronavirus appeared. This market is expanding. What we've done as the Civil Protection has been supporting those who just can't go shopping, so our volunteers provide deliveries to those who need it. I also think many of these sites have created arrangements, including with our volunteers, to improve deliveries in general. We can provide all the support we're asked for, but out volunteers are busy 
+in a number of activities.
+Q: About supermarket opening hours...?
+A: Those are regulated, and this will be re-evaluated for the future.
+Q: About nursing homes, I'd like to ask Prof. Locatelli, they've been some of the structures with the most clusters; what will be done to protect the elderly during "phase 2"? A new decree has also requested police checks at second home, especially now we're nearing Easter...
+Q: About enhancing checks, I'd like to thank the Minister of Interior and the police; we've always said we must not lower our guard, or think we've "won our battle" against the virus. We must continue acting responsibly, limiting travel, and this can only be guaranteed with adequate police checks. I'm happy these have been enhanced, and the regions themselves wanted it, especially involving second homes.
+(Locatelli) Thanks for the question on nursing home, which is an especially important subject to me. The elderly are our historical memory. The nursing homes themselves, aside from what happened at Milan's Pio Albergo Trivulzio, have been some of the places which have had the most deaths, as many elder people with co-morbidities live there, and this correlates with the most deaths, as more than 80% of the deaths we've had were over 70 years of age.
+We've done a lot to limit contagion in a closed community such as a nursing home. I'll try listing some of the measures that will have to be continued, including in phase 2: providing adequate PPEs to the workers there, noticing immediately any signs of potential infection on the workers, including people working on food delivery, laundry, etc... sadly I must mention that we'll have to continue limiting visits by relatives, which are a risk.
+It's clear that any of this cannot be changed during phase 2. There can be no exception, if anything we'll have to pay even more attention.
+(Borrelli) Thank you.
