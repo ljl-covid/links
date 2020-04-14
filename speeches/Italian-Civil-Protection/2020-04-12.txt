@@ -1,0 +1,34 @@
+(Borrelli) Thanks to Luca Richeldi for being with me today
+Total current positive: 102253, +1984 since yesterday.
+ICUs are going down, 3343, -38, and hospitalized are 27847, -297.
+710063 (69%) are self-isolating.
++431 deaths.
+34211 recoveries, +1677.
+The Province of Bozen recalculated recoveries, and realized there is 110 fewer people than stated yesterday.
++4092 new positives, for a total of 156362 cases, which includes both positives, and deaths+recoveries.
+We have 19220 volunteers today, the highest recorded.
+Last thing I wanted to say is that I signed an ordnance for assisting and monitoring migrants rescued at sea. This was necessary after the Ministers declared our ports as "not safe", so we talked to the Ministry of Interior and we have a commissioner handling this, with the additional help of the Red Cross. This commissioner will find ships or land structures to gather the migrants.
+(Prof. Richeldi) I'll be brief, since the data are fortunately clear. I would like to caution about interpreting the number of positives: that is highly dependent on the number of tests made. We know that we having more and more testing, which is obviously useful for epidemiology, but it also makes the number of new positives less understandable.
+The data is comforting but not so clear. There are, however, three other data points that are more reliable: hospitalizations, which have been going down now for a full week, and today we've had the highest reduction, with -297. The other data is on ICU, which is critical since ICU beds are very limited in number and have the highest mortality. Today is the 9th day with ICU admissions going down. This is now a very reliable trend.
+It means we've been able to reduce the pressure on the critical part of our healthcare system thanks to our behaviors.
+Third thing, which is sad, and even sadder during these holidays... today we've had the least deaths since a long time. It is still a very high number, sadly, but we should look at trends, and together with the other data points I highlighted, it really shows the restrictive measures are having an impact.
+(Borrelli) Thanks, questions now?
+
+
+
+
+Q: I'd like some clarification on supporting the migrants, also by the Civil Protection.
+A: We must guarantee quarantine and isolation for the migrants coming ashore. This is why structures will be created on land, but ships will also be employed. After quarantine is over, migrants will go through the ordinary processes.
+Q: We have some requests from the people who are on land handling the migrants, and they request PPEs and other important equipment.
+A: Absolutely, there will be personnel assisting migrants and the Red Cross is a structure that does have personnel and the rules on PPEs will be respected.
+Q: A question for Richeldi: some newspapers mentioned an opinion by an anatomopathologist, [something about COVID-19 causing coagulation in the lungs and a drug to stop it] can we believe this?
+A: This news comes from the fact there have been the first autopsies. The findings are common in many pneumonias. We don't know yet if coagulation phenomena are more common with this virus. I encourage everyone to visit AIFA's site, where they analyze the data that have emerges and recommends and encourages submitting studies on this. Let's trust the scientific method. Anti-coagulants could be used, their usefulness is plausible, but it requires evidence.
+Q: How "real" are the numbers on deaths? Do they include people who have died but never got tested, like the gynecologist who died a few days ago, or this man who was tested positive but sent home to self-isolate, then he was found dead, but the coroner wrote "cardiac arrest" as the cause of death?
+A: (Borrelli) I think I know something more than the Professor here so I will answer. The data are based on people who were tested positive. If they die, they will be counted as deaths.
+Q: So people who died while having COVID symptoms but weren't tested do not get into this data?
+A: People who are not clinically considered positive are not counted among the deaths. It would be hard to include them without knowing whether or not they are positive.
+Q: About the task force, can you clarify the task force's true goals? We know it's generally about "reopening" the country, economically and socially? Also about nursing homes, they seem to "escape" any check, so there are some legal actions already starting. What is the problem with nursing home in terms of counting cases and deaths, and more importantly, what can we do about them? Initially, the advice was NOT to wear masks, to avoid scaring the patients. I hope courts will clarify this aspects.
+A: There was the first task force meeting yesterday. Commissioner Arcuri as well as I are part of that task force. Its goal is to figure out how to start "phase 2", with an ample vision on restarting economic and social activities. We are working and at some point we'll bring a choice of proposals that will be evaluated by the Council of Ministers.
+A: (Richeldi) About nursing homes, I won't get into the legal issues, which are not my realm... we knew from the start they would have been hotspots for the virus, and even more so, mortality rate. People who are there require assistane by definition, they are vulnerable by definition, not just to the coronavirus but to a range of infection. This is why the ISS monitored them from the start, and published two versions of a document that's available to the scientific commission for monitoring nursing homes specifically, and have a plan for controlling contagion within that.
+Aside from what has already happened, what will happen in the future is important. In Latium, some nursing homes have been declared as "red zones" under quarantine. We have a plan for controlling infection within nursing homes, and nursing homes, together with households, will be among the places most at risk in the near future.
+(Borrelli) Thank you and have a good evening.
