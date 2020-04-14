@@ -1,0 +1,69 @@
+[Not watching the actual press conference, which i don't know where to get. This is a news report based on it]
+recovered: +181, 1439
+italy civil protection
+current cases: 14955, +2116
+deaths: +250
+total cases: 17660
+1328 are in ICU, +175
+this last one is... bad
+Borrelli stated again that 10% of positives are in ICU
+6201 people are in self-isolation
+
+[Live translation starts here] ... don't stop donating blood, there are no compelling reasons to, just arrange it in advance with donation centers.
+Second, i'd like to recommend something we previously reiterated: it's very important for people who are at home as contacts of a positive individual, or those who are in self-quarantine due to being positive, these people must act rigorously to avoid infecting other people who live in the same home.
+Another thing i'm announcing is that by this evening, the ISS will publish an epidemiological bulletin, with trends at a provincial, regional and national level
+it is not constantly updated, unlike the civil protection numbers, because its goal is to grasp the trends
+this bulletin will always be published on tuesdays and fridays
+at other times, there is an infograph always available in italian and english
+finally, a consideration on mortality: we continue reporting data that are progressively getting clearer, also thanks to our hospital directions, which despite their workload are sending us files allowing a detail analysis
+the data we have as of today is that the average death age is 80.3, and only 25.8% are female
+the average age of death is significantly higher than the average date of positives
+there is a peak of deaths between 80-89 yo
+unfortunately, lethality, which is the ratio of dead among ill, is obviously higher in >80yo people
+the majority of these people have multiple comorbidities: only 2 dead have not been shown to have comorbidities
+the most frequent categories are people with 3+ comorbidities
+the average age of ICU patients who die is lower, on average, than the general population. the most common symptoms in these are dyspnea and fever
+a comment on the two dead who are younger than 40: one of these people was 39 and had neoplasia, while another, also 39, had some comorbidity factors, diabetes and obesity
+dunnp, lately men have gone down and women have gone up in smoking, but still, yeah
+he said something about mortality that i did not understand
+finally, i would again like to remind everyone who has any symptoms to stay home
+on our sites you can find the technical reports and epidemic curves, which are the most up to date data we have available
+questions
+
+
+
+
+Q: about the drug that was experimented with in Naples, did that experimentation continue? do you have any data on it?
+A: i can report that in these past few hours, AIFA, the italian drug agency, had a scientific committee meeting, which analyzed available evidence, and i believe they are deliberating on the possibility to start experimentations to understand better.
+we must always remember that we should start from an understanding of the mechanism of action. the drugs we're considering now are existing drugs for other pathologies, and before we can define them specifically as COVID-19 drugs, we need clinical trials.
+Q: how's it that in italy, compared to other countries, deaths are still reported without a distinction between deaths "due to" and deaths "with"?
+A: i believe the data we publish aren't significantly different from other countries', but as we unfortunately predicted, this is a global epidemic, and in other countries, too, the curve is rising
+mortality, as we said other times, is determined by a set of pathologies, and the pathologies we have identified are among the most common, concerning elderly fragile patients, who already have intrinsic risks. in these, a respiratory tract infection can more easily result in death.
+so the distinction, intentionally, when we talked about people under 40, we analyzed them and found that they did have other pathologies, so the COVID-19 infection has likely made a complicated situation more complicated.
+in the next few days, as we acquire all the files, we'll analyze further, but the data i've already shown you show something we knew: the people at risk are elderly and sick
+Q: government counsel has talked about a possible rise of cases in the center and south of Italy in these coming days. what kind of support do you envision for hospitals there?
+A: i believe it's likely we can expect cases this weekend, and part of these cases are due to some behaviors that happened in the past weekends. let's remember that the average incubation time is between 4 and 7 days
+so the pictures media showed of crowds of people gathering at sea beaches, or ski resport, or pubs, those are places where the virus likely circulated, and part of those people will likely become symptomatic in the next few days
+we are sorry to say this, because we are always recommending to be responsible. we must also admit that in the past few days, most italians have realized how these behaviors are counterproductive, and must be avoided
+we'll see the curve, we hope the events will prove us wrong.
+we're working with the region since the beginning, and for several days, for enhancing ICUs and sub-ICUs: we are acquiring new material, especially ventilators, so we must work to enhance our structures and we are doing it
+Q: since this is an international crisis, not just italian, is there coordination between italian civil protection and civil protections of nearby countries, and their authorities? switzerland, austria, slovenia, and spain, which today declared a state of emergency?
+A: we do have a mechanism to share information in emergencies, which is the European Civil Protection mechanism. we have asked for support in that setting, we are in contact with them. we must say that in other circumstances, the system has worked better and there has been more cooperation.
+since COVID is contagious, we must cooperate, but really we haven't had a direct cooperation or connection.
+Q: about the important of donating blood, since the chinese aircraft with supplies arrived yesterday, and we know there are medical supplies are contained, and there is a team of Chinese doctors, among which there are frontline experiences, how will their experiences help?
+(bit of an incoherent question)
+A: first i'd like to thank our Chinese colleagues for this support. we are indeed facing a global crisis, so no country can consider itself exempt, independent of the number of cases they have. in the world of science, public health and research, a global crisis means we only have one way to face it effectively: share data, share experiences, share best practices, and adapt them to new contets
+the presente of these Chinese colleagues should be a great opportunity for that, to share evidence and experiences and how to adapt them to different social-cultural contexts
+Q: i'd like some more information about the cases in Campania: i believe it's two patients who have been experimented on with this anti-arthritis drug, and those were in serious conditions, but not ventilated. how did this work out?
+A: i can only restate what i said previously, considering i am not a clinicial: the rationale for using an active substance, like the one our colleagues used there and i think in some other hospitals too, is a rationale that tackles the immune reaction that the infection triggers
+this drug is registered for a different pathology as of now, but the mechanism of action could prove useful in clinical manifestations of this coronavirus
+having tested it on some subject is an early indication, but scientifically, we need some better defined trials, with a significant sample of subjects, and AIFA is moving in this direction. it's a promise and an opportunity, that must be explored and studied.
+Q: in the report coming with the draft law on economic measures, there are estimates of a peak around 20 March, with rises of even 2000 patients a day. can you confirm this estimate?
+[I hope he said 2000, not 20000, not sure]
+A: the models mathematicians and epidemiologists work with keep some factors into account: R0, which is a measure that indicates how much every positive person will infect others.
+another important value is the average time between becoming infected and becoming symptomatic
+if we put these two values together, we can come up with various models, and as these values change, the peaks also change
+our strategy is to lower this R0 value as much as possible, to avoid peaks, because the criticality in this sitaution is the number of people who go to hospitals
+this is the most critical thing to face, but if the peak is lower, this will allow to provide the best of assistance
+flattening the curve will help the system not collapsing, while a very high peak could put the healthcare system in trouble
+these scenarios are very influenced by our ability to comply with recommended measures
