@@ -1,0 +1,111 @@
+Italy's daily Civil Protection press conference at https://www.youtube.com/watch?v=tOKRldnHsZk on April 15
+
+
+
+
+(Borrelli) Good evening. Thanks to our LIS interpreter, and prof. Ranieri Guerra, who represents the WHO.
+105418 people are currently positive, +1127.
+Hospital pressure keeps going down: we have 3079 people in ICU, -107, while those hospitalized with symptoms are 27643, -368.
+Most positives are self-isolating, 74696 (71%).
+Unfortunately we have +578 deaths.
+Total recoveries are 38092, +962.
+12118 volunteers are working with us today, together with the armed forces etc.
+Pre-triage tents are 835, and 151 are in prisons.
+we have 125 million euro in donation, of which more than 31 million have already been spent for PPEs and ventilators.
+Tomorrow the third medical task force will be leaving, 71 doctors who will be employed in the regions of Lombardy, Emilia-Romagna, etc.
+At this time we have more than 200 doctors and 200 nurses in our task force.
+Professor, would you like to add something?
+[inaudible]
+Okay, questions then?
+
+
+
+
+Q: My question is about supplies of masks, and the app we're all waiting for, and serology tests... for "phase 2", is there a connection to the supplies we'll need to have? Arcuri's website says 31 million masks have been distributed in a week. But if we go out again, we'll need 50 million masks per day, not 30 per week. Is there a threshold for starting "phase 2"?
+A: This is both a qualitative and quantitative discussion. Quantitatively, we have some prerequisites, the system must be able to prevent circulation of the virus and guarantee safety at work and in families, as well as on public transport. Qualitatively, it depends on what we actually plan. The WHO's recommendation is still valid for people who are just walking in the street and don't need to go into crowds: using masks for that is still not recommended.
+What changes is the recommendation about groups of people in confined indoors environments.
+So the ability of commercial structures, for instance, of guaranteeing distancing will matter. Supplies will be calculated on this basis.
+So the reasoning depends on when and what we will decide to reopening: that will determine supplies needed, not vice versa.
+Q: [inaudible]
+Q: But we do have masks. If we distribute 30 million masks a week, we must also, conversely, consider that we cannot open workplaces, etc...
+A: I don't think this is the case. We will work to adapt supplies and target them to an amount that depends on this. There are also more specifics: how many masks per person? That depends on the work type, there are people under particular stress who cannot just have one mask per day.
+A: So 50 million per day is the minimum?
+A: I'll say again, that depends on what we do exactly. Commissioner Arcuri will need exact information on what the target for purchasing and supplying is going to be.
+Q: A question about Lombardy for Dr. Guerra: some hours ago, your representatives from the regions asked the government to re-open production activities on May 4. China is the country that had to face the pandemic first, and you've always encouraged us to look at China to understand how the epidemic would have panned out, and what would be organized to get past it. Wuhan reopened on April 8, when they reached 0 deaths and 0 positives, i.e. 76 days after lockdown. Even, EVEN, if we had enacted the same restrictive measures for Lombardy, if I count 76 days, Lombardy could only re-open on May 24 or 25. Now my question is, does this reasoning make sense?
+A: Sorry if I make a bit of a joke: in 1600, during plague, things were kept closed for 6 months. But things change, we learn new notions, and at our latitude and longitude we have now an ability to evaluate risk. That's essential to understand what can be reopened and under what prerequisites: we don't reopen because we "must" or because it's vital for economics... It IS vital, for sure, but we must understand how to mitigate risk to make it move towards zero.
+We are trying to make this evaluation in an extremely exact way, keeping not just a single work activity into account, but also the whole supply chain, transports, and the other things that need to be re-opened.
+I believe Lombardy will be the "pilot" of what happens in the other regions: it must be extremely cautious and use extreme attention to evaluate this risk and all protocols to make the risk zero, i.e. evaluate the health status of workers, determine their age group's risk, understand their immunity or susceptibility to infection...
+For safety on the workplace we must arrange with the employers, and we must also talk to the Unions about individual responsibility of each worker, who must certainly be provided with all necessary PPEs, but also know that behaviors must be employed to be protected.
+Once again, China showed us that the solution to this emergency lies in social distancing and quarantine. These are measures that were adopted in each country, but you won't find any two countries that adopted exactly the same procedures. Of course, if you go with the army and "flamethrowers", things happen very quickly. If you rely on individual responsibility, there is a different timeframe, and this is why we are still plateauing and haven't reached a flattening, even though signs are in that direction.
+Q: Prof. Guerra, you may be the best person to answer this: of all worldwide numbers, the one that seems most dodgy to me is the recoveries. Some examples: yesterday we had 37000 recoveries on 104000 active cases. How can it be that, aside from Iran, in Spain, they have 88000 total cases with 70000 recoveries; in Germany they have 56000 active cases and 72000 recoveries. Is there differences in calculations, or are WHO protocols not followed, or are they simply treated better elsewhere?
+A: I doubt that. Our healthcare system is top-notch. But how this can be related to comorbidities and chronic disease people have is another matter: let's realize that this virus hit everyone but mostly some existing vulnerable classes. A review of what is happening must keep the physical persons we have in mind. We must analyze the profile of the sick, the recovered, and the deceased.
+Q: But Spain and Germany aren't like China, they don't have a population as young as China... Spain has more than twice as many recovered than Italy!
+A: Sure, if you let me finish, the other thing is the denominator on the population, not the denominator of tested cases, but the "true" one.
+The discussion on advanced age of the Italian population compared to Spain or Germany is another reality: Spanish and German elderly have a type of, excuse me, institutional management, that is different from ours.
+When an elderly person gets into a nursing home in Germany, they are much more isolated from their family than in Italy.
+Aside from that, you know, I sincerely believe that when we will have all the true data from all countries, we'll see a normalization of curves, they will be similar: this is not a "patriotic" virus, it hits everyone in the same way, if anything there can only be a different starting time.
+[I don't believe Spain's "profile" is so different from Italy's.]
+Q: Some clarification on serology? Will the "quick tests" be absolutely necessarily for evaluating safety in "phase 2"? And secondly we hear of an initial sample of 150000 people: how will they be chosen, regionally...? And third, which characteristics will have to be respected by this sample?
+A: I'll give you my personal opinion: the best safety levels for workers must include an evaluation of immunity. I believe this is a duty to the worker, but also a fundamental factor on gaining productivity again. When we have a percentage of workers that are already immune (at least for some time, because the matter is not yet scientifically solved, we just don't know about long-term immunity... the trend makes us think it's lasting immunity, but how 
+lasting, we don't know). So it's not just the serology test to understand immunity, but we also perform PCR tests on the ones who test negative on antibodies, if they are to go back to work.
+This is fundamental for adequate surveillance on the workplace.
+The second point is about sampling: this sero-prevalence analysis will let us understand how much this virus circulated in our towns. Northern regions will probably show a different reality than southerns, but this will also change by age groups and occupation.
+So the sample that was selected with cooperation from ISTAT kept all these factors in mind, obviously including geography.
+As to the last part of your question, the characteristics of testing: this is a matter of scientific and technological research. I've said that "quick tests" are being worked on, and those on peripheral blood are not yet replicable enough, while those on vein blood are mostly reliable; there are 4 or 5 tests that can be acceptable and will be evaluated by Commissioner Arcuri.
+They will need to have at least 90-95% specificity and sensitivity.
+We don't want false positives, but we especially don't want false negatives, so we want the closest possible to 100%.
+We can allow us some false negatives.
+We cannot afford to expose "false positive" people to a risk. So the test will need to respond to these needs, but the scenario is changing daily, and at some stage we'll have to just pick the best test, the "golden standard" at a given time.
+There is no perfect test. There is no 100% and 100%. We have approximations above 95%, so I'll say if we can adopt that type of test with that kind of certainty, we'll have done a fine job.
+A: A question about nursing homes: we understood this virus doesn't pick people but hits the elderly the hardest. So please, why did this vulnerable category not get adequately protected, and nurses have even been told NOT to wear masks to avoid "scaring the patients", and why have COVID patients not even been separated from healthy patients?
+Deaths are very many, the numbers are very high, and behind these numbers are people who died scared and alone.
+Finally, courts are investigating; but in the meanwhile, can we give some answers to the relatives of victims?
+I ask this not only as a journalist to provide information, but if I may, also as a citizen.
+Q: Patients in nursing home, deaths in nursing homes, is a topic that became prominent a while ago. The ISS itself is investigating thoroughly on the causes of deaths, but this investigation has not yet ended. We can refer to it when it is from an epidemiology point of view.
+As a national department that supports the regional healthcare workers, we are sending our nurses and our doctors in the nursing homes.
+The emergency on the territory is about territorial medicine, not hospitals. This is what the health directors of the various regions also stated to me.
+If Prof. Guerra wants to add anything...
+(Guerra) Yes, look, firstly, I will reiterate what Dr Borrelli said: the matter of non-hospital structures is fundamental, and in the systematic review that must emerge from this epidemic, it will be a revision on the adequacy not just to healthcare standards, but also the routes for providing assistance. It's not just about deciding on a number of beds and how many square maters each patient must have.
+The "massacre" we have seen must be a circumstance not to be wasted: we must rethink the whole system. This is fundamental. I cannot answer your question because I am honestly part of an agency who is asking the government the very same thing.
+There are standards of infection prevention in hospitals and similar structures that must become much, much more binding.
+Italy, with Turkey and Greece, was one of the worst countries in terms of antibiotic resistance: this was already an indicator of a, let's say, not particularly good practices for prevention of infection in healthcare structure.
+At the end of the day, the responsibility for healthcare is on the regions, not the central government.
+The other point, which which I agree completely, is we must reinforce, long-term, the whole territorial management of healthcare.
+It's true we have excellent hospital structures, but we must also have excellent territorial structures.
+We must handle things with GPs as a part of an active surveillance system.
+The second phase in this epidemic will inevitably need to have a territorial standard of prevention that will be much higher than it is now.
+You have focused a lot on the cuts on hospital beds and funding. I am actually not contesting the cuts, because in some situations, revision of expense and optimization of resources just had to be done, or else the system would not be sustainable.
+This has been done with capability and intelligence. But the crucial point is that the ability of the country to prevent disease has gone down, on assistance to the sick, on comorbidities... this is a country that is getting older, with chronic diseases.
+At the same time, a prevention department and a network that is able to provide vaccinations in a very widespread way is the requisite before we can think about "re-openings".
+If we have no structure that is able to immediately trace suspects, bring diagnostics into people's homes, and isolate immediately any suspected infected, we won't be doing a good job... to be very clear and explicit.
+I think the Minister has this very clear and is providing strong reinforcement, a big investment on territorial structures.
+Let me say something more: this must be done now, it's important to do it now; we are not yet in flu season, but we'll get there in October, with schools reopening... We must think about vaccinations against influenza and pneumococcal, for all elderly and children and anyone who can be a vector, because those will be confounding factors for COVID.
+This country had the least vaccination percentage among healthcare working in all of Europe. This is another bad tradition that must definitely be changed.
+I think health workers are obviously conscious of the issue at this point, and they will realize they need to be put in the condition to work with the most protection available.
+Let's not forget that much in this epidemic could be prevented and corrected before a huge wave comes that overwhelms hospitals.
+Q: Every time Trump attacks the WHO, you are here at these press conferences. I don't know if it's coincidental. Concretely, what does the US withdrawing funding from the WHO changing? In the short term and the long? My other question is: the situation in Lombardy and Milan, despite mitigation, are probably even spiking more compared to other regions... My doubt is that maybe too many work activities have actually remained open, with self-certifications, and exceptions... So the most productive and dynamic regions are still paying the highest toll. I find it hard to believe that the continued infections are just due to people jogging or shopping.
+A: (Laughter) Yes, well, every time there is a "muscle show" by someone, here I come, trying to reason.
+First, we must see if this threat actually becomes reality.
+Let me say something: there is a misunderstanding on self-control of the WHO. We have two control and government organs, which are both made up of member states. The WHO doesn't have decisional autonomy on what it wants to do: it can only decide based on what the World Health Assembly and the Executive Board indicate as priority, and that's decided by the states, those are the goals and benchmarks that the WHO gets measured on.
+There are governance elements within the WHO that are extremely specific, both on financial aspects and results.
+These are things that must be understood, or one thinks that the General Director can just declare a pandemic when he decides. Not so. There is a procedure, there is an emergency committee that evaluates things based on available information and evidence, and based on the informational system that members states make available.
+Indications are provided on this basis. Now: the United States are the main contributor not just of economic resources, but also personnel! 25 people from the CDC are working at the WHO, integrated with the other personnel. It's a technical and scientific cooperation that never ends. We are in continuous contact with the American NIH about drugs, vaccines, research and so on...
+So you know, one thing is what the administrator can release to the press, or request in terms of evaluations... The same happened with Ebola: asking an independent commission to go and see what actually happened, and improve the Agency's abilities, as we all want... that's not taboo. It was done in the past, but from my point of view it's secondary, as from my point of view, the Agency's actions are transparent and seen by everyone.
+Ask yourselves a qusetion: what would have happened had the WHO not existed?
+Q: But aren't you worried about the US suspending...?
+A: Look, honestly, I don't think this can happen in the medium term. They can suspend while they wait to evaluate what happened: our doors are open to anyone who wants to check. If the Trump administration wants to send people to work with us and understand what happened and what will happen, that's not a problem, we do it every day.
+There are declarations of "friendship", so to say, from other countries, that show that our Agency has not really had a fall in reputation. The UK donated us £200 million just the other day.
+So let's be careful what we say: the US itself is part of our internal decisional process. They gave a number of indications, predominatly on research and development, which were immediately absorbed and handled by the Agency.
+Q: And on Lombardy and Milan...?
+A: This is complex. That is a complicated region, with high mobility and high production capabilities, a region with interpersonal relationships that are twice as much as other regions... it's hard to stop the "lung" of a region that feeds essential activities that were identified by the government as such.
+What I mean is that healthcare is one essential activity that wasn't closed and which is huge in Lombardy. Then police forces... you know what the essential activities are, and obviously none of that has been stopped, or the country wouldn't survive.
+Aside from that, Lombardy provided some information on mobility of population: it reached as much as 45%, IIRC, during some particular days. That is frankly too much.
+What I heard from the administration of Lombardy wrt reminding the population to maintain social distancing, which I understand is very hard, especially now that we "see some light", the weather changes, Spring is here... it's very hard to compel people.
+Q: So is it some lack of discipline from Milanese and Lombards?
+A: Not discipline... let's not say that... but a degree of intolerance, yes, but again, it's partly due to the fact that essential services that must be continued do entail a degree of mobility, and if you look at the productive "structure" of that region, it's inevitably.
+Q: So there are too many essential things that are not under lockdown?
+A: Yes, there are, and they must continue. This makes the curve not slow down as much as we want. But this is inevitable if we want to keep the country alive... at least... again, a little more discipline must be demanded, especially now in this crucial phase.
+Q: Prof. Guerra, again on serology, will the same type of test be used in all regions, or will they use different authorized types?
+A: We're attempting to have only one test, to guarantee reproducibility and standards. If we use different tests with different standards, comparisons become difficult, and comparability is fundamental. I wish that the test adopted will be just one, and I trust it will be.
+Once the situation has stabilized, and we can screen people for authorization to work and to see who is immune, that will depend on each administration, as long as minimum quality standards of the test are respected.
+(Borrelli) Okay, thanks, that's it for today, have a good evening.
