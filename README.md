@@ -156,6 +156,7 @@ You can read and follow [this self-triage tool](https://www.statnews.com/2020/03
 * [Preliminary evidence of association with temperature](https://www.medrxiv.org/content/10.1101/2020.03.18.20036731v1), where a correlation with lower temperatures is found but not conclusively and not very significantly
 * [Paper on demographics and intergenerational contact in Italy and South Korea](https://www.medrxiv.org/content/10.1101/2020.03.15.20036293v1.full.pdf) and their influence on COVID-19 epidemics
 * [Fighting COVID-19: the heterogeneous transmission thesis](http://www.math.cmu.edu/~wes/covid.html), arguing that vulnerable people should be isolated while younger people at low risk and fit to work should be allowed work and socialization to limit total deaths
+* [High Contagiousness and Rapid Spread of Severe Acute Respiratory Syndrome Coronavirus 2](https://wwwnc.cdc.gov/eid/article/26/7/20-0282_article?deliveryName=USCDC_333-DM25287), a modelling based on Chinese case data, predicting an R0 between 3.8 and 8.9, hence much higher than previously suggested 2.2–2.7
 
 ## Models
 
