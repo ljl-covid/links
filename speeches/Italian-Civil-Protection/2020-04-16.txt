@@ -1,0 +1,77 @@
+Italy daily Civil Protection press conference at https://www.youtube.com/watch?v=uoh3Ho0kh0k on April 16
+
+
+
+
+(Borrelli) Silvio Brusaferro, the president of ISS, is here with us. Good evening.
+Currently positive: 106607, +1139
+We have 2936 patients in ICU, -143; 26896 are hospitalized, -750
+It's the least ICU taken up since March 21
+Most people are self-isolating at home, 76778 (72%)
+The percentage in ICU is 3%.
+We have +525 new deaths, while recoveries are 40174(?), +2072.
+61000 tests were made today.
+We have 17523 volunteers now.
+Pre-triage tents are 835 in hospitals, 151 in prisons.
+Donations have reached 126 million euro, 34 million of which were spent for purchasing PPEs and ventilators.
+Important news today: one of the patients who had been transferred to Germany has come back to Italy thanks to a transfer organized by the Lombary Crisis Unit.
+The patients is in good conditions and needs no ICU now.
+Our medical task force has had to be rescheduled partly, 11 doctors have left but the rest will be leaving tomorrow.
+(Brusaferro) Good evening. Some short comments, then we can proceed with questions.
+As we've seen for a few days, we're in a downwards trends, with curves that are delayed in time.
+Tomorrow at 12 there will be a conference at our Institute, which will complement the daily appointment we have here.
+I want to thank our epidemiologists, who "feed" these data we provide.
+(Borrelli) Any questions now?
+
+
+
+
+Q: Prof. Brusaferro, I'd like to talk about serology tests again. Various regions, and companies, are getting organized in a haphazard way. How does the scientific committee plan to manage this sampling, and have a common standard?
+A: This topic seems to "torment" us every day. I'll try to clarify the state of the art. These tests try to find antibodies against the virus in people's blood. There are many products now on the market, and the number is rising, which is a good thing, but at the same time they have only existed since recently, and evaluation of their predictive value, specificity and sensitivity, which are basically terms that mean to make sure whether someone is actually positive or negative, without false results...
+This is a work in progress, and today we cannot provide "immunity passports". If someone is positive they must still get a PCR test to verify existence of viral RNA. This will change with new knowledge in the future.
+At this time what is being done centrally is a seroprevalence study that aims to determine how many people have come with contact with the virus, in a more accurate way than existing estimates, to try to understand the amount of circulation.
+There are varying estimates on it, but we estimate that over 90% of people have NOT come in contact with the virus, although it varies among regions, and so they ARE susceptible to infection.
+So if we are not very careful with adopting recommendations, we may lose some of our results. We are seeing now that even in the hardest-hit areas, the numbers are going down. We must keep this data in time.
+90% is obviously an approximate estimate, it will be less in Lombardy, but probably just 85%... in other regions it may be 95%... which means the vast majority are susceptible.
+Herd immunity would mean at least 70% of the population having come in contact with the virus, which is a target that is VERY far from us now.
+There isn't a golden standard for these tests now.
+Q: So I seem to understand that the serology tests being organized to provide an "immunity passport" have no value according to the ISS?
+A: I can say that today we have no grounds to provide such a passport. There is simply no scientific grounds. If we do get that in the future, anyway, the amount of positives we have will have a strong influence on our choices.
+Q: In the last few hours there have been controversies about re-opening things on May 4. What is your position?
+A: Positions are never individual ones, the whole scientific committee is analyzing the various options and evaluating the impact of various measures. Our aim is to keep R0 below 1, as if it went up above 1 the epidemic would continue.
+We are reasoning on a "mix" of measures that will allow releasing some while not making R0 spike up above 1.
+Obviously it will be a mix that includes restrictive measures but also the ability to monitor and trace positives even before they reach hospitals, but where they live and work.
+(Borrelli) As for myself, I can say these analyses are in progress, and I want to wait the results of them before expressing a judgment.
+Q: According to a study of the Hong Kong University on Nature, one person can infect other people 2 or 3 days before symptoms manifest. Do you know about this study? You've always told us publicly that taking the temperature was a discriminant factor for being able to enter workplaces. Would this change?
+A: No. If you see the latest notes by the Ministry of Health, they underline the necessity of quickly tracing contacts. Probability of infection is maximum during symptoms, while before symptoms it's lower. So today the recommendation is to make efforts on contact tracing, maybe with apps and technology in the future.
+There isn't a contradiction: the probability of exposure is the most when there are symptoms, but contacts are traced also for the days before symptoms, and they are quarantined.
+Q: Today the Italian Society of General Medicine sent the government a letter asking to start mass vaccination for influenza to avoid an overlap between flu and this virus. What do you think of this? And a vice-minister said that when we have a COVID-19 vaccine, it will have to be compulsory. What do you think?
+A: Flu vaccination will be even more important next year. The call to especially the vulnerable categories is to get protected against influenza. I as well as all institution can only be firmly convinced that we must make it so the majority of people are covered against the influenza risk. So the answer is yes, and I know the Minister is already active on this.
+As to the second question, it's a topic... we will have to reason in order to protect the population. The 90% number is mentioned varies across the countries, but in some places it may be more, so it's actually an optimistic number; to cover the population we must be able to adminiter millions of doses of the vaccine.
+We need to have a vaccine that works, and find a way to obtain it for millions, in order to actually get herd immunity, and systematically contain this epidemic among all latitudes and age groups.
+Q: Looking at today's data, one months since "the emergency" we count over 20000 deaths. My point is tied to ICU use. There has been an incredible effort on organizing this, let's call it, remedy. But looking at the data, despite this huge effort, there are about 3000 people in ICU, but the deaths are about 600 a day, many of which in nursing home... so if I interpret the tables and numbers, there's something tied to the relationship, correlation, between 
+not getting into ICU, and death. Is there difficulties?
+A: Mortality is an important topic in Italy, certainly. A correlation like you suspect, I have no elements right now to determine that, but we know the vast majority... fortunately a small part of the population does get into ICU, but since we have a large number of infected, it's still many people. ICU has been enhanced, especially in the most affected areas. I think my collegues who triaged patients did it based on the seriousness of disease.
+[inaudible]
+A: I think people have a triage path. Within this triage, my colleagues allocate respiratory support depending on seriousness of symptoms. At this time, fortunately, we have some "free space" in ICU beds. People are allocated on a principle of appropriateness now: those who need it get that treatment.
+[inaudible]
+A: Well we may talk about nursing home tomorrow in a more detailed way, also to make explicit the type of monitoring we're doing, since it's been a recurring question... at this time, monitoring is by means of questionnaires and interviews with nursing home personnel.
+You already saw the first two reports, the next one will be similar if more detailed; it tries to look at mortality over time, while knowing that in some cases tests have been performed, while in other cases there have been COVID-like symptoms but without a test.
+We are trying to understand this phenomenon, also with the help of ISTAT, putting data on mortality together with data on mortality from the municipalities. When we must put together data on a national scale, they have to be harmonized. As soon as we have consolidated data we'll try to provide them.
+Q: Today we see "two Italies": Piedmont and Lombardy, unlike other regions, keep going up. Today is the first time positives in Piedmont are more than Emilia-Romagna. Given this, I find Lombardy's desire to re-open contradictory. But also, why do we still have these numbers? What didn't work?
+A: I would not say it didn't work. Looking at the numbers, even in Lombardy and Piedmont there is a downward trend. Of course, in those regions the virus circulated much more. We often talks about "three Italies" in our Friday press conference: the south and the islands have very low levels of transmission; the center has an intermediate level, which requires surveillance; and in the northern regions there is a downward trend but we're talking about a much greater amount of people.
+We must consider this data and we are seeing a reduction but we must consider that in those regions, as fewer sick people used to get hospital care, today we have more ability to test more on the territory, which clearly finds even milder cases, and that is a good thing, it means intercepting them early, and avoid symptomatically exposing others to the infection, and we can quarantine them together with their contact.
+I'll wait a few more days to look at these regions, while keeping population density in mind.
+Q: Two questions, on the short and the long terms. Parks and children going out: I have looked at all the measures taken in other countries, and Italy has the most restrictive ones. After May 4, will it be feasible to talk about "family walks", or will this only happen in "phase 3" or even later? And as to next summer, will people be able to go to beaches, are you working on that, or will it be another difficult issues with close contacts?
+A: These are very complex questions. I'd start with a consideration: we are getting out of a difficult period, and the data, as your colleague was saying, show us the virus is still circulating in some areas; in other areas "it is working", but that also means the amount of susceptible people is even higher! So we must be careful in any measures we take.
+We must avoid a resurgence of the virus. We've seen the effects, and we must avoid them as much as possible. To do this we must do things gradually, finding some specific sectors where we can release some restrictions but only while also monitoring them, so that we can understand if we are actually able to keep R0 below the threshold.
+So, we must be cautious, we still have virus circulation, we have reached the important goal of getting R0 below 1, but we must keep that over time.
+That said, aside from COVID, there is another part of health that is important: physical exercise, movement... we must be able to tackle those things in a way that reduces risk. Children are important, but we also have family structures in Italy where children are in contact with their grandparents a lot.
+In a family structure like the Italian one, even though children don't get sick seriously, it may become a boomerang.
+It's hard to predict anything about summer holidays. I'll make a bit of a joke: if you climb in the Dolomites, alone, your COVID risk will be rather low. On the other hand if you're in a crowd, in a supermarket, that's... that's the deciding factor. We'll have to organize our lives keeping the factors that determine viral circulation into account.
+Q: On self-isolation numbers: they're growing, thankfully, but you told us here that contagion actually happens within households, and that's the "new clusters". So on tests, can we not widen the target? We get a lot of people complaining they are waiting to get tested, but not getting tested. What answers can we give to people who are still waiting for a test due to having a sick relative, or similar?
+A: One data point: I believe we're the country that's doing the most tests. Compare with other European countries: we're testing a lot, and day after day the number of tests is growing, today it was 61000, a number of tests that's really high. In an initial phase where we had fewer tests, while also having very many people crowding hospitals, tests were a deciding factor to give those people an answer. Today we can apply tests to other people, but as 
+important as tests are, quarantine is at least as important: people in contact with someone under quarantine must automatically be considered a close contact and quarantined.
+Then, various medical entities, territorial entities, I believe they're rapidly moving towards handling this scenario.
+By the data I have, we're moving towards that, and the Ministry itself is pushing towards this for "phase 2".
+(Borrelli) Okay. Thanks everyone, and good evening.
