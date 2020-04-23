@@ -143,6 +143,7 @@ You can read and follow [this self-triage tool](https://www.statnews.com/2020/03
 * [A review of current possible treatments](https://blogs.sciencemag.org/pipeline/archives/2020/03/19/coronavirus-some-clinical-trial-data) discussing clinical trials or lack thereof
 * [Pharmacologic Treatments for Coronavirus Disease 2019 (COVID-19)](https://jamanetwork.com/journals/jama/fullarticle/2764727), a review analyzing various proposed treatments and concluding there is as of yet no reliable evidence-based treatment
 * [Nafamostat](https://www.u-tokyo.ac.jp/focus/en/articles/z0508_00083.html)
+* [New data on Gilead’s remdesivir, released by accident, show no benefit for coronavirus patients. Company still sees reason for hope](https://www.cnbc.com/2020/04/23/gileads-remdesivir-data-show-no-benefit-for-coronavirus-patients-company-still-sees-reason-for-hope.html), claims a CNBC article based on a paper mistakenly published on the WHO website, which responds that the data is incomplete and the study was terminated early, so no conclusions can be made from it
 
 ## Epidemiology
 
