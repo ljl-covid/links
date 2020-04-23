@@ -213,6 +213,7 @@ There is mixed advice on the use of masks by the general public, and the advice 
 * [WHO reverses course on use of face masks by the general public and home-made masks](https://www.scmp.com/news/china/article/3078407/coronavirus-world-health-organisation-reverses-course-now-supports), an article by the SCMP which details changing attitudes towards face masks by the WHO and various governments
 * [Some doctors moving away from ventilators for virus patients](https://medicalxpress.com/news/2020-04-doctors-ventilators-virus-patients.html), reports MedicalXpress, amid shortage of ventilators
 * [Blood tests show 14% of people are now immune to covid-19 in one town in Germany](https://www.technologyreview.com/2020/04/09/999015/blood-tests-show-15-of-people-are-now-immune-to-covid-19-in-one-town-in-germany/) using antibody tests on a sample of 500 people
+* [New York antibody study estimates 13.9% of residents have had the coronavirus, Gov. Cuomo says](https://www.cnbc.com/2020/04/23/new-york-antibody-study-estimates-13point9percent-of-residents-have-had-the-coronavirus-cuomo-says.html), meaning at least 2.7 million New Yorkers have been infected as of April 23 ago, if this sampling of people going to grocery stores and shopping loations is representative
 
 # Italy
 
