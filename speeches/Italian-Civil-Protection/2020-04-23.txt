@@ -1,0 +1,73 @@
+Notes on the Italian Civil Protection press conference of April 23 at https://www.youtube.com/watch?v=Em0Ww-DF7yc
+
+
+
+
+(Borrelli) Today's numbers are particularly comforting.
+For the first time the number of recoveries is higher than the number of new cases.
+Total cases: 189973, +2646
+Recoveries: 57576, +3033
+Current positives: 106848, -851
+2267 are in ICU, -117; 22871 are hospitalized with symptoms, -934
+Most patients are self-isolating: 81710 (76%)
++464 deaths
+In the table we provide to the press and upload to our site we now include data on the people who were tested.
+In total, 1579909 tests performed, +66568.
+We have 130 million euro in donations, 71 million of which were spent as of today for purchasing PPE and ventilators.
+There are 17250 volunteers working with us today.
+Pre-triage tents are 885 in total.
+[More numbers about the "calls" for task forces]
+(Locatelli) Thank you Dr Borrelli and good evening from me as well. As always, a thought about the numbers: there are three points that I think deserve reflecting on.
+Since April 5, with the exception of one day, we've had a reduction in the number of hospitalized patients, and since April 3, we've had a constant reduction in ICUs.
+We have an R that is now between 0.5 and 0.7. Last time I was here, if you remember, I said it was 0.8, which confirms a reduction.
+As to clinical studies, AIFA has evaluated 114, 26 of which have been approved, and 13 activated. This documents the extraordinary work they did.
+It was a rigorous approach, as 51 proposals were actually rejected, so even during emergencies it's possible to have both efficient evaluation and rigor.
+The same rigor is used to allocate drugs to hospital to best manage the patients. Clearly, it's easier now compared to the times of most pressure, but their work should be acknowledged.
+There is what I call a virtuous competition for an effective vaccine. Today we have evidence of 2 potential vaccines in the US, one in England, one in Germany and one in China being in an advanced stage of development, although it must be said clearly that "advanced" doesn't mean they'll be commercialized shortly.
+We have no evidence of how lasting immunity will be on people who are vaccined. In some scenarios, immunological protection against the proteins the virus needs may be limited in time, which implies needing to consider strategies of re-vaccination until we reach full elimination of this epidemic.
+It will be months before we can consider commercialization of these vaccines, and we will need full scientific cooperation when considering duration of immunization.
+(Borrelli) Your questions now.
+
+
+
+
+Q: Since in "phase 2" we'll still need social distancing, and serology tests will be only used to "map" the epidemic, and they are not 100% effective... would you still recommend testing citizens as widely as possible during "phase 2", or would you not for the reasons mentioned, also considering they cost about €100?
+And I'm a bit curious: is it true that one of the issues with "re-opening" football is that the ball itself may be a vector?
+A: As to the second question, that is easy: I don't think that can represent a vector for infection of the people involved.
+As to the important question your asked about tests: a first consideration is that serology tests must be identified and validated, which is what the Commission nominated by Commissioner Arcuri will be doing in the coming hours; secondly, people who turn out to have antibodies against SARS-CoV-2 have come into contact with the virus, but whether or not they are infectious must be determined using the swab test to find viral RNA.
+Third thing, which goes back to what I said on vaccines: if there are antibodies against the viral proteins that doesn't necessarily mean there is protective immunity, as they could be non-neutralizing antibodies, but most importantly, we don't know how long they stay around for. So someone who is positive tomorrow may not stay positive in September. Only analyses on the seroprevalence study that will be done on our population will give us this type of information.
+So let's start validating some tests, and then go on from there, and evaluate whether and how to conduct these analyses.
+Q: When do you think the serology tests will be done, before or after May 4? I think the timing matters here. And as to masks, the pharmacies are requesting to have a government-fixed price. Don't you think that before relaxing the lockdownm, the price of masks should be mandated?
+A: Thank you for the very specific questions you always ask. I hope the answers can be useful to the public. The seroprevalence study will not start or end in a timeframe that can allow using it to decide the initial choices of "phase 2". Those have been substantially considered, and the connected guidelines suggested, based on the epidemiological data and work profiles (considering proximity and level gathering) with the goal of finding production sectors 
+whose re-opening would let us to predict the R will stay below 1 as appropriate, so as to avoid re-creating a pressure on hospitals and ICU.
+[Additional considerations]
+We expect that around 15% of the workers in the sectors we are considering re-opening use public transport, and that is part of our evaluation.
+The process must be gradual, with the contribution or rather pre-requisite of contact tracing and quick spotting of emerging clusters.
+Choices have been formulated on this large set of parameters, for the institutions to eventually decide.
+The choice of recommending that school remain closed was dictated by the fact our models predicted that re-opening of schools at the same time as restarting production activities would result in getting R above 1, and not even just by a small amount.
+(Borrelli) On the price of masks, we know they're a precious good now, and in markets, when offer is limited but request skyrockets, the price goes up. So it's inevitable that we must determine a maximum threshold for their price, to avoid speculation on it.
+(Locatelli) As a citizen, I'll add that speculation of that sort is absolutely despicable.
+Q: Is there statistics by class and job type on which people have been infected with COVID?
+A: Thanks for the very interesting question which gives me the chance to state that this kind of evaluation is not available at the moment... they are available for healthcare workers for now. Once they are available they will be able to complement my prior answer.
+Q: According to ISTAT data, between February 22 and April 4 there were about 7000 deaths in Lombardy in addition to the ones reported by the Civil Protection. Why are estimates so different? Where did these additional people die? And then a question many citizens ask: what is the scientific committee envisioning for movement across regions, especially where contagion is low?
+A: (Borrelli) The data point on deaths that we provide only includes those who tested positive. Clearly, in ISTAT's data there are also people who died without having tested positive.
+(Locatelli) As the PM said, the date of May 4 is not an "everybody free to go" again; it must be gradual, there will be a relaxing of restriction on intra-regional movement, not inter-regional movement, with of course some exceptions for people who live in a region but work in another one.
+Q: The first COVID patients in Italy were hospitalized on 28 January, but they only completed their rehabilitation now. So in the more severe cases, what are we looking at in terms of rehabilitation?
+A: (Locatelli) I always tend to thank for questions, but I'm thanking you doubly as much for this one, as this gives me the chance to congratulate the workers at Spallanzani hospital, where they did an incredible job with those two Chinese tourists who were actually part of a vulnerable age group. Despite that, they eventually recovered successfully.
+But the second thought, the more important one, is that analysis of outcomes in terms of organ functionality is crucial, and there will have to be studies and prospective evaluations to understand what the outcomes (or, hopefully, lack of outcome or marginal outcomes) on the most affected organs.
+Any evaluation on respiratory function, using spirometry or image diagnostics, will be crucial, but the same goes for people who had cardiac damage during their acute phase. It's all important information that we must obtain.
+I just cited the Spallanzani hospital and I'll cite it again due to news that was recently on newspapers: SARS-CoV-2 has been identified in tears and in the conjunctiva. This helps us define the profile of virus clearing in various biological sections, and it can also provide useful information for ophthalmologists, who will need to protect themselves.
+Q: One question about method: I think the whole country is waiting to know what "phase 2" will entail... Corriere della Sera journalists were able to read 17 slides that the Task Force showed to the PM. Does the Task Force intend to communicate with us, or will we have to wait for the PM to speak? What about publishing the scientific reports? I'm afraid they will remain secret.
+Also, as a researcher as well as a journalist, I suggested to the Head of Department that it might be worth adding profiles like a psychologist, a sociologist and a statistician to the scientific committee. The PM added those to the Task Force, but not the scientific committee. Also, just 4 were women, and I wonder what the reports say about that, but anyway, most of the components of these task force are economists. Isn't there a risk that we'll now only consider the economic sector, while before we only considered the healthcare sector?
+And last question: looking at the worst data in this emergency, on a total of almost 26000 deaths, 80% are in four regions: Lombardy, Emilia, Piedmont, Liguria, with 20000 deaths. So my question is, given we have regions like Sicily with only 200 deaths, did the task force think about the fact that re-opening should happen by geographical areas?
+A: (Borrelli) The spokesperson for the Task Force is Colao, but the task force must make proposals for the government, for the PM, and I think it's their duty to do that. Since we are still formulating hypotheses, I don't think it's right to divulge anything.
+As to the makeup of the committee, I think it's well assorted: there are experts on psychology, and I want to remind you that the psychological aspect is central, the Ministry of Health itself thinks that, and very shortly there will be a center of psychological support with the cooperation of four volunteer organizations, and other experts that can provide psychological support to anyone.
+(Locatelli) The scientific committee is still meeting on a daily basis and working hard to provide answers to questions we receive from the world of politics, and the government and the ministers in particular.
+What you're saying about the task force's makeup is true, but there is a dialogue between the task force and the scientific committee, to complement their spheres of expertise.
+Whether or not to extend measures or not is also evaluated while considering impact on children and elderly, and you will have scientific evidence, I believe, of this attention based on what the PM will decide for the future.
+But as to your question on divulging information: because we are bound to a promise of non-disclosure, we think divulging anything without going through the proper routes, like Dr Borrelli and the Minister of Health, any of that is not appropriate.
+Q: Do you have any evidence of this study coming from France, according to which the virus would infect a bacterium called Prevotella, which is found in the intestines, and this would ignite inflammation to the lungs.
+A: (Locatelli) I have no information on this particular study, but I can share something that my North American friends and colleagues have shared with us: before I was concerned with SARS-CoV-2, I was working mainly on stem cell transplants... my North American colleagues tell us that in a certain amount of their patients after bone marrow transplants, they had evidence of enhance graft-vs-host issues, which shows us that the inflammatory storm plays an 
+important role in physio-pathology.
+As to the study you mention, the first thing I'd do is see if these bacteria have on their surface that receptor that is the one that can bind to SARS-CoV-2 spike proteins.
+(Borrelli) Okay, if there are no more questions, thanks and have a good evening.
