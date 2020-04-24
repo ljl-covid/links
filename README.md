@@ -169,7 +169,7 @@ You can read and follow [this self-triage tool](https://www.statnews.com/2020/03
 
 ## Masks
 
-There is mixed advice on the use of masks by the general public, and the advice from political authorities appears to be changing in various parts of the world dependingon the availability of masks and the state of the pandemic. Here are some scientific articles or papers trying to determine the usefulness of masks, and behaviors such as re-use of masks.
+There is mixed advice on the use of masks by the general public, and the advice from political authorities appears to be changing in various parts of the world depending on the availability of masks and the state of the pandemic. Here are some scientific articles or papers trying to determine the usefulness of masks, and behaviors such as re-use of masks.
 
 * [Rational use of face masks in the COVID-19 pandemic](https://www.thelancet.com/journals/lanres/article/PIIS2213-2600(20)30134-X/fulltext), a review of mask-related advice from authorities published on The Lancet
 * [BBC: Coronavirus Expert panel to assess face mask use by public](https://www.bbc.com/news/science-environment-52126735) covers the WHO "reopening discussion" on the matter, and scientific literature on the aerosolization of cough and sneezes
@@ -179,6 +179,7 @@ There is mixed advice on the use of masks by the general public, and the advice 
 * [Professional and Home-Made Face Masks Reduce Exposure to Respiratory Infections among the General Population](https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0002618), a study on the effectiveness of various types of masks on protecting from respiratory infections
 * [Papers about effectiveness of basic masks #masks4all](https://docs.google.com/document/d/1HLrm0pqBN_5bdyysOeoOBX4pt4oFDBhsC_jpblXpNtQ/preview#heading=h.88sn77t4huar) a collection of scientific literature on the use of masks, though itself clearly biased in favor of using them
 * [Addressing COVID-19 mask shortages](https://m.box.com/shared_item/https%3A%2F%2Fstanfordmedicine.box.com%2Fv%2Fcovid19-PPE-1-1), a paper published at Stanford evaluating the filtering efficacy of many non-standard types of masks, and effective way to disinfect and re-use single-use masks
+* [Effect of various decontamination procedures on disposable N95 mask integrity and SARS-CoV-2 infectivity](https://www.medrxiv.org/content/10.1101/2020.04.11.20062331v1), testing vaporized hydrogen peroxide, ultraviolet light, and 70% ethanol for decontamination of N95 masks while assessing the viability of any remaining virus and the integrity of the masks after decontamination
 
 ## Prior research
 
