@@ -156,6 +156,7 @@ You can read and follow [this self-triage tool](https://www.statnews.com/2020/03
 
 ## Epidemiology
 
+* [EuroMoMo](https://www.euromomo.eu/graphs-and-maps/), publishing bulletins and detailed graphs of excess mortality in European countries
 * [BlueTrace](https://bluetrace.io/), a proposed protocol with open-source reference implementation as smartphone apps to enhance contact tracing internationally
 * [Imperial College's comparison of containment vs mitigation strategies](https://www.imperial.ac.uk/media/imperial-college/medicine/sph/ide/gida-fellowships/Imperial-College-COVID19-NPI-modelling-16-03-2020.pdf) mainly with a view on the UK and US
 * [Effective containment explains subexponential growth in recent confirmed COVID-19 cases in China](https://science.sciencemag.org/content/early/2020/04/07/science.abb4557.full), published on 8 April 2020
