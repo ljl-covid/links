@@ -153,6 +153,7 @@ You can read and follow [this self-triage tool](https://www.statnews.com/2020/03
 * [oronavirus Vaccine Prospects](https://blogs.sciencemag.org/pipeline/archives/2020/04/15/coronavirus-vaccine-prospects), an April 15 In The Pipeline article
 * [A Close Look at the Frontrunning Coronavirus Vaccines As of April 23](https://blogs.sciencemag.org/pipeline/archives/2020/04/23/a-close-look-at-the-frontrunning-coronavirus-vaccines-as-of-april-23), another In The Pipeline article
 * [Covid-19 Biologic Therapies Reviewed](https://blogs.sciencemag.org/pipeline/archives/2020/03/09/covid-19-biologic-therapies-reviewed), an older article covering both treatments based on antibodies isolated from plasma and vaccine prospects
+* [Neutralizing antibody responses to SARS-CoV-2 in a COVID-19 recovered patient cohort and their implications](https://www.medrxiv.org/content/10.1101/2020.03.30.20047365v2), a preprint, and [Antibody responses to SARS-CoV-2 in patients of novel coronavirus disease 2019](https://www.medrxiv.org/content/10.1101/2020.03.30.20047365v2) try to delineate antibody production in COVID-19 patients
 
 ## Epidemiology
 
