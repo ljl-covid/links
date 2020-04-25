@@ -119,6 +119,7 @@ You can read and follow [this self-triage tool](https://www.statnews.com/2020/03
 
 * [ZB MED COVID-19 Hub](https://covid-19.zbmed.de/main/) collects a variety of scientific information and tools for SARS-CoV-2
 * [Semantic Scholar's COVID-19 Open Research Dataset](https://pages.semanticscholar.org/coronavirus-research), a free resource of over 47,000 scholarly articles, including over 36,000 with full text, about COVID-19 and the coronavirus family of viruses for use by the global research community
+* [Chemical & Engineering News COVID-19 portal](https://cen.acs.org/sections/Tracking-the-novel-coronavirus.html)
 * [Nextstrain genomic epidemiology](https://nextstrain.org/ncov) showing genetic variants of the virus by area and other factors (see also [this article about "cryptic" transmission](https://bedford.io/blog/ncov-cryptic-transmission/))
 * [Structural genomics and interactomics of SARS-CoV-2 novel coronavirus](http://korkinlab.org/wuhan) by Korkin Lab at the Worcester Polytechnic Institute
 * [neherlab@biozentrum COVID-19 Scenarios](https://covid19-scenarios.org/), a customizable parametric modeller of COVID-19 outbreaks in various conditions with accounting for hospital and ICU bed availability
