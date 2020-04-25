@@ -148,6 +148,12 @@ You can read and follow [this self-triage tool](https://www.statnews.com/2020/03
 * [Nafamostat](https://www.u-tokyo.ac.jp/focus/en/articles/z0508_00083.html)
 * [New data on Gilead’s remdesivir, released by accident, show no benefit for coronavirus patients. Company still sees reason for hope](https://www.cnbc.com/2020/04/23/gileads-remdesivir-data-show-no-benefit-for-coronavirus-patients-company-still-sees-reason-for-hope.html), claims a CNBC article based on a paper mistakenly published on the WHO website, which responds that the data is incomplete and the study was terminated early, so no conclusions can be made from it
 
+## Vaccines and immunology
+
+* [oronavirus Vaccine Prospects](https://blogs.sciencemag.org/pipeline/archives/2020/04/15/coronavirus-vaccine-prospects), an April 15 In The Pipeline article
+* [A Close Look at the Frontrunning Coronavirus Vaccines As of April 23](https://blogs.sciencemag.org/pipeline/archives/2020/04/23/a-close-look-at-the-frontrunning-coronavirus-vaccines-as-of-april-23), another In The Pipeline article
+* [Covid-19 Biologic Therapies Reviewed](https://blogs.sciencemag.org/pipeline/archives/2020/03/09/covid-19-biologic-therapies-reviewed), an older article covering both treatments based on antibodies isolated from plasma and vaccine prospects
+
 ## Epidemiology
 
 * [BlueTrace](https://bluetrace.io/), a proposed protocol with open-source reference implementation as smartphone apps to enhance contact tracing internationally
