@@ -139,7 +139,6 @@ You can read and follow [this self-triage tool](https://www.statnews.com/2020/03
 * [The variability of critical bed numbers in Europe](https://link.springer.com/article/10.1007%2Fs00134-012-2627-8), a somewhat detailed, if outdated, source of information on ICU and "acute care" beds (both needed to treat serious COVID-19 patients) over the European Union
 * [Susceptibility of ferrets, cats, dogs, and different domestic animals to SARS-CoV-2](https://www.biorxiv.org/content/10.1101/2020.03.30.015347v1), a preprint suggesting that cats can sustain transmission of the virus
 * [A call to honesty in pandemic modelling](https://medium.com/@wpegden/a-call-to-honesty-in-pandemic-modeling-5c156686a64b), a reminder that disease does come back after lockdowns are lifted
-* [Neutralizing antibody responses to SARS-CoV-2 in a COVID-19 recovered patient cohort and their implications](https://www.medrxiv.org/content/10.1101/2020.03.30.20047365v1), a study on patient development of antibodies to SARS-CoV-" (or sometimes lack thereof)
 
 ## Therapeutics
 
