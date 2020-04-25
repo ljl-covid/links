@@ -157,7 +157,7 @@ You can read and follow [this self-triage tool](https://www.statnews.com/2020/03
 
 ## Epidemiology
 
-* [EuroMoMo](https://www.euromomo.eu/graphs-and-maps/), publishing bulletins and detailed graphs of excess mortality in European countries
+* [EuroMoMo](https://www.euromomo.eu/graphs-and-maps/), publishing bulletins and detailed graphs of excess mortality in European countries; articles from [The Economist](https://web.archive.org/web/20200423005306/https://www.economist.com/graphic-detail/2020/04/16/tracking-covid-19-excess-deaths-across-countries) and the [New York Times](https://web.archive.org/web/20200424161633/https://www.nytimes.com/interactive/2020/04/21/world/coronavirus-missing-deaths.html) have articles on excess mortality, with the former in particular looking at specific regions like Lombardy, Madrid and New York City
 * [BlueTrace](https://bluetrace.io/), a proposed protocol with open-source reference implementation as smartphone apps to enhance contact tracing internationally
 * [Imperial College's comparison of containment vs mitigation strategies](https://www.imperial.ac.uk/media/imperial-college/medicine/sph/ide/gida-fellowships/Imperial-College-COVID19-NPI-modelling-16-03-2020.pdf) mainly with a view on the UK and US
 * [Effective containment explains subexponential growth in recent confirmed COVID-19 cases in China](https://science.sciencemag.org/content/early/2020/04/07/science.abb4557.full), published on 8 April 2020
