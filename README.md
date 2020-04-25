@@ -149,6 +149,7 @@ You can read and follow [this self-triage tool](https://www.statnews.com/2020/03
 
 ## Vaccines and immunology
 
+* [SARS-CoV-2 Vaccines: Status Report](https://www.cell.com/immunity/pdf/S1074-7613(20)30120-5.pdf), published on Cell on April 14, also covers therapeutics and has a summary table of vaccine types being investigated and their main characteristics on page 386
 * [oronavirus Vaccine Prospects](https://blogs.sciencemag.org/pipeline/archives/2020/04/15/coronavirus-vaccine-prospects), an April 15 In The Pipeline article
 * [A Close Look at the Frontrunning Coronavirus Vaccines As of April 23](https://blogs.sciencemag.org/pipeline/archives/2020/04/23/a-close-look-at-the-frontrunning-coronavirus-vaccines-as-of-april-23), another In The Pipeline article
 * [Covid-19 Biologic Therapies Reviewed](https://blogs.sciencemag.org/pipeline/archives/2020/03/09/covid-19-biologic-therapies-reviewed), an older article covering both treatments based on antibodies isolated from plasma and vaccine prospects
