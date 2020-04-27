@@ -1,0 +1,106 @@
+Notes on Italy Civil Protection press conference from April 27 at https://www.youtube.com/watch?v=NNRsbpp0VZY
+
+
+
+
+(Borrelli) Good evening. Prof. Silvio Brussaferro, president of the ISS, is with us today.
+Today's data show there is a decrease of ICU and hospitalization: total cases are 199414, +1739 since yesterday.
+Recoveries are +1696, for a total of 66624.
+Total number of current positives is 105813, -290.
+1956 patients are in ICU, -53; 20353 are hospitalized with symptoms, -1019.
+Most patients are self-isolating at home, they are 83504 (79%).
+Deaths are +333 today.
+We have 141 million in donations as of today, and we have spent over 79 million (56% of donations) for PPEs and ventilators.
+We have also created a fund for relatives of victims among healthcare workers, which is holding around 5 million so far.
+15878 volunteers are working with us today.
+Pre-triage tents are 929.
+A green number, 800833833, has been created for psychological assistance.
+(Brusaferro) The general trend, aside from weekend drops, shows a progressive decrease.
+The virus is still circulating, as there is an important number of new cases, while the deaths are mostly delayed from weeks ago.
+As in the next few days we go towards caution re-opening, we will have to monitor the situation carefully.
+ICU use is one of the indicators of the ability to keep infection controlled after re-opening.
+(Borrelli) Let's move to questions.
+
+
+
+
+Q: About the 50 cent price cap on masks: if we go back to a somewhat normal life, do I need one of those a day? Is it only to avoid infecting others, or does it also help me not getting infected? And how do I evaluate how effective the mask is?
+A: Without talking about FFP2 and FFP3 which are made for healthcare workers... 50 cents is not the only price cap, as there are two kinds of masks in our laws: surgical masks are recommended for healthcare workers, and then there are "type 1" masks, which are medical devices with specific filtering characteristics, and are recommended for the population but particularly for patients and caretakers. Then there are the non-medical masks, which are recommended for the general population, and whose main functionality is to reduce or stop droplet emission by those wearing them; these are barriers, which were designated by Art. 16.
+The second things we must have in mind is that when we focus on these non-medical masks, the environments where it is useful to wear them are closed, indoors environment where it's hard to keep social distancing, like supermarkets, or public transport.
+This is also true outdoors, though: if we are in the park it's not a problem, but if we're waiting at a bus stop, despite distancing, it may be good to wear a mask.
+So this is the goal of these masks: a further barrier to stop droplet emissions. It must not give any false sense of security. It is an additional element, but hand washing, personal hygiene and social distancing are the main measures we must adopt.
+Q: To understand better what happens afer May 4... [inaudible] does "try and learn" mean we going to proceed step by step and perhaps stop... [inaudible]?
+A: The logic behind this expression is used in situations like the ones we are in where we have basic information but must mainly learn from experience.
+We must use predictive models to see what impact a given measure has, we must measure what happens and learn of what we enacted obtains the results we wanted.
+So I identify a measure, I simulate, then I enact it, and measure its effect in the real world. This is the simplified explanation of the expression "try and learn".
+The other question I think you were implying is about perspective: step by step we want to re-open as many things as possible, while having clear that as long as the virus is circulating, as we are still in an epidemic, we must imagine a perspective where we progressively adopt measures to regain levels of "normality", which do still require respect of the rules we've said.
+We know that the progression of cases is different in different areas of the countries, so we must act in precise ways.
+Q: The ISS repeats in their weekly bulletin that there is a strong difference in contagion among regions. The sum of data in 17 regions is lower than Lombardy alone. Given this, how can we imagine relaxing measures on a countrywide basis, when the contagion is so different regionally? What did the scientific committee say on this? Your own report state one concept cannot be applied to the whole of Italy.
+A: I believe, we have evidence, that the measures adopted countrywide are the ones that allowed us to obtain the results we are seeing today. Obviously in area with high circulation there is a decrease, where we had low circulation we have a very limited number of cases... but let's look at trends, things may change. But it's precisely having done countrywide national measurements that allowed us to spot the differences and manage different areas.
+Even within regions there are important differences between provinces.
+As the scientific committee we want to indicate measures for the whole country, while having a mmonitoring system on a more regional basis.
+We said last time that there are about a hundred "red zones" in the countries: in those specific areas, we can intervene and isolate clusters.
+It's right to have general measures, but it's also necessary to have the ability to module measures in a localized, even very localized context.
+Also if there are cases where we cannot reconstruct infection chains we will need tighter monitoring.
+Q: A question about tests. We've seen the data go down in the past few days, and we keep having reports from people who have had contacts with positives but are not allowed to get tested even for a long time. A couple of weeks ago, Arcuri said we'd bought 2.5 million tests, so we do have them available apparently. Where do they get stuck?
+A: An answer from the point of view of when it's indicated to test: one of the indications we're sharing with the regions is to test more quickly even outside of hospital contexts. On average we are in a phase where we're doing more than 60000 tests a day. We should ensure the time between start of symptoms and testing gets shorter.
+(Borrelli) I'll add that it's been several days since we last had reports of lack of testing kits.
+Q: I was asking because I do understand we have them at the moment, but apparently something is still not working correctly, because we keep getting these reports from people and GPs.
+A: We are also creating a document that tries to give the indication I've said: this phase should see a reduction of the uneavenness of testing.
+Q: PM Giuseppe Conte said that if school re-opened now, we'd have a spike in one or two weeks. Based on scientific studies what is the issue on this? What are we doing when school re-opens?
+A: We're talking about mehanisms and models developed in our countries but also in other countries like the UK by Imperial College... school has many close relationships, and is related to transport and a number of issues that are not just about school itself. Models show it can become something that increases infection, and these models were developed by independent groups. Our perspective involves looking at what's happening, and then try to imagine 
+organizational models and school activities for the next school year that avoid the possibility of creating further spikes.
+I know the Ministry of Education has a group of experts working on these scenarios, who will allow us to make some predictions which, at this time, I would not yet make.
+Q: Can you clarify when the document on testing will be published? And since we can now visit our relatives... the people who have kept working during this period (like us journalists) and decide to visit their parents, elderly people... how can we be sure we haven't been in contact with the virus, even asymptomatically? Can I, as a private citizen, request to get tested before visiting a loved one?
+And a question for Dr Borrelli, which I already asked two weeks ago: can we have the reports from the scientific committee, especially on red zones?
+A: (Borrelli) As I said we were doing some legal checks that we have now completed. These acts are administrative and legislative acts that contain sensitive information, and we will only make them available when the state of emergency ends, or later. At this time we do not think they should be released.
+(Brusaferro) This is all in progress and being worked on now. The PM himself announced that next to measures of "re-opening", there will have to be measures for monitoring. Within next Thursday we'll have recommendations, not just about tests but containing a lot of indications to help us see if we're following the right path.
+About visiting other people, we've always said that the elderly are the most vulnerable people, and we must be cautious making these visits. I find it hard to imagine that it will be possible to get tested before visiting someone: you won't get a quick response from a test, so it's not the most obvious solution.
+Personally I would recommend that if you are professionally exposed to contagion, even more so if you are contagious, you should visit others only very cautiously or not at all.
+Q: On transparency and communication, if the decision is to make these godforsaken reports available eventually, it is trivial to observe that the sooner, the better, to exercise a right of free information.
+There is opacity and lack of transparency being complained about. If the president of the Task Force, Mr Colao, will kindly provide us with an opinion, we'd be glad.
+There is also the rumor that these press conferences, which were daily at first and now twice-weekly, will be suspended entired. I hope this won't happen.
+The initiative of activating a green number of psychological support is good but it will only start at the end of April, a bit late. Some people remark that there is a deficit on psychological help in response to the draconian measures that were adopted.
+Why are the 20 members in the scientific committee all males? Someone could observe there is a cultural deficit wrt vulnerable people, women, children and the elderly.
+And then a question for Brusaferro: you cited scientific studies, which I'm sure exist, but it looks like in most other European countries schools won't be stayed closed. So what are the scientific grounds?
+A: (Borrelli) I must say again that the acts will be made available to the public as soon as opportunity will make it possible. As to President Colao, their task force activities are continuing, and it is up to him to decide when and whether to speak. Anyhow I think the work made by the scientific committee has been important, and I think we can bring the result of our work directly to the political authorities.
+As to the scientific committee itself, unfortunately, the representatives are determined from their occupation: had the president of the ISS been a women, or the Head of Civil Protection, we'd have had woman representation.
+But still, I think the subject of psychological support is being considered attentively.
+(Brusaferro) I can add as to the first question that there are pediatricians and geriatricians among the experts, so there are people representing vulnerable people... The problem is some of the re-opening measures are precisely a response to their needs.
+What we want to achieve as soon as possible is that all the functionality of the National Health Service can resume as soon as possible.
+Some therapies that involve gatherings will inevitably have to be modified, or not had... but the risk, with gatherings, is high, and the difficulty in checking what's going on is also high. We must find a balance.
+On the question about schools: first thing is obviously we are a "pilot country" for many things, we are facing things before other countries. I think it's important to see with neighboring countries how re-opening will happen.
+On models, there are several models, but if you think this is an important aspect, what I can promise is that in one of the next press conferences, maybe not the next one but the one after, we can go more in depth on this subject.
+Q: But my question remains the same: if we are a model, how come other countries in Europe have taken opposite decisions on schools, like Sweden?
+A: Sweden made choices that are very different from ours in general, but their situation with demographics and density is very different: it's a young country with a dispersed population.
+When we look at Spain, France, their policies aren't being very different from our own.
+Keep in mind that we have allowed certain things: some school exams will be held in person, but what we have cautioned against is gathering in relatively small classrooms for long periods, as well as what going to school and back entails: public transport, metro trains...
+Even in universities, we are re-opening some laboratories, but lectures with indoors gatherings for hours are a different matter.
+Aside from northern countries having a different culture and a different organization of life... think of the concept of an extended family in Italy, which is organized differently in other countries... this has a meaning.
+Q: On contagion trends, when can there be relaxations of lockdowns on a regional basis, what's the time horizon?
+A: I am always cautious on giving dates, partly because it's my personality and partly because we need solid data. We are working towards it, but we need valid data. The approach that has been proposed so far is one national scenario, with regionally different monitoring. When we have that, we can shape interventions.
+Mobility we are allowing is mostly about production activities. If we went a step further, we'd have to consider inter-regional mobility, and at that stage the regional differences would matter less.
+If you remember, at first, some clusters in central and southern Italy were generated from people coming from northern regions.
+The way the virus infect hasn't changed, we have changed our phase in the epidemic.
+Modelling these passages requires strong monitoring, and that is what we're moving towards.
+When that is consolidated then we can start allowing ourselves more degree of freedom, while making sure there is not a increase in cases that overloads the system. There will be an increase, but it must be contained.
+Q: A further clarification on "try and learn" approach: between May 4 and 18, some measures will be put in place, and PM Conte even made a prediction about June 1... but if the curve keeps going out, what does the scientific committee expect to do? Would we make steps back, go back to a national lockdown?
+And a question for Dr Borrelli about the documents from the committee: you said they will be made public at the end of this emergency, but as we know, the emergency could end after 6 months or more. You've said many times that these documents are not secret but just private. Won't it be too late to understand how things went wrong in some areas after one year or more?
+A: The question is interesting but it's hard to answer. We must regain freedoms within the rules. Until we have herd immunity with a vaccine, we can't really imagine going back to close contacts. This is objective, and I think we are all adapting to this outcome.
+The virus hasn't changed way of acting. The policy of "small steps", or "try and learn", lets us hopefully monitor what's happening: when we showed maps last time, we had over 100 red zones. If you have communities, or nursing homes, where there is a very high number of cases, that must be locked down. That doesn't mean locking down the whole country.
+It could even involve a high number of cases, but it depends on whether it's concentrated in one place, or widespread.
+If 100 cases are in several clusters, that is more worrisome, and that may require containment, maybe still localized but different.
+We have no scenarios bringing us back to a national lockdown, that would be terrible, but we cannot rule it out completely.
+A given community could find itself locked down for 15 days, but that doesn't mean locking down the entire country. Regionally and locally we will delineate specific areas where there's work to do.
+We must quickly intercept positive cases to contain the infection. We must keep even the worst-case scenarios in mind, we should be prepared but it's not a likely scenario. We do expect new cases, we expect them to occur in small communities where we can intervene quickly; we hope we can intercept cases within families too.
+If you have a diffused amount of cases that cannot be traced back, that is what worries us.
+(Borrelli) About the acts from the scientific committee, I can confirm they are not secret: technically they are "unclassified but private information", and if the state of emergency were extended, we reserve the right to make them available later.
+Q: In the new decree, there is the sentence "It will always be allowed to go back to one's own residence or domicile". You had asked for this to be forbidden, to avoid "mass exodus" from north to south or vice versa. Are you against this?
+A: You should also look at the part that says mobility across regions isn't allowed. Other valid reasons for moving were already allowed. Within regions we have a higher level of mobility, but the other element remains.
+
+[Actually, Conte explicitly said that going back home will be allowed even across regions: from yesterday's press conference, we have
+"Q: Sorry for the audio earlier. About self-certification: will they still be needed when moving between municipalities? And about going back to one's own domicile, will that also be allowed across regions? And, you know there has been intense debate within the majority in parliament about EU aid; are you going to propose a vote on the whole "package"?
+A: We will allow people to go back to their homes regardless of which borders they cross."]
+
+No, the mobility ban is kept aside from the previously allowed cases.
+(Borrelli) If there are no further questions we'll close this here. Thanks and good evening.
