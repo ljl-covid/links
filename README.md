@@ -179,6 +179,7 @@ You can read and follow [this self-triage tool](https://www.statnews.com/2020/03
 
 * [EuroMoMo](https://www.euromomo.eu/graphs-and-maps/), publishing bulletins and detailed graphs of excess mortality in European countries; articles from [The Economist](https://web.archive.org/web/20200423005306/https://www.economist.com/graphic-detail/2020/04/16/tracking-covid-19-excess-deaths-across-countries) and the [New York Times](https://web.archive.org/web/20200424161633/https://www.nytimes.com/interactive/2020/04/21/world/coronavirus-missing-deaths.html) have articles on excess mortality, with the former in particular looking at specific regions like Lombardy, Madrid and New York City
 * [Imperial College's comparison of containment vs mitigation strategies](https://www.imperial.ac.uk/media/imperial-college/medicine/sph/ide/gida-fellowships/Imperial-College-COVID19-NPI-modelling-16-03-2020.pdf) mainly with a view on the UK and US
+* [Suppression of COVID-19 outbreak in the municipality of Vo, Italy](https://www.medrxiv.org/content/10.1101/2020.04.17.20053157v1), a study showing that in a fully locked-down town of around 3000 people, all of which were tested multiple times, 43% of the total cases were asymptomatic, but could infect others
 * [Effective containment explains subexponential growth in recent confirmed COVID-19 cases in China](https://science.sciencemag.org/content/early/2020/04/07/science.abb4557.full), published on 8 April 2020
 * [CMMID traveller screening effectiveness simulator](https://cmmid.github.io/visualisations/traveller-screening)
 * [CMMID repository of COVID-19 research](https://cmmid.github.io/topics/covid19/)
@@ -267,6 +268,7 @@ There is mixed advice on the use of masks by the general public, and the advice 
 * [SIAARTI recommendations for treatment choice in case of lacks of beds](http://www.siaarti.it/SiteAssets/News/COVID19%20-%20documenti%20SIAARTI/SIAARTI%20-%20Covid19%20-%20Raccomandazioni%20di%20etica%20clinica.pdf) suggesting to exclude older age groups from treatment
 * [Paper estimating real infected population in Italy](https://www.medrxiv.org/content/10.1101/2020.03.14.20036103v1)
 * [Ministry of Interior self-certification form for movement within the quarantine area](https://static.gedidigital.it/repubblica/pdf/2020/cronaca/moduloautodichiarazione.pdf) which needs to be filled in whenever leaving one's residence with information on where you're going and why
+* [Covid-19, ecco cosa spiega lo studio effettuato a Vo'](https://ilbolive.unipd.it/it/news/studio-crisanti-coronavirus-vo), un articolo pubblicato dall'Università di Padova
 * [Free online services for the quarantined areas](https://solidarietadigitale.agid.gov.it/#/)
 * [Translated Civil Protection press conferences](https://github.com/ljl-covid/links/tree/master/speeches/Italian-Civil-Protection) and [Prime Minister speeches](https://github.com/ljl-covid/links/tree/master/speeches/Italian-Prime-Minister)
 
