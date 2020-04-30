@@ -165,6 +165,7 @@ You can read and follow [this self-triage tool](https://www.statnews.com/2020/03
 * [Monoclonal Antibodies for the Coronavirus](https://blogs.sciencemag.org/pipeline/archives/2020/04/27/monoclonal-antibodies-for-the-coronavirus), probably the most promising potential treatment right now
 * [A review of current possible treatments](https://blogs.sciencemag.org/pipeline/archives/2020/03/19/coronavirus-some-clinical-trial-data) discussing clinical trials or lack thereof
 * [A Close Look at the Frontrunning Coronavirus Vaccines As of April 28](https://blogs.sciencemag.org/pipeline/archives/2020/04/23/a-close-look-at-the-frontrunning-coronavirus-vaccines-as-of-april-23), another In The Pipeline article
+* [About Remdesivir and About “Game-Changers”](https://blogs.sciencemag.org/pipeline/archives/2020/04/30/about-remdesivir-and-about-game-changers), a critical look at Remdesivir trials and the general outlook for practical treatments
 * [COVID-19 therapies and vaccines: Clinical](https://www.biocentury.com/clinical-vaccines-and-therapies) on BioCentury
 * [COVID-19 vaccines and therapies: preclinical](https://www.biocentury.com/preclinical-vaccines-and-therapies) also on BioCentury
 * [oronavirus Vaccine Prospects](https://blogs.sciencemag.org/pipeline/archives/2020/04/15/coronavirus-vaccine-prospects), an April 15 In The Pipeline article
