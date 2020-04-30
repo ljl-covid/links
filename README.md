@@ -26,6 +26,8 @@ So if you have some symptoms, unfortunately, it needs to be clear that you *cann
 
 You can read and follow [this self-triage tool](https://www.statnews.com/2020/03/20/self-triage-tool-covid-19/) to determine whether your symptoms warrant consulting medical services.
 
+[ProPublica requests information sharing](https://www.propublica.org/getinvolved/we-want-to-talk-to-people-working-or-living-on-the-front-lines-of-coronavirus-help-us-report) from people who have been affected by the virus (as patients, caregivers or health workers). If you are or have been a patient, please feel free to write there.
+
 # Basics
 
 * [Covidly](https://covidly.com/), likely the most comprehensive tracker including many subnational units, graphs and derived data
@@ -222,22 +224,7 @@ There is mixed advice on the use of masks by the general public, and the advice 
 * [A SARS-like cluster of circulating bat coronaviruses shows potential for human emergence](https://www.nature.com/articles/nm.3985.pdf), a 2015 study published on Nature
 * [How China’s “Bat Woman” Hunted Down Viruses from SARS to the New Coronavirus](https://www.scientificamerican.com/article/how-chinas-bat-woman-hunted-down-viruses-from-sars-to-the-new-coronavirus1/), an article on Scientific American
 
-# Polls
-
-* [ProPublica's information sharing request](https://www.propublica.org/getinvolved/we-want-to-talk-to-people-working-or-living-on-the-front-lines-of-coronavirus-help-us-report) for people who have been affected by the virus (as patients, caregivers or health workers)
-
-# Feeds
-
-* [John Hopkins daily data](https://github.com/CSSEGISandData) in CSV format
-* [Australian Department of Health emergency alert](https://www.health.gov.au/news/health-alerts/novel-coronavirus-2019-ncov-health-alert#current-status)
-* https://www.reddit.com/live/14d816ty1ylvo.rss
-* https://www.globaltimes.cn/rss/outbrain.xml
-* https://www.globaltimes.cn/content/1177737.shtml   real time updates
-* https://tools.cdc.gov/api/v2/resources/media/403372.rss
-* https://www.cnbc.com/2020/02/10/coronavirus-latest-updates-china-hubei.html
-* [CNBC Health feed](https://www.cnbc.com/id/10000108/device/rss/rss.html)
-
-# Key news
+# News
 
 * [Info and live news updates from The Guardian](https://www.theguardian.com/world/coronavirus-outbreak)
 * [Our transcription of speeches and press conferences](https://github.com/ljl-covid/links/tree/master/speeches) related to COVID-19
@@ -251,6 +238,17 @@ There is mixed advice on the use of masks by the general public, and the advice 
 * [Blood tests show 14% of people are now immune to covid-19 in one town in Germany](https://www.technologyreview.com/2020/04/09/999015/blood-tests-show-15-of-people-are-now-immune-to-covid-19-in-one-town-in-germany/) using antibody tests on a sample of 500 people
 * [New York antibody study estimates 13.9% of residents have had the coronavirus, Gov. Cuomo says](https://www.cnbc.com/2020/04/23/new-york-antibody-study-estimates-13point9percent-of-residents-have-had-the-coronavirus-cuomo-says.html), meaning at least 2.7 million New Yorkers have been infected as of April 23 ago, if this sampling of people going to grocery stores and shopping loations is representative
 * [First known U.S. coronavirus death occurred on Feb. 6 in Santa Clara County](https://www.sfchronicle.com/health/article/First-known-U-S-coronavirus-death-occurred-on-15217316.php), San Francisco Chronicle article describing post-mortem confirmed cases predating earliest known deaths in California, and (https://www.scmp.com/news/world/united-states-canada/article/3081330/coronavirus-covid-19-us-earlier-first-thought-and), an SCMP article also covering that with discussion of implications given prevalence shown by antibody tests in the state of New York 
+
+## Feeds
+
+* [John Hopkins daily data](https://github.com/CSSEGISandData) in CSV format
+* [Australian Department of Health emergency alert](https://www.health.gov.au/news/health-alerts/novel-coronavirus-2019-ncov-health-alert#current-status)
+* https://www.reddit.com/live/14d816ty1ylvo.rss
+* https://www.globaltimes.cn/rss/outbrain.xml
+* https://www.globaltimes.cn/content/1177737.shtml   real time updates
+* https://tools.cdc.gov/api/v2/resources/media/403372.rss
+* https://www.cnbc.com/2020/02/10/coronavirus-latest-updates-china-hubei.html
+* [CNBC Health feed](https://www.cnbc.com/id/10000108/device/rss/rss.html)
 
 # Italy
 
