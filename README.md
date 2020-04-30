@@ -158,20 +158,17 @@ You can read and follow [this self-triage tool](https://www.statnews.com/2020/03
 * [Susceptibility of ferrets, cats, dogs, and different domestic animals to SARS-CoV-2](https://www.biorxiv.org/content/10.1101/2020.03.30.015347v1), a preprint suggesting that cats can sustain transmission of the virus
 * [A call to honesty in pandemic modelling](https://medium.com/@wpegden/a-call-to-honesty-in-pandemic-modeling-5c156686a64b), a reminder that disease does come back after lockdowns are lifted
 
-## Therapeutics
+## Therapeutics and vaccines
 
 * [Monoclonal Antibodies for the Coronavirus](https://blogs.sciencemag.org/pipeline/archives/2020/04/27/monoclonal-antibodies-for-the-coronavirus), probably the most promising potential treatment right now
 * [A review of current possible treatments](https://blogs.sciencemag.org/pipeline/archives/2020/03/19/coronavirus-some-clinical-trial-data) discussing clinical trials or lack thereof
+* [A Close Look at the Frontrunning Coronavirus Vaccines As of April 28](https://blogs.sciencemag.org/pipeline/archives/2020/04/23/a-close-look-at-the-frontrunning-coronavirus-vaccines-as-of-april-23), another In The Pipeline article
+* [oronavirus Vaccine Prospects](https://blogs.sciencemag.org/pipeline/archives/2020/04/15/coronavirus-vaccine-prospects), an April 15 In The Pipeline article
+* [SARS-CoV-2 Vaccines: Status Report](https://www.cell.com/immunity/pdf/S1074-7613(20)30120-5.pdf), published on Cell on April 14, also covers therapeutics and has a summary table of vaccine types being investigated and their main characteristics on page 386
+* [Covid-19 Biologic Therapies Reviewed](https://blogs.sciencemag.org/pipeline/archives/2020/03/09/covid-19-biologic-therapies-reviewed), an older article covering both treatments based on antibodies isolated from plasma and vaccine prospects
 * [Pharmacologic Treatments for Coronavirus Disease 2019 (COVID-19)](https://jamanetwork.com/journals/jama/fullarticle/2764727), a review analyzing various proposed treatments and concluding there is as of yet no reliable evidence-based treatment
 * [Nafamostat](https://www.u-tokyo.ac.jp/focus/en/articles/z0508_00083.html)
 * [New data on Gilead’s remdesivir, released by accident, show no benefit for coronavirus patients. Company still sees reason for hope](https://www.cnbc.com/2020/04/23/gileads-remdesivir-data-show-no-benefit-for-coronavirus-patients-company-still-sees-reason-for-hope.html), claims a CNBC article based on a paper mistakenly published on the WHO website, which responds that the data is incomplete and the study was terminated early, so no conclusions can be made from it
-
-## Vaccines and immunology
-
-* [SARS-CoV-2 Vaccines: Status Report](https://www.cell.com/immunity/pdf/S1074-7613(20)30120-5.pdf), published on Cell on April 14, also covers therapeutics and has a summary table of vaccine types being investigated and their main characteristics on page 386
-* [oronavirus Vaccine Prospects](https://blogs.sciencemag.org/pipeline/archives/2020/04/15/coronavirus-vaccine-prospects), an April 15 In The Pipeline article
-* [A Close Look at the Frontrunning Coronavirus Vaccines As of April 28](https://blogs.sciencemag.org/pipeline/archives/2020/04/23/a-close-look-at-the-frontrunning-coronavirus-vaccines-as-of-april-23), another In The Pipeline article
-* [Covid-19 Biologic Therapies Reviewed](https://blogs.sciencemag.org/pipeline/archives/2020/03/09/covid-19-biologic-therapies-reviewed), an older article covering both treatments based on antibodies isolated from plasma and vaccine prospects
 * [Neutralizing antibody responses to SARS-CoV-2 in a COVID-19 recovered patient cohort and their implications](https://www.medrxiv.org/content/10.1101/2020.03.30.20047365v2), a preprint, and [Antibody responses to SARS-CoV-2 in patients of novel coronavirus disease 2019](https://www.ncbi.nlm.nih.gov/pubmed/32221519) try to delineate antibody production in COVID-19 patients
 * [Antibody surveys suggesting vast undercount of coronavirus infections may be unreliable](https://www.sciencemag.org/news/2020/04/antibody-surveys-suggesting-vast-undercount-coronavirus-infections-may-be-unreliable), a ScienceMag article critical of the methodologies and conclusions of a few of the large-sample antibody assays done recently around the world, while also describing them to the extent it's possible (since a few gave their results to the press before publishing papers)
 
