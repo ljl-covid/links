@@ -47,6 +47,7 @@ You can read and follow [this self-triage tool](https://www.statnews.com/2020/03
 * [Coronainfo](https://coronainfo.xyz/) has comparison charts with other diseases
 * [Offloop.net's COVID19](https://offloop.net/covid19/) has comparison charts for countries (take note of all the buttons)
 * [Google's simple tracker](https://google.org/crisisresponse/covid19-map) with data sourced from Wikipedia
+* [Bing COVID-19 Tracker](https://www.bing.com/covid/) to comply with antitrust laws given Google above
 * [CovidStat](https://covidstat.info/), a clean-looking worldwide map and tracker with number data of serious patients where available
 * [Flatten The Curve](https://flattenthecurve.co.nz/), with graphs that compare the epidemic progression in different countries
 * [nCoV Tracker](https://vac-lshtm.shinyapps.io/ncov_tracker/) has a map with an (animated) timeline
