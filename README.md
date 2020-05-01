@@ -114,11 +114,10 @@ You can read and follow [this self-triage tool](https://www.statnews.com/2020/03
 * https://www.straitstimes.com/asia/east-asia/reporters-notebook-life-and-death-in-a-wuhan-coronavirus-icu interview
 * [Community Mutual Aid Coronavirus Response Mapping](https://www.arcgis.com/home/webmap/viewer.html?webmap=fa2668225f6c46408ec4016fd6cd5b09&extent=-136.6103,8.3024,35.6553,66.7501) shows help networks around the world (but mostly in the US and UK) for people who are most vulnerable
 * [Covidaire](https://covidaire.fr/map.php), a network and map for mutual aid in France specifically
-* [Google COVID-19 Community Mobility Reports](https://www.google.com/covid19/mobility/), a set pf PDF documents showing changes in frequentation of various types of places as recorded by Android smartphones during the epidemic
 * [Coronavirus is most contagious before and during the first week of symptoms](https://www.sciencenews.org/article/coronavirus-most-contagious-before-during-first-week-symptoms), states a ScienceNews article based on [a German clinical study](https://www.medrxiv.org/content/10.1101/2020.03.05.20030502v1)
 * [How far away are ‘immunity passports’?](https://unherd.com/2020/04/how-far-away-are-immunity-passports/), an article explaining the probability theory pitfalls of random-sample antibody tests
 
-## Contact tracing
+## Tracing
 
 * Amnesty-hosted [Joint civil society statement: States use of digital surveillance technologies to fight pandemic must respect human rights](https://www.amnesty.org/download/Documents/POL3020812020ENGLISH.pdf) from April 2020
 * European Union [Guidelines on the use of location data and contact tracing tools in the context of the COVID-19 outbreak](https://edpb.europa.eu/sites/edpb/files/files/file1/edpb_guidelines_20200420_contact_tracing_covid_with_annex_en.pdf) as of April 2020, which clarify that while installation would be voluntary, data treatment would occur not under a "consent" basis but on an overriding "public interest" basis, and [EU Parliament resolution](https://www.europarl.europa.eu/doceo/document/RC-9-2020-0143_EN.pdf) describing the preferred approach by MEPs
@@ -135,6 +134,12 @@ You can read and follow [this self-triage tool](https://www.statnews.com/2020/03
 * [PEPP-PT vs DP-3T: The coronavirus contact tracing privacy debate kicks up another gear](https://tech.newstatesman.com/security/pepp-pt-vs-dp-3t-the-coronavirus-contact-tracing-privacy-debate-kicks-up-another-gear), an article at NewStatesman on the differences and ideological struggles between the two main camp in Europe over contac tracing app deployment ("centralized" vs "decentralized"), also discussing some high-level details of the protocols
 * [Immuni sarà open source: parola del ministero](https://www.punto-informatico.it/immuni-sara-open-source-parola-del-ministero/), Italy's Punto Informatico article, detailing some of the specifics of the Immuni app, which [the government contracted](http://www.governo.it/sites/new.governo.it/files/CSCovid19_Ord_10-2020.pdf) and announced will be open-source, and which was changed from a centralized to a decentralized model according to the Sole 24 Ore article [L'app Immuni cambia. Seguirà il modello decentralizzato di Apple e Google](https://www.ilsole24ore.com/art/l-app-immuni-cambia-seguira-modello-decentralizzato-apple-e-google-ADcBF4L), a change discussed by PrivacyItalia in [I dati di Immuni in ‘sistema decentralizzato’. Ma il Governo non l’aveva scelta per modello centralizzato?](https://www.privacyitalia.eu/i-dati-di-immuni-in-sistema-decentralizzato-ma-il-governo-non-laveva-scelta-per-modello-centralizzato/13099/)
 * [Extensive "informal hearing" of the Italian Privacy Authority on tracing apps](https://www.garanteprivacy.it/web/guest/home/docweb/-/docweb-display/docweb/9308774#english_version), in Italian
+
+## Public deployments
+
+* [Google COVID-19 Community Mobility Reports](https://www.google.com/covid19/mobility/), a set pf PDF documents showing changes in frequentation of various types of places as recorded by Android smartphones during the epidemic
+* [COVID-19 Location Data Toolkit](https://www.unacast.com/covid19) with a "scoreboard" of the degree of respect of social distancing in the US, changes in mobility, and a graph showing impact on retail, based on location data Unacast obtains from a number of smartphone apps with implicit consent
+* [Kinsa US Health Weather Map](https://healthweather.us/?mode=Atypical), a mapping of "atypical" temperatures recorded by connected body thermometer in the US
 
 # Science
 
