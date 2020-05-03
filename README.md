@@ -1,6 +1,4 @@
-**First and foremost**: if this is not in your country yet, it *is* coming to your country. Soon. Sooner than you think. Sooner than authorities think. We can even say that out loud in public now, after the WHO finally decided to declare it a pandemic. Please [read this article](https://medium.com/@tomaspueyo/coronavirus-act-today-or-people-will-die-f4d3d9cd99ca) and understand what is happening, and about to happen again.
-
-It's not a joke, and let's get one thing straight: it's definitely **NOT** a flu. [It is not even very bad flu](https://framapic.org/nnKQN9siF9jK/8FWSaX1fbDPY.png):
+**First and foremost**: Please [read this article](https://medium.com/@tomaspueyo/coronavirus-act-today-or-people-will-die-f4d3d9cd99ca) and understand what is happening, and about to happen again. This virus is not a joke, and let's get one thing straight: it's definitely **NOT** a flu. [It is not even very bad flu](https://framapic.org/nnKQN9siF9jK/8FWSaX1fbDPY.png):
 
 * it is a completely different type of virus (the [coronavirus](https://en.wikipedia.org/wiki/Coronavirus) dubbed [SARS-CoV-2](https://en.wikipedia.org/wiki/Severe_acute_respiratory_syndrome_coronavirus_2), while influenza is caused by an [influenzavirus](https://en.wikipedia.org/wiki/Orthomyxoviridae))
 * it has a much longer incubation time, during which evidence is starting to accumulate that it can very well be transmissible
