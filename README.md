@@ -166,6 +166,7 @@ You can read and follow [this self-triage tool](https://www.statnews.com/2020/03
 * [Susceptibility of ferrets, cats, dogs, and different domestic animals to SARS-CoV-2](https://www.biorxiv.org/content/10.1101/2020.03.30.015347v1), a preprint suggesting that cats can sustain transmission of the virus
 * [A call to honesty in pandemic modelling](https://medium.com/@wpegden/a-call-to-honesty-in-pandemic-modeling-5c156686a64b), a reminder that disease does come back after lockdowns are lifted
 * [Spike mutation pipeline reveals the emergence of a more transmissible form of SARS-CoV-2](https://www.biorxiv.org/content/10.1101/2020.04.29.069054v1), an April 30 preprint highlighting how a mutated form of the virus appears to be circulating much faster and taking over the original strain in Europe and elsewhere
+* [Humoral immune response and prolonged PCR positivity in a cohort of 1343 SARS-CoV 2 patients in the New York City region](https://www.medrxiv.org/content/10.1101/2020.04.30.20085613v1), a preprint showing that nearly all confirmed patients had developed antibodies to the SARS-CoV-2 spike protein
 
 ## Therapeutics and vaccines
 
