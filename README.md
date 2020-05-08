@@ -114,6 +114,7 @@ You can read and follow [this self-triage tool](https://www.statnews.com/2020/03
 * [Covidaire](https://covidaire.fr/map.php), a network and map for mutual aid in France specifically
 * [Coronavirus is most contagious before and during the first week of symptoms](https://www.sciencenews.org/article/coronavirus-most-contagious-before-during-first-week-symptoms), states a ScienceNews article based on [a German clinical study](https://www.medrxiv.org/content/10.1101/2020.03.05.20030502v1)
 * [How far away are ‘immunity passports’?](https://unherd.com/2020/04/how-far-away-are-immunity-passports/), an article explaining the probability theory pitfalls of random-sample antibody tests
+* [The Risks - Know Them - Avoid Them](https://erinbromage.wixsite.com/covid19/post/the-risks-know-them-avoid-them), a post by a professor of biology explaining the risks you may run during "re-opening" in terms of time and amount of exposure
 
 ## Tracing
 
