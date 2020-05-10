@@ -221,6 +221,7 @@ You can read and follow [this self-triage tool](https://www.statnews.com/2020/03
 
 There is mixed advice on the use of masks by the general public, and the advice from political authorities appears to be changing in various parts of the world depending on the availability of masks and the state of the pandemic. Here are some scientific articles or papers trying to determine the usefulness of masks, and behaviors such as re-use of masks.
 
+* [Face Masks for the General Public](https://rs-delve.github.io/reports/2020/05/04/face-masks-for-the-general-public.html) by the [Royal Society DELVE initiative](https://rs-delve.github.io/), answering many basic question on mask use, making, re-use, cleaning and appropriateness backed by a number of references
 * [Rational use of face masks in the COVID-19 pandemic](https://www.thelancet.com/journals/lanres/article/PIIS2213-2600(20)30134-X/fulltext), a review of mask-related advice from authorities published on The Lancet
 * [BBC: Coronavirus Expert panel to assess face mask use by public](https://www.bbc.com/news/science-environment-52126735) covers the WHO "reopening discussion" on the matter, and scientific literature on the aerosolization of cough and sneezes
 * [N95DECON](https://www.n95decon.org/), a scientific consortium for data-driven study of N95 filtering facepiece respirator decontamination
