@@ -141,6 +141,8 @@ You can read and follow [this self-triage tool](https://www.statnews.com/2020/03
 * [COVID-19 Location Data Toolkit](https://www.unacast.com/covid19) with a "scoreboard" of the degree of respect of social distancing in the US, changes in mobility, and a graph showing impact on retail, based on location data Unacast obtains from a number of smartphone apps with implicit consent
 * [Kinsa US Health Weather Map](https://healthweather.us/?mode=Atypical), a mapping of "atypical" temperatures recorded by connected body thermometer in the US
 
+* [India is forcing people to use its covid app, unlike any other democracy](https://indianexpress.com/article/cities/delhi/coronavirus-noida-aarogya-setu-app-police-6395945/), according to Technology Review, although it does on to qualify it's not just compulsory across the country; [Not having Aarogya Setu app is a punishable offence, say Noida police](https://indianexpress.com/article/cities/delhi/coronavirus-noida-aarogya-setu-app-police-6395945/), states more specifically the Indian Express, with statements from police officers on the details
+
 # Science
 
 * [ZB MED COVID-19 Hub](https://covid-19.zbmed.de/main/) collects a variety of scientific information and tools for SARS-CoV-2
