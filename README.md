@@ -236,6 +236,10 @@ There is mixed advice on the use of masks by the general public, and the advice 
 * [Effect of various decontamination procedures on disposable N95 mask integrity and SARS-CoV-2 infectivity](https://www.medrxiv.org/content/10.1101/2020.04.11.20062331v1), testing vaporized hydrogen peroxide, ultraviolet light, and 70% ethanol for decontamination of N95 masks while assessing the viability of any remaining virus and the integrity of the masks after decontamination
 * [Face Masks Against COVID-19: An Evidence Review](https://www.preprints.org/manuscript/202004.0203/v1), a preprint covering COVID-19 transmission characteristics, characteristis and efficacy of masks, estimated impacts of widespread use, and sociological considerations for policy-making
 
+## Syndrome in children
+
+* [An outbreak of severe Kawasaki-like disease at the Italian epicentre of the SARS-CoV-2 epidemic: an observational cohort study](https://www.thelancet.com/journals/lancet/article/PIIS0140-6736(20)31103-X/fulltext)
+
 ## Prior research
 
 * [Isolation and characterization of a bat SARS-like coronavirus that uses the ACE2 receptor](https://www.nature.com/articles/nature12711), a 2013 study published on Nature
