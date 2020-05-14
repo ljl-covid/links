@@ -239,6 +239,7 @@ There is mixed advice on the use of masks by the general public, and the advice 
 ## Syndrome in children
 
 * [An outbreak of severe Kawasaki-like disease at the Italian epicentre of the SARS-CoV-2 epidemic: an observational cohort study](https://www.thelancet.com/journals/lancet/article/PIIS0140-6736(20)31103-X/fulltext)
+* [This Week In Virology 611](https://youtu.be/u20nIE2rqxA?t=453) podcast section in which the Kawasaki-like syndrome is discussed
 
 ## Prior research
 
