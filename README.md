@@ -28,7 +28,6 @@ You can read and follow [this self-triage tool](https://www.statnews.com/2020/03
 
 # Basics
 
-* [Covidly](https://covidly.com/), likely the most comprehensive tracker including many subnational units, graphs and derived data
 * [Flatten the curve](https://www.flattenthecurve.com/): what you can and should do even before your government mandates it
 * [WHO's COVID-19 technical guidance](https://www.who.int/emergencies/diseases/novel-coronavirus-2019/technical-guidance)
 * [ArsTechnica's "comprehensive guide"](https://arstechnica.com/science/2020/03/dont-panic-the-comprehensive-ars-technica-guide-to-the-coronavirus/#h1) to COVID-19
@@ -39,13 +38,14 @@ You can read and follow [this self-triage tool](https://www.statnews.com/2020/03
 
 # Trackers
 
-* [Covid19.health](https://covid19.health/) probably has the most comprehensive maps and graphs, although the data aren't always current
+* [Covidly](https://covidly.com/), likely the most comprehensive tracker including many subnational units, graphs and derived data
 * [Reddit user map](https://ncov2019.live/map): may not be the most up to date, but it has details others don't
 * [Coronatracker](https://www.coronatracker.com/analytics): see [this description](https://thelead.io/stories/tracking-the-wuhan-coronavirus-2019-ncov-with-data-analytics)
 * [Coronainfo](https://coronainfo.xyz/) has comparison charts with other diseases
 * [Offloop.net's COVID19](https://offloop.net/covid19/) has comparison charts for countries (take note of all the buttons)
 * [Google's simple tracker](https://google.org/crisisresponse/covid19-map) with data sourced from Wikipedia
 * [Bing COVID-19 Tracker](https://www.bing.com/covid/) to comply with antitrust laws given Google above
+* [Covid19.health](https://covid19.health/) probably has the most comprehensive maps and graphs, although the data aren't always current
 * [CovidStat](https://covidstat.info/), a clean-looking worldwide map and tracker with number data of serious patients where available
 * [Flatten The Curve](https://flattenthecurve.co.nz/), with graphs that compare the epidemic progression in different countries
 * [nCoV Tracker](https://vac-lshtm.shinyapps.io/ncov_tracker/) has a map with an (animated) timeline
