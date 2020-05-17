@@ -239,6 +239,7 @@ There is mixed advice on the use of masks by the general public, and the advice 
 * [Addressing COVID-19 mask shortages](https://m.box.com/shared_item/https%3A%2F%2Fstanfordmedicine.box.com%2Fv%2Fcovid19-PPE-1-1), a paper published at Stanford evaluating the filtering efficacy of many non-standard types of masks, and effective way to disinfect and re-use single-use masks
 * [Effect of various decontamination procedures on disposable N95 mask integrity and SARS-CoV-2 infectivity](https://www.medrxiv.org/content/10.1101/2020.04.11.20062331v1), testing vaporized hydrogen peroxide, ultraviolet light, and 70% ethanol for decontamination of N95 masks while assessing the viability of any remaining virus and the integrity of the masks after decontamination
 * [Face Masks Against COVID-19: An Evidence Review](https://www.preprints.org/manuscript/202004.0203/v1), a preprint covering COVID-19 transmission characteristics, characteristis and efficacy of masks, estimated impacts of widespread use, and sociological considerations for policy-making
+* [Critical levels of mask efficiency and of mask adoption that theoretically extinguish respiratory virus epidemics](https://www.medrxiv.org/content/medrxiv/early/2020/05/15/2020.05.09.20096644.full.pdf), a preprint that calculates that for R0=2.5, at minimum 80% of the population must wear masks with 50% filtration efficiency (below N95/FPP2) for extinctino
 
 ## Syndrome in children
 
