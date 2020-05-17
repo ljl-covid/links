@@ -118,6 +118,7 @@ You can read and follow [this self-triage tool](https://www.statnews.com/2020/03
 
 ## Tracing
 
+* [MIT Technology Review Covid Tracing Tracker](https://www.technologyreview.com/2020/05/07/1000961/launching-mittr-covid-tracing-tracker/), trying to keep track of all automated tracing apps, also available on [Florish](https://public.flourish.studio/visualisation/2241702/) and [Google Docs](https://docs.google.com/spreadsheets/d/1ATalASO8KtZMx__zJREoOvFh0nmB-sAqJ1-CjVRSCOw/edit#gid=0)
 * Amnesty-hosted [Joint civil society statement: States use of digital surveillance technologies to fight pandemic must respect human rights](https://www.amnesty.org/download/Documents/POL3020812020ENGLISH.pdf) from April 2020
 * European Union [Guidelines on the use of location data and contact tracing tools in the context of the COVID-19 outbreak](https://edpb.europa.eu/sites/edpb/files/files/file1/edpb_guidelines_20200420_contact_tracing_covid_with_annex_en.pdf) as of April 2020, which clarify that while installation would be voluntary, data treatment would occur not under a "consent" basis but on an overriding "public interest" basis, and [EU Parliament resolution](https://www.europarl.europa.eu/doceo/document/RC-9-2020-0143_EN.pdf) describing the preferred approach by MEPs
 * [Coronavirus: An EU approach for efficient contact tracing apps to support gradual lifting of confinement measures](https://ec.europa.eu/commission/presscorner/detail/en/ip_20_670), an EU press release covering the main points of an envisioned app tracing system compatible with EU principles
