@@ -301,6 +301,7 @@ There is mixed advice on the use of masks by the general public, and the advice 
 * [Covid-19, ecco cosa spiega lo studio effettuato a Vo'](https://ilbolive.unipd.it/it/news/studio-crisanti-coronavirus-vo), un articolo pubblicato dall'Università di Padova
 * [CoVid-19: il virus era presente in Lombardia già il 1° gennaio 2020](https://ilbolive.unipd.it/it/news/covid19-virus-era-presente-lombardia-gia-1-gennaio), ancora dall'Università di Padova, su uno studio effettuato su quasi 6000 pazienti positivi
 * [Free online services for the quarantined areas](https://solidarietadigitale.agid.gov.it/#/)
+* [Immuni: tutte le immagini disponibili su Github](https://www.punto-informatico.it/immuni-immagini-github/), announcing the publication of documentation for Italy's contact tracing app on GitHub, with screenshots; subsequent article discusses the security issues brought up by [COPASIR](https://en.wikipedia.org/wiki/COPASIR)
 * [Translated Civil Protection press conferences](https://github.com/ljl-covid/links/tree/master/speeches/Italian-Civil-Protection) and [Prime Minister speeches](https://github.com/ljl-covid/links/tree/master/speeches/Italian-Prime-Minister)
 
  
