@@ -218,6 +218,7 @@ You can read and follow [this self-triage tool](https://www.statnews.com/2020/03
 * [Airborne transmission of SARS-CoV-2: the world should face the reality](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC7151430/), an opinion paper, substantiated by references, claiming there is no reason to assume this virus isn't as airborne as SARS-CoV-1 proved to be
 * [Interview on Icelandic genetic sequencing project showing children don’t seem to infect parents](https://www.sciencemuseumgroup.org.uk/hunting-down-covid-19/)
 * [Antibody surveys suggesting vast undercount of coronavirus infections may be unreliable](https://www.sciencemag.org/news/2020/04/antibody-surveys-suggesting-vast-undercount-coronavirus-infections-may-be-unreliable), a ScienceMag article critical of the methodologies and conclusions of a few of the large-sample antibody assays done recently around the world, while also describing them to the extent it's possible (since a few gave their results to the press before publishing papers)
+* [SARS-CoV-2 seroprevalence trends in healthy blood donors during the COVID-19 Milan outbreak](https://www.medrxiv.org/content/10.1101/2020.05.11.20098442v1.full), finding that among blood donors in Milan, Lombardy, around 4.6% were positive to IgG at the "start of the outbreak" on February 24, and around 7.1% by April 8, using a test with 98.3% specificity
 
 
 ## Models
