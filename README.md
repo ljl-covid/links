@@ -196,6 +196,7 @@ You can read and follow [this self-triage tool](https://www.statnews.com/2020/03
 * [As COVID-19 vaccines progress, science and policy questions become more urgent](https://www.biocentury.com/article/304919), published on BioCentury, discusses the agreement between Sanofi and GlaxoSmithKline giving opinions on practicality of trials, scaling up, and manufacturing capacity
 * [The role of Vitamin D in the prevention of Coronavirus Disease 2019 infection and mortality](https://www.researchsquare.com/article/rs-21211/v1), a study, finding that low levels of vitamin D in certain areas were "strongly associated" with number of COVID-19 cases and mortality rates, and concluding that they can "can advise Vitamin D supplementation to protect against SARS-CoV2 infection", which is consistent with the preprint claiming [Vitamin D Insufficiency is Prevalent in Severe COVID-19](https://www.medrxiv.org/content/10.1101/2020.04.24.20075838v1)
 * [Here are the top drugs in development](https://www.cnbc.com/2020/05/13/coronavirus-scientists-race-to-find-a-cure-or-vaccine-here-are-the-top-drugs-in-development.html) as of May 13 according to the CNBC, which presents vaccines and treatments with their clinical trial phase, and brief descriptions
+* [Saliva is more sensitive for SARS-CoV-2 detection in COVID-19 patients than nasopharyngeal swabs](https://www.medrxiv.org/content/10.1101/2020.04.16.20067835v1), an observation that may free us from those cringey swabs, if it gets past preprint stage
 
 ## Epidemiology
 
