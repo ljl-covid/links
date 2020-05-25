@@ -176,6 +176,7 @@ You can read and follow [this self-triage tool](https://www.statnews.com/2020/03
 
 ## Therapeutics and vaccines
 
+* [The race for coronavirus vaccines: a graphical guide](https://www.nature.com/articles/d41586-020-01221-y), an introductory article on Nature
 * [Monoclonal Antibodies for the Coronavirus](https://blogs.sciencemag.org/pipeline/archives/2020/04/27/monoclonal-antibodies-for-the-coronavirus), probably the most promising potential treatment right now
 * [A review of current possible treatments](https://blogs.sciencemag.org/pipeline/archives/2020/03/19/coronavirus-some-clinical-trial-data) discussing clinical trials or lack thereof
 * [A Close Look at the Frontrunning Coronavirus Vaccines As of April 28](https://blogs.sciencemag.org/pipeline/archives/2020/04/23/a-close-look-at-the-frontrunning-coronavirus-vaccines-as-of-april-23), another In The Pipeline article
