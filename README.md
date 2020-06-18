@@ -175,6 +175,7 @@ You can read and follow [this self-triage tool](https://www.statnews.com/2020/03
 * [Humoral immune response and prolonged PCR positivity in a cohort of 1343 SARS-CoV 2 patients in the New York City region](https://www.medrxiv.org/content/10.1101/2020.04.30.20085613v1), a preprint showing that nearly all confirmed patients had developed antibodies to the SARS-CoV-2 spike protein
 * [Human coronavirus reinfection dynamics: lessons for SARS-CoV-2](https://www.medrxiv.org/content/10.1101/2020.05.11.20086439v1) warns that the duration of immunity after infection from other human coronaviruses is found to be as low as 12 or 6 months
 * [Detectable 2019-nCoV viral RNA in blood is a strong indicator for the further clinical severity](https://www.tandfonline.com/doi/full/10.1080/22221751.2020.1732837), finds a Chinese study, which appears confirmed by a German study on [SARS‐CoV‐2 asymptomatic and symptomatic patients and risk for transfusion transmission](https://onlinelibrary.wiley.com/doi/full/10.1111/trf.15841)
+* [Probability of symptoms and critical disease after SARS-CoV-2 infection](https://arxiv.org/abs/2006.08471) is shown to vary by age and sex in this Italian study performed on contacts of positive patients in Lombardy, with 36.1% of all infections being asymptomatic
 
 ## Therapeutics and vaccines
 
