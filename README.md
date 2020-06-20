@@ -280,6 +280,7 @@ There is mixed advice on the use of masks by the general public, and the advice 
 * [Blood tests show 14% of people are now immune to covid-19 in one town in Germany](https://www.technologyreview.com/2020/04/09/999015/blood-tests-show-15-of-people-are-now-immune-to-covid-19-in-one-town-in-germany/) using antibody tests on a sample of 500 people
 * [New York antibody study estimates 13.9% of residents have had the coronavirus, Gov. Cuomo says](https://www.cnbc.com/2020/04/23/new-york-antibody-study-estimates-13point9percent-of-residents-have-had-the-coronavirus-cuomo-says.html), meaning at least 2.7 million New Yorkers have been infected as of April 23 ago, if this sampling of people going to grocery stores and shopping loations is representative
 * [First known U.S. coronavirus death occurred on Feb. 6 in Santa Clara County](https://www.sfchronicle.com/health/article/First-known-U-S-coronavirus-death-occurred-on-15217316.php), San Francisco Chronicle article describing post-mortem confirmed cases predating earliest known deaths in California, and (https://www.scmp.com/news/world/united-states-canada/article/3081330/coronavirus-covid-19-us-earlier-first-thought-and), an SCMP article also covering that with discussion of implications given prevalence shown by antibody tests in the state of New York 
+* [NIH halts clinical trial of hydroxychloroquine](https://www.nih.gov/news-events/news-releases/nih-halts-clinical-trial-hydroxychloroquine): study shows treatment does no harm, but provides no benefit
 
 ## Feeds
 
