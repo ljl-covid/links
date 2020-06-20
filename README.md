@@ -149,7 +149,7 @@ You can read and follow [this self-triage tool](https://www.statnews.com/2020/03
 
 # Science
 
-* [ZB MED COVID-19 Hub](https://covid-19.zbmed.de/main/) collects a variety of scientific information and tools for SARS-CoV-2
+* [ZB MED COVID-19 Hub](https://www.zbmed.de/en/covid-19/overview/) collects a variety of scientific information and tools for SARS-CoV-2
 * [Semantic Scholar's COVID-19 Open Research Dataset](https://pages.semanticscholar.org/coronavirus-research), a free resource of over 47,000 scholarly articles, including over 36,000 with full text, about COVID-19 and the coronavirus family of viruses for use by the global research community
 * [Chemical & Engineering News COVID-19 portal](https://cen.acs.org/sections/Tracking-the-novel-coronavirus.html)
 * [Nextstrain genomic epidemiology](https://nextstrain.org/ncov) showing genetic variants of the virus by area and other factors (see also [this article about "cryptic" transmission](https://bedford.io/blog/ncov-cryptic-transmission/))
