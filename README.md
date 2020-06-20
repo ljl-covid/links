@@ -187,7 +187,7 @@ You can read and follow [this self-triage tool](https://www.statnews.com/2020/03
 * [About Remdesivir and About “Game-Changers”](https://blogs.sciencemag.org/pipeline/archives/2020/04/30/about-remdesivir-and-about-game-changers), a critical look at Remdesivir trials and the general outlook for practical treatments
 * [COVID-19 therapies and vaccines: Clinical](https://www.biocentury.com/clinical-vaccines-and-therapies) on BioCentury
 * [COVID-19 vaccines and therapies: preclinical](https://www.biocentury.com/preclinical-vaccines-and-therapies) also on BioCentury
-* [oronavirus Vaccine Prospects](https://blogs.sciencemag.org/pipeline/archives/2020/04/15/coronavirus-vaccine-prospects), an April 15 In The Pipeline article
+* [Coronavirus Vaccine Prospects](https://blogs.sciencemag.org/pipeline/archives/2020/04/15/coronavirus-vaccine-prospects), an April 15 In The Pipeline article
 * [SARS-CoV-2 Vaccines: Status Report](https://www.cell.com/immunity/pdf/S1074-7613(20\)30120-5.pdf), published on Cell on April 14, also covers therapeutics and has a summary table of vaccine types being investigated and their main characteristics on page 386
 * [Covid-19 Biologic Therapies Reviewed](https://blogs.sciencemag.org/pipeline/archives/2020/03/09/covid-19-biologic-therapies-reviewed), an older article covering both treatments based on antibodies isolated from plasma and vaccine prospects
 * [Pharmacologic Treatments for Coronavirus Disease 2019 (COVID-19)](https://jamanetwork.com/journals/jama/fullarticle/2764727), a review analyzing various proposed treatments and concluding there is as of yet no reliable evidence-based treatment
