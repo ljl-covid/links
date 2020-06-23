@@ -179,6 +179,7 @@ You can read and follow [this self-triage tool](https://www.statnews.com/2020/03
 
 ## Therapeutics and vaccines
 
+* [Cytel's Global Coronavirus COVID-19 Clinical Trial Tracker](https://www.covid-trials.org/)
 * [The race for coronavirus vaccines: a graphical guide](https://www.nature.com/articles/d41586-020-01221-y), an introductory article on Nature
 * [Safety, tolerability, and immunogenicity of a recombinant adenovirus type-5 vectored COVID-19 vaccine: a dose-escalation, open-label, non-randomised, first-in-human trial](https://www.thelancet.com/journals/lancet/article/PIIS0140-6736(20\)31208-3/fulltext), published on The Lancet, concludes after testing an experimental vaccine on about 200 individual that, despite some mild or moderate adverse effect, this vaccine may be safe and at least temporarily immunogenic in all individuals who received it
 * [Monoclonal Antibodies for the Coronavirus](https://blogs.sciencemag.org/pipeline/archives/2020/04/27/monoclonal-antibodies-for-the-coronavirus), probably the most promising potential treatment right now
