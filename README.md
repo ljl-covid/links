@@ -70,7 +70,7 @@ You can read and follow [this self-triage tool](https://www.statnews.com/2020/03
 
 ## Europe
 
-* [The ECDC's case distribution map](https://www.ecdc.europa.eu/en/geographical-distribution-2019-ncov-cases) probably deserves a mention
+* [The ECDC's case distribution map](https://www.ecdc.europa.eu/en/geographical-distribution-2019-ncov-cases) and their [COVID-19 dashboard](https://qap.ecdc.europa.eu/public/extensions/COVID-19/COVID-19.html) probably deserve a mention
 * [Fraunhofer's Tracking Map Europe - SARS-CoV-2 Coronavirus (2019-nCoV)](https://gisweb.iao.fraunhofer.de/portal/apps/opsdashboard/index.html#/def030d5b8a7454b9d461d92294340ad) including sub-national units for most European countries
 * [COVID-19 outbreak in Italy](https://www.arcgis.com/apps/opsdashboard/index.html#/4f74fc222b7041cd9cc3c52e62af1b8c) with a map and data for Italy by provinces
 * [Il Sole 24 Ore's Italy-specific tracker](https://lab24.ilsole24ore.com/coronavirus/en) with cases by region and province as well as hospitalization/ICU rates and other detailed graphs
