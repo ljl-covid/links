@@ -207,6 +207,7 @@ You can read and follow [this self-triage tool](https://www.statnews.com/2020/03
 
 ## Epidemiology
 
+* [ECDC's COVID-19 surveillance report](https://covid19-surveillance-report.ecdc.europa.eu/), updated on a weekly basis with detail data on the evolution of the epidemic in Europe
 * [EuroMoMo](https://www.euromomo.eu/graphs-and-maps/), publishing bulletins and detailed graphs of excess mortality in European countries, and the CDC's [Excess Deaths Associated with COVID-19](https://www.cdc.gov/nchs/nvss/vsrr/covid19/excess_deaths.htm) page has a similar visualization for the US during the pandemic
 * [The Economist](https://web.archive.org/web/20200423005306/https://www.economist.com/graphic-detail/2020/04/16/tracking-covid-19-excess-deaths-across-countries) and the [New York Times](https://web.archive.org/web/20200424161633/https://www.nytimes.com/interactive/2020/04/21/world/coronavirus-missing-deaths.html) have articles on excess mortality, with the former in particular looking at specific regions like Lombardy, Madrid and New York City
 * [COVID-19 Deaths by Demographic and Geographic Characteristics](https://www.cdc.gov/nchs/nvss/vsrr/covid_weekly/index.htm) provided by the CDC for the US
