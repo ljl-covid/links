@@ -87,6 +87,7 @@ You can read and follow [this self-triage tool](https://www.statnews.com/2020/03
 * [Lombardy Region map and data](https://lispa.maps.arcgis.com/apps/opsdashboard/index.html#/637ec3dc28ec4ea591cc5c724f127701) from Italy's hardest-hit region
 * [NPGEO COVID-19 Dashboard - Schweiz und Fürstentum Liechtenstein](https://npgeo-corona-npgeo-de.hub.arcgis.com/app/115cd04485904fa7a5629b683a949390) for Switzerland and Lichtenstein
 * [NPGEO COVID-19 Dashboard Österreich Mit öffentlich zugänglichen Informationen des Sozialministeriums](https://npgeo-corona-npgeo-de.hub.arcgis.com/app/1b9af672fe1140329ebff73b2ca8d722) for Austria
+* [COVID‑19: Přehled aktuální situace v ČR](https://onemocneni-aktualne.mzcr.cz/covid-19) with data for Czechia
 * [COVID-19 Cases in Scotland](https://corona.scot/), map and graphs
 
 ## North America
