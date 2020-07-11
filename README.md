@@ -67,6 +67,7 @@ You can read and follow [this self-triage tool](https://www.statnews.com/2020/03
 * [DXY](https://ncov.dxy.cn/ncovh5/view/pneumonia) is the most used site by Chinese medical researchers, and has many graphs and maps in Chinese
 * [Sina](https://news.sina.cn/zt_d/yiqing0121), also in Chinese
 * [COVID19 India](https://www.covid19india.org/), with maps and graphs by state and district
+* [Japan COVID-19 Coronavirus Tracker](https://covid19japan.com/) with data by prefecture
 
 ## Europe
 
