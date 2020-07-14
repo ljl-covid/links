@@ -236,6 +236,11 @@ You can read and follow [this self-triage tool](https://www.statnews.com/2020/03
 * [SARS-CoV-2 seroprevalence trends in healthy blood donors during the COVID-19 Milan outbreak](https://www.medrxiv.org/content/10.1101/2020.05.11.20098442v1.full), finding that among blood donors in Milan, Lombardy, around 4.6% were positive to IgG at the "start of the outbreak" on February 24, and around 7.1% by April 8, using a test with 98.3% specificity, yielding similar prevalence as a [Seroprevalence of SARS-CoV-2 in Hong Kong and in residents evacuated from Hubei province, China: a multicohort study](https://www.thelancet.com/journals/lanmic/article/PIIS2666-5247\(20\)30053-7/fulltext) despite different specificity and sensitivity of tests
 * [Targets of T cell responses to SARS-CoV-2 coronavirus in humans with COVID-19 disease and unexposed individuals](https://www.cell.com/cell/fulltext/S0092-8674\(20\)30610-3), published on Cell, finds that T-cells from uninfected individuals respond to SARS-CoV-2, "suggesting cross-reactive recognition between circulating ‘common cold’ coronaviruses and SARS-CoV-2", echoing a previous preprint [Presence of SARS-CoV-2 reactive T cells in COVID-19 patients and healthy donors](https://www.medrxiv.org/content/10.1101/2020.04.17.20061440v1)
 
+## Follow-up
+
+* [Post-hospitalisation COVID-19 study (PHOSP-COVID)](https://www.phosp.org/), recruiting 10,000 patients who have been hospitalised with COVID-19 in the UK
+* [CORAL Study](https://www.thecoralstudy.com/about), trying to understanding the impact of COVID-19 on young people, adults, pregnant women and older people to predict need for mental health support
+* [Persistent Symptoms in Patients After Acute COVID-19](https://jamanetwork.com/journals/jama/fullarticle/2768351), an Italian study on patients that were hospitalized, after around 60 days
 
 ## Models
 
