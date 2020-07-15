@@ -295,6 +295,7 @@ There is mixed advice on the use of masks by the general public, and the advice 
 * [NIH halts clinical trial of hydroxychloroquine](https://www.nih.gov/news-events/news-releases/nih-halts-clinical-trial-hydroxychloroquine): study shows treatment does no harm, but provides no benefit
 * [Mysterious Covid-linked disease 'no longer expected to be fatal' in children after treatment breakthrough ](https://www.telegraph.co.uk/news/2020/06/20/treatment-breakthrough-means-mysterious-covid-linked-kawasaki/) after increases of [Kawasaki](https://en.wikipedia.org/wiki/Kawasaki_disease)-like syndromes had seemed to appear in children with COVID-19
 * Face masks to become mandatory in shops in [England](https://www.bbc.com/news/uk-politics-53397617) and [France](https://www.france24.com/en/20200714-macron-wearing-masks-in-enclosed-public-spaces-to-become-mandatory-in-france), while [CDC study recommends mask mandates to battle coronavirus](https://www.cnbc.com/2020/07/14/cdc-study-says-mask-mandates-should-be-considered-after-examining-missouri-hair-salon.html), claiming it could get it [under control in one to two months if everyone wears a mask](https://www.cnbc.com/2020/07/14/cdc-says-us-could-get-coronavirus-under-control-in-one-to-two-months-if-everyone-wears-a-mask.html)
+* [Experimental COVID-19 vaccine safe, generates immune response](https://www.nih.gov/news-events/news-releases/experimental-covid-19-vaccine-safe-generates-immune-response) in the NIH-sponsored Phase 1 trial tested mRNA vaccine co-developed with Moderna
 
 ## Feeds
 
