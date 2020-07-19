@@ -79,7 +79,7 @@ You can read and follow [this self-triage tool](https://www.statnews.com/2020/03
 * [El Pais Coronavirus tracker](https://elpais.com/sociedad/2020/03/30/actualidad/1585589827_546714.html) with maps and data for Spain and the world, in Spanish
 * [El Comercio's tracker](https://www.elcomercio.es/sociedad/salud/coronavirus-wuhan-amenaza-20200129164607-ntrc.html) with a map for Spain and several graphs for Spain and other countries
 * [DGS's COVID-19 em Portugal](https://covid19.min-saude.pt/ponto-de-situacao-atual-em-portugal/) map for Portugal
-* [Coronavirus (COVID-19) in the UK](https://coronavirus.data.gov.uk/), official data and map for the United Kingdom
+* [Coronavirus (COVID-19) in the UK](https://coronavirus.data.gov.uk/), official data and map for the United Kingdom, and [its improved beta version](https://coronavirus-staging.data.gov.uk/)
 * [Coronavirus near me: are UK Covid-19 cases rising or falling in your area?](https://www.theguardian.com/world/2020/jul/19/coronavirus-near-me-are-uk-covid-19-cases-rising-or-falling-in-your-area) by The Guardian with more granular locations than most trackers which only have England, Wales, Scotland, and Northern Ireland as subdivisions
 * [Robert Koch-Institut's COVID-19-Dashboard](https://corona.rki.de) for Germany
 * [Epidémie COVID-19](https://thibautfabacher.shinyapps.io/covid-france/), a map by department for France with data on hospitalizations, fatalities and ICU cases
