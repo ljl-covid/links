@@ -245,6 +245,7 @@ You can read and follow [this self-triage tool](https://www.statnews.com/2020/03
 * [Post-hospitalisation COVID-19 study (PHOSP-COVID)](https://www.phosp.org/), recruiting 10,000 patients who have been hospitalised with COVID-19 in the UK
 * [CORAL Study](https://www.thecoralstudy.com/about), trying to understanding the impact of COVID-19 on young people, adults, pregnant women and older people to predict need for mental health support
 * [Persistent Symptoms in Patients After Acute COVID-19](https://jamanetwork.com/journals/jama/fullarticle/2768351), an Italian study on patients that were hospitalized, after around 60 days
+* [Outcomes of Cardiovascular Magnetic Resonance Imaging in Patients Recently Recovered From Coronavirus Disease 2019 (COVID-19)](https://jamanetwork.com/journals/jamacardiology/fullarticle/2768916), a study on 100 "unselected" patients in Germany (median age 49), finds that 78% had cardiac involved, and 60% ongoing myocardial inflammation
 
 ## Models
 
