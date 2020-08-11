@@ -255,6 +255,7 @@ You can read and follow [this self-triage tool](https://www.statnews.com/2020/03
 * [Event Horizon - COVID-19](http://rocs.hu-berlin.de/corona/) by the Brockmann lab at RKI, with predictions for several countries
 * [Ontario's COVID-19 Technical Briefing](http://s3.documentcloud.org/documents/6824779/COVID-19-Technical-Briefing-Friday-April-4-2020.pdf)
 * [Modelling the COVID-19 epidemic and implementation of population-wide interventions in Italy](https://www.nature.com/articles/s41591-020-0883-7), published on Nature
+* [COVID-19 Daily Epidemic Forecasting](https://renkulab.shinyapps.io/COVID-19-Epidemic-Forecasting/) by the Institute of Global Health, Faculty of Medicine, University of Geneva and the Swiss Data Science Center, ETH Zürich-EPFL
 
 ## Masks
 
