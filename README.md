@@ -215,11 +215,11 @@ You can read and follow [this self-triage tool](https://www.statnews.com/2020/03
 
 ## Epidemiology
 
-| Country | Sereprevalence | Highest-hit area | Asymptomatics |
-|---------|            ---:|------------------|           ---:|
-| England | 6%             | London (13%)     | 32%           |
-| Italy   | 2.5%           | Lombardy (7.5%)  | 27.3%         |
-| Spain   | 5%             | Madrid (>10%)    | 32.7%         |
+| Country | Sereprevalence | Highest-hit area | In health workers | Asymptomatics | Seroconversion |
+|---------|---------------:|------------------|------------------:|--------------:|---------------:|
+| England |             6% | London (13%)     |             11.7% |           32% |          96.2% |
+| Italy   |           2.5% | Lombardy (7.5%)  |              5.6% |         27.3% |            N/A |
+| Spain   |             5% | Madrid (>10%)    |             10.2% |         32.7% |          91.8% |
 
 * [ECDC's COVID-19 surveillance report](https://covid19-surveillance-report.ecdc.europa.eu/), updated on a weekly basis with detail data on the evolution of the epidemic in Europe
 * [Short-term Mortality Fluctuations](https://mpidr.shinyapps.io/stmortality/) by the [Human Mortality Database](https://www.mortality.org/), providing excess mortality visualizations and raw data from 25 countries
