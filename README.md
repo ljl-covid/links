@@ -214,12 +214,11 @@ You can read and follow [this self-triage tool](https://www.statnews.com/2020/03
 * [Hydroxychloroquine or chloroquine with or without a macrolide for treatment of COVID-19: a multinational registry analysis](https://www.thelancet.com/journals/lancet/article/PIIS0140-6736\(20\)31180-6/fulltext), published on The Lancet, reviews use of (hydroxy)chloroquine in many hospitals internationally, and finds that no positive effects could be observed on patients using them, but that both "associated with decreased in-hospital survival and an increased frequency of ventricular arrhythmias"
 
 ## Epidemiology
-
-| Country | Sereprevalence | Highest-hit area | In health workers | Asymptomatics | Seroconversion |
-|---------|---------------:|------------------|------------------:|--------------:|---------------:|
-| England |             6% | London (13%)     |             11.7% |           32% |          96.2% |
-| Italy   |           2.5% | Lombardy (7.5%)  |              5.6% |         27.3% |            N/A |
-| Spain   |             5% | Madrid (>10%)    |             10.2% |         32.7% |          91.8% |
+| Country | Sereprevalence | Highest-hit area | In health workers | Asymptomatics | Seroconversion | Source |
+|---------|---------------:|------------------|------------------:|--------------:|---------------:|--------|
+| England |             6% | London (13%)     |             11.7% |           32% |          96.2% | [Imperial](https://www.imperial.ac.uk/media/imperial-college/institute-of-global-health-innovation/Ward-et-al-120820.pdf)      |
+| Italy   |           2.5% | Lombardy (7.5%)  |              5.6% |         27.3% |            N/A | [Ministry of Health](http://www.salute.gov.it/portale/news/p3_2_1_1_1.jsp?lingua=italiano&menu=notizie&p=dalministero&id=5012) |
+| Spain   |             5% | Madrid (>10%)    |             10.2% |         32.7% |          91.8% | [Lancet](https://www.thelancet.com/journals/lancet/article/PIIS0140-6736\(20\)31483-5/fulltext)                                |
 
 * [ECDC's COVID-19 surveillance report](https://covid19-surveillance-report.ecdc.europa.eu/), updated on a weekly basis with detail data on the evolution of the epidemic in Europe
 * [Short-term Mortality Fluctuations](https://mpidr.shinyapps.io/stmortality/) by the [Human Mortality Database](https://www.mortality.org/), providing excess mortality visualizations and raw data from 25 countries
