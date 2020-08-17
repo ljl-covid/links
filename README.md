@@ -197,7 +197,7 @@ You can read and follow [this self-triage tool](https://www.statnews.com/2020/03
 * [COVID-19 therapies and vaccines: Clinical](https://www.biocentury.com/clinical-vaccines-and-therapies) on BioCentury
 * [COVID-19 vaccines and therapies: preclinical](https://www.biocentury.com/preclinical-vaccines-and-therapies) also on BioCentury
 * [Coronavirus Vaccine Prospects](https://blogs.sciencemag.org/pipeline/archives/2020/04/15/coronavirus-vaccine-prospects), an April 15 In The Pipeline article
-* [SARS-CoV-2 Vaccines: Status Report](https://www.cell.com/immunity/pdf/S1074-7613(20\)30120-5.pdf), published on Cell on April 14, also covers therapeutics and has a summary table of vaccine types being investigated and their main characteristics on page 386
+* [SARS-CoV-2 Vaccines: Status Report](https://www.cell.com/immunity/pdf/S1074-7613\(20\)30120-5.pdf), published on Cell on April 14, also covers therapeutics and has a summary table of vaccine types being investigated and their main characteristics on page 386
 * [Covid-19 Biologic Therapies Reviewed](https://blogs.sciencemag.org/pipeline/archives/2020/03/09/covid-19-biologic-therapies-reviewed), an older article covering both treatments based on antibodies isolated from plasma and vaccine prospects
 * [Pharmacologic Treatments for Coronavirus Disease 2019 (COVID-19)](https://jamanetwork.com/journals/jama/fullarticle/2764727), a review analyzing various proposed treatments and concluding there is as of yet no reliable evidence-based treatment
 * [The COVID-19 vaccine development landscape](https://www.nature.com/articles/d41573-020-00073-5), published on Nature on April 9, presenting charts with breakdowns of vaccine types under study and their profit models
@@ -219,7 +219,7 @@ You can read and follow [this self-triage tool](https://www.statnews.com/2020/03
 |---------|---------------:|------------------|------------------:|--------------:|---------------:|--------|
 | England |             6% | London (13%)     |             11.7% |           32% |          96.2% | [Imperial](https://www.imperial.ac.uk/media/imperial-college/institute-of-global-health-innovation/Ward-et-al-120820.pdf)      |
 | Italy   |           2.5% | Lombardy (7.5%)  |              5.6% |         27.3% |            N/A | [Ministry of Health](http://www.salute.gov.it/portale/news/p3_2_1_1_1.jsp?lingua=italiano&menu=notizie&p=dalministero&id=5012) |
-| Spain   |             5% | Madrid (>10%)    |             10.2% |         32.7% |          91.8% | [Lancet](https://www.thelancet.com/journals/lancet/article/PIIS0140-6736\(20\)31483-5/fulltext)                                |
+| Spain   |             5% | Madrid (>10%)    |             10.2% |         32.7% |          91.8% | [Lancet](https://www.thelancet.com/journals/lancet/article/PIIS0140-6736%2820%2931483-5/fulltext)                                |
 
 * [ECDC's COVID-19 surveillance report](https://covid19-surveillance-report.ecdc.europa.eu/), updated on a weekly basis with detail data on the evolution of the epidemic in Europe
 * [Short-term Mortality Fluctuations](https://mpidr.shinyapps.io/stmortality/) by the [Human Mortality Database](https://www.mortality.org/), providing excess mortality visualizations and raw data from 25 countries
