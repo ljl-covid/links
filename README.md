@@ -1,4 +1,6 @@
-- [Do I have it?](#do-i-have-it)
+- [Questions](#questions)
+  * [Do I have it?](#do-i-have-it)
+  * [Why did the WHO give conflicting information?](#why-did-the-who-give-conflicting-information)
 - [Basics](#basics)
 - [Trackers](#trackers)
   * [Asia](#asia)
