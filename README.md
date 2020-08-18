@@ -19,6 +19,8 @@
   * [Feeds](#feeds)
 - [Italy](#italy)
 
+# Questions
+
 **First and foremost**: Please [read this article](https://medium.com/@tomaspueyo/coronavirus-act-today-or-people-will-die-f4d3d9cd99ca) and understand what is happening, and about to happen again. This virus is not a joke, and let's get one thing straight: it's definitely **NOT** a flu. [It is not even very bad flu](https://framapic.org/nnKQN9siF9jK/8FWSaX1fbDPY.png):
 
 * it is a completely different type of virus (the [coronavirus](https://en.wikipedia.org/wiki/Coronavirus) dubbed [SARS-CoV-2](https://en.wikipedia.org/wiki/Severe_acute_respiratory_syndrome_coronavirus_2), while influenza is caused by an [influenzavirus](https://en.wikipedia.org/wiki/Orthomyxoviridae))
@@ -33,7 +35,7 @@
 
 But it does tend to present with fever, joint aches and a dry cough. Right, those are similar symptoms to flu. They are also symptoms of a myriad other diseases too, so there is no reason in particular to compare it with flu. Bottom line: it has nothing to do with the flu except for having some similar symptoms just like most other viral diseases.
 
-# Do I have it?
+## Do I have it?
 
 Short answer: we don't know.
 
@@ -46,6 +48,14 @@ So if you have some symptoms, unfortunately, it needs to be clear that you *cann
 You can read and follow [this self-triage tool](https://www.statnews.com/2020/03/20/self-triage-tool-covid-19/) to determine whether your symptoms warrant consulting medical services.
 
 [ProPublica requests information sharing](https://www.propublica.org/getinvolved/we-want-to-talk-to-people-working-or-living-on-the-front-lines-of-coronavirus-help-us-report) from people who have been affected by the virus (as patients, caregivers or health workers). If you are or have been a patient, please feel free to write there.
+
+## Why did the WHO give conflicting information?
+
+The [WHO](https://en.wikipedia.org/wiki/World_Health_Organization) is more of a political body than a scientific information body. They will say what their member states and their committee think will make people behave in the way they desire, not necessarily what is scientific truth (or and admission of lack of knowledge of the truth). This can explain why they seemed to be against wearing masks while there was a shortage for them for healthcare workers.
+
+When the WHO says "there is no evidence" for something, that's exactly what they are saying: "there is no \[sufficient\] evidence for it", not "it isn't true"; often their information seems to imply something isn't true when there merely hasn't been extremely solid evidence accumulated yet.
+
+Note that the WHO will generally be unable to make statements that their more prominent member states do not want them to make, even if those statements would be scientifically valid, and [this has been admitted by WHO representatives](https://github.com/ljl-covid/links/blob/0bc2e2e50ef46b1852ca5e4197d4a94b4019dbfe/speeches/Italian-Civil-Protection/2020-04-15.txt#L89) themselves.
 
 # Basics
 
