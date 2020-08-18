@@ -114,6 +114,7 @@ Note that the WHO will generally be unable to make statements that their more pr
 * [DGS's COVID-19 em Portugal](https://covid19.min-saude.pt/ponto-de-situacao-atual-em-portugal/) map for Portugal
 * [Coronavirus (COVID-19) in the UK](https://coronavirus.data.gov.uk/), official data and map for the United Kingdom, and [its improved beta version](https://coronavirus-staging.data.gov.uk/)
 * [Coronavirus near me: are UK Covid-19 cases rising or falling in your area?](https://www.theguardian.com/world/2020/aug/01/coronavirus-near-me-are-uk-covid-19-cases-rising-in-your-local-area) by The Guardian with more granular locations than most trackers which only have England, Wales, Scotland, and Northern Ireland as subdivisions (unfortunately, the URL is subject to change)
+* [Coronavirus (COVID-19) positive cases by Middle Super Output Area (MSOA) in England](https://www.arcgis.com/apps/webappviewer/index.html?id=47574f7a6e454dc6a42c5f6912ed7076) covering only England in a very granular way by [MSOA](https://en.wikipedia.org/wiki/Middle_Layer_Super_Output_Area)
 * [Robert Koch-Institut's COVID-19-Dashboard](https://corona.rki.de) for Germany
 * [Epidémie COVID-19](https://thibautfabacher.shinyapps.io/covid-france/), a map by department for France with data on hospitalizations, fatalities and ICU cases
 * [Suivi des patients Covid-19 en France](https://mapthenews.maps.arcgis.com/apps/opsdashboard/index.html#/5df19abcf8714bc590a3b143e14a548c) with maps, graphs and numbers for France, including number of hospitalizations and ICU admissions 
