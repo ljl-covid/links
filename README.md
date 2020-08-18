@@ -1,6 +1,6 @@
 - [Questions](#questions)
   * [Do I have it?](#do-i-have-it)
-  * [Why did the WHO give conflicting information?](#why-did-the-who-give-conflicting-information)
+  * [Why is WHO information confusing?](#why-is-who-information-confusing)
 - [Basics](#basics)
 - [Trackers](#trackers)
   * [Asia](#asia)
@@ -51,13 +51,13 @@ You can read and follow [this self-triage tool](https://www.statnews.com/2020/03
 
 [ProPublica requests information sharing](https://www.propublica.org/getinvolved/we-want-to-talk-to-people-working-or-living-on-the-front-lines-of-coronavirus-help-us-report) from people who have been affected by the virus (as patients, caregivers or health workers). If you are or have been a patient, please feel free to write there.
 
-## Why did the WHO give conflicting information?
+## Why is WHO information confusing?
 
-The [WHO](https://en.wikipedia.org/wiki/World_Health_Organization) is more of a political body than a scientific information body. They will say what their member states and their committee think will make people behave in the way they desire, not necessarily what is scientific truth (or and admission of lack of knowledge of the truth). This can explain why they seemed to be against wearing masks while there was a shortage for them for healthcare workers.
+The [WHO](https://en.wikipedia.org/wiki/World_Health_Organization) is more of a political body than a scientific information body. They will say what their member states and their committees think will make people behave in desired ways, not necessarily state the exact scientific truth, or that we don't know it yet. This can explain why they seemed to be against wearing masks while there was a shortage of them for healthcare workers.
 
-When the WHO says "there is no evidence" for something, that's exactly what they are saying: "there is no \[sufficient\] evidence for it", not "it isn't true"; often their information seems to imply something isn't true when there merely hasn't been extremely solid evidence accumulated yet.
+When the WHO says "there is no evidence" for something, that's exactly what they are saying: "there is no \[sufficient\] evidence for it", not "it isn't true"; often their information seems to imply something isn't true when there merely hasn't been extremely solid evidence accumulated yet to corroborate it.
 
-Note that the WHO will generally be unable to make statements that their more prominent member states do not want them to make, even if those statements would be scientifically valid, and [this has been admitted by WHO representatives](https://github.com/ljl-covid/links/blob/0bc2e2e50ef46b1852ca5e4197d4a94b4019dbfe/speeches/Italian-Civil-Protection/2020-04-15.txt#L89) themselves.
+Note that the WHO will generally be unable to make statements that their more prominent member states do not want them to make, even if those statements would be scientifically valid, which [has been admitted by WHO representatives](https://github.com/ljl-covid/links/blob/0bc2e2e50ef46b1852ca5e4197d4a94b4019dbfe/speeches/Italian-Civil-Protection/2020-04-15.txt#L89) themselves.
 
 # Basics
 
