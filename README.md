@@ -221,6 +221,7 @@ Note that the WHO will generally be unable to make statements that their more pr
 ## Therapeutics and vaccines
 
 * [Cytel's Global Coronavirus COVID-19 Clinical Trial Tracker](https://www.covid-trials.org/)
+* [CovidVax](https://covidvax.org/), an updated list of COVID-19 vaccines
 * [Coronavirus Vaccine Update, July 7](https://blogs.sciencemag.org/pipeline/archives/2020/06/29/coronavirus-vaccine-update-june-29) by Derek Lowe nicely covers the "frontrunners" and also some lesser known vaccines, divided by type, with commentary; [Coronavirus Vaccine Roundup, Early September](https://blogs.sciencemag.org/pipeline/archives/2020/09/03/coronavirus-vaccine-roundup-early-september) follows up on that
 * [The race for coronavirus vaccines: a graphical guide](https://www.nature.com/articles/d41586-020-01221-y), an introductory article on Nature
 * [Safety and immunogenicity of the ChAdOx1 nCoV-19 vaccine against SARS-CoV-2: a preliminary report of a phase 1/2, single-blind, randomised controlled trial](https://www.thelancet.com/journals/lancet/article/PIIS0140-6736(20)31604-4/fulltext), encouraging preliminary results from the "Oxford" vaccines, showing an acceptable safety profile and strong immune response after a booster, while [Derek Lowe's "In The Pipeline" blog provides a critical commentary](https://blogs.sciencemag.org/pipeline/archives/2020/07/20/new-data-on-the-oxford-az-vaccine) on it
