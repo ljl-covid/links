@@ -356,6 +356,7 @@ There is mixed advice on the use of masks by the general public, and the advice 
 ## Feeds
 
 * [John Hopkins daily data](https://github.com/CSSEGISandData) in CSV format
+* [CoronaDataScraper](https://coronadatascraper.com/) provides much more extensive daily data by getting it from each government, although it's being replaced with [Li](https://github.com/covidatlas/li) which is to be run locally
 * [Australian Department of Health emergency alert](https://www.health.gov.au/news/health-alerts/novel-coronavirus-2019-ncov-health-alert#current-status)
 * https://www.reddit.com/live/14d816ty1ylvo.rss
 * https://www.globaltimes.cn/rss/outbrain.xml
