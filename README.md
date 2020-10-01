@@ -29,7 +29,7 @@
 * it has a much longer incubation time, during which evidence is starting to accumulate that it can very well be transmissible
 * it may be [more easily transmissible](https://en.wikipedia.org/wiki/Basic_reproduction_number) than even some of the very bad flus
 * mortality rates are [higher than regular seasonal flus](https://rpubs.com/tonynick/covidinfoecd) and if they are allowed to spike, they may [dwarf death figures from all causes](https://www.thenewatlantis.com/imgLib/20200414_CovidweeklydeathsNYv3.jpg) (graphs from [The New Atlantis](https://www.thenewatlantis.com/publications/not-like-the-flu-not-like-car-crashes-not-like))
-* the mortality profile is [quite different](https://github.com/mbevand/covid19-age-stratified-ifr) from even the worst flus like the [Spanish](https://en.wikipedia.org/wiki/Spanish_flu), with the sick and elderly being disproportionately at risk
+* the mortality profile is [quite different](https://github.com/mbevand/covid19-age-stratified-ifr) from seasonal flu, with the sick and elderly being disproportionately at risk, and some [similarities only arise with the hugely lethal "Spanish" flu pandemic](https://www.sciencedirect.com/science/article/pii/S1201971220305117)
 * many people (roughly 15% to 30%) require hospitalization, putting strain on resources that risks driving up COVID-19 and all-cause mortality during critical shortages
 * about 5% to 10% develop a very serious *viral* pneumonia, while people developing pneumonia from influenza usually develop a more treatable *bacterial* pneumonia
 * there is currently no vaccine, cure or any treatment aside from assisting people severely ill with breathing and other needs
