@@ -145,6 +145,7 @@ Note that the WHO will generally be unable to make statements that their more pr
 * [ECDC's general information page](https://www.ecdc.europa.eu/en/novel-coronavirus-china)
 * [ECDC guidance for cleaning contaminated surfaces](https://www.ecdc.europa.eu/sites/default/files/documents/coronavirus-SARS-CoV-2-guidance-environmental-cleaning-non-healthcare-facilities.pdf)	
 * [Re-open EU](https://reopen.europa.eu/), with detailed travel information for trips to countries in the European Union
+* [microCOVID](https://www.microcovid.org/) reviewed published research about COVID, and used it to make rough estimates about the risk level of various activities
 * [ChannelNewsAsia's page](https://www.channelnewsasia.com/news/topics/wuhan-virus) is predictably centered on the impact in Asia
 * [An overview of "who is getting sick" by various factors](https://www.statnews.com/2020/03/03/who-is-getting-sick-and-how-sick-a-breakdown-of-coronavirus-risk-by-demographic-factors/)
 * [New Yorker's take on what's gone wrong with testing in the US](https://www.newyorker.com/news/news-desk/what-went-wrong-with-coronavirus-testing-in-the-us), as the situation evolves from testing by the CDC only to public-health lab testing
