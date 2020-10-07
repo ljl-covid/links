@@ -207,6 +207,7 @@ Note that the WHO will generally be unable to make statements that their more pr
 * [Analysis of outcome-influencing factors in serious cases](https://journals.lww.com/cmj/Abstract/publishahead/Analysis_of_factors_associated_with_disease.99363.aspx) (smoking, etc.)
 * [Structural basis for the recognition of the SARS-CoV-2 by full-length human ACE2](https://science.sciencemag.org/content/early/2020/03/03/science.abb2762.full)
 * [Study on extent of environmental contamination](https://jamanetwork.com/journals/jama/fullarticle/2762692) from COVID-19 patients in China
+* [SARS-CoV-2 viral load predicts COVID-19 mortality](https://www.thelancet.com/journals/lanres/article/PIIS2213-2600(20)30354-4/fulltext), correspondence to The Lancet, finds that viral load at diagnosis is an independent predictor of mortality in a large hospitalised cohort
 * [Study about the neuroinvasive potential of SARS-COV-2](https://www.ncbi.nlm.nih.gov/pubmed/32104915) (full text not available) and [passage from it about the effectiveness of masks](https://news.ycombinator.com/item?id=22485453)
 * [Self-reported olfactory and taste disorders in SARS-CoV-2 patients](https://academic.oup.com/cid/advance-article/doi/10.1093/cid/ciaa330/5811989), a cross-sectional study
 * [American Association for Clinical Chemistry](https://www.aacc.org/global-health-outreach/how-labs-can-prepare-for-coronavirus-and-other-outbreaks), how US labs can prepare
