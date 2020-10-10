@@ -300,6 +300,7 @@ Note that the WHO will generally be unable to make statements that their more pr
 * [Persistent Symptoms in Patients After Acute COVID-19](https://jamanetwork.com/journals/jama/fullarticle/2768351), an Italian study on patients that were hospitalized, after around 60 days
 * [Outcomes of Cardiovascular Magnetic Resonance Imaging in Patients Recently Recovered From Coronavirus Disease 2019 (COVID-19)](https://jamanetwork.com/journals/jamacardiology/fullarticle/2768916), a study on 100 "unselected" patients in Germany (median age 49), finds that 78% had cardiac involved, and 60% ongoing myocardial inflammation
 * [As Their Numbers Grow, COVID-19 “Long Haulers” Stump Experts](https://jamanetwork.com/journals/jama/fullarticle/2771111) with a few examples of studies showing a large proportion of cases suffer long-term symptoms, most often cough but also frequently more complex and reminescent of [ME/CFS](https://en.wikipedia.org/wiki/Chronic_fatigue_syndrome)
+* [Persistent self-reported changes in hearing and tinnitus in post-hospitalisation COVID-19 cases](https://www.tandfonline.com/doi/full/10.1080/14992027.2020.1798519) finds that in 1 out of 10 of those cases, changes in hearing or tinnitus are reported at 8 weeks after discharge from hospital
 
 ## Models
 
