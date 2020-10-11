@@ -18,7 +18,7 @@
   * [Syndrome in children](#syndrome-in-children)
   * [Prior research](#prior-research)
 - [News](#news)
-  * [Feeds](#feeds)
+  * [API and feeds](#feeds)
 - [Italy](#italy)
 
 # Questions
@@ -191,7 +191,7 @@ Note that the WHO will generally be unable to make statements that their more pr
 
 # Science
 
-* [ZB MED COVID-19 Hub](https://www.zbmed.de/en/covid-19/overview/) collects a variety of scientific information and tools for SARS-CoV-2
+* [ZB MED COVID-19 Hub](https://www.zbmed.de/en/covid-19/overview/) collects a variety of scientific information and tools for SARS-CoV-2, and their [preVIEW](https://preview.zbmed.de/) service is an aggregator and search engine for preprints
 * [Semantic Scholar's COVID-19 Open Research Dataset](https://pages.semanticscholar.org/coronavirus-research), a free resource of over 47,000 scholarly articles, including over 36,000 with full text, about COVID-19 and the coronavirus family of viruses for use by the global research community
 * [Chemical & Engineering News COVID-19 portal](https://cen.acs.org/sections/Tracking-the-novel-coronavirus.html)
 * [Nextstrain genomic epidemiology](https://nextstrain.org/ncov) showing genetic variants of the virus by area and other factors (see also [this article about "cryptic" transmission](https://bedford.io/blog/ncov-cryptic-transmission/))
@@ -360,10 +360,11 @@ There is mixed advice on the use of masks by the general public, and the advice 
 * Face masks to become mandatory in shops in [England](https://www.bbc.com/news/uk-politics-53397617) and [France](https://www.france24.com/en/20200714-macron-wearing-masks-in-enclosed-public-spaces-to-become-mandatory-in-france), while [CDC study recommends mask mandates to battle coronavirus](https://www.cnbc.com/2020/07/14/cdc-study-says-mask-mandates-should-be-considered-after-examining-missouri-hair-salon.html), claiming it could get it [under control in one to two months if everyone wears a mask](https://www.cnbc.com/2020/07/14/cdc-says-us-could-get-coronavirus-under-control-in-one-to-two-months-if-everyone-wears-a-mask.html)
 * [Experimental COVID-19 vaccine safe, generates immune response](https://www.nih.gov/news-events/news-releases/experimental-covid-19-vaccine-safe-generates-immune-response) in the NIH-sponsored Phase 1 trial tested mRNA vaccine co-developed with Moderna
 
-## Feeds
+## API and feeds
 
 * [John Hopkins daily data](https://github.com/CSSEGISandData) in CSV format
 * [CoronaDataScraper](https://coronadatascraper.com/) provides much more extensive daily data by getting it from each government, although it's being replaced with [Li](https://github.com/covidatlas/li) which is to be run locally
+* [ZBMed preVIEW API](https://preview.zbmed.de/api/)
 * [Australian Department of Health emergency alert](https://www.health.gov.au/news/health-alerts/novel-coronavirus-2019-ncov-health-alert#current-status)
 * https://www.reddit.com/live/14d816ty1ylvo.rss
 * https://www.globaltimes.cn/rss/outbrain.xml
