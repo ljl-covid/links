@@ -387,9 +387,8 @@ There is mixed advice on the use of masks by the general public, and the advice 
 * [ISTAT mortality data](https://www.istat.it/it/archivio/240401) covering the first 4 months of 2020 compared to 2015-2019, in various formats and broken down by age and gender
 * [Age statistics for Lombardy](https://ugeo.urbistat.com/AdminStat/en/it/demografia/eta/lombardia/3/2)
 * [LeccoNotizie's map and statistics](https://lecconotizie.com/cronaca/lecco-cronaca/coronavirus-la-mappa-del-contagio-in-lombardia/) for the cases and deaths in Lombardy
-* [ISS press release concerning fatality by age groups 1](https://www.iss.it/en/comunicati-stampa/-/asset_publisher/fjTKmjJgSgdK/content/id/5286166)
-* [ISS press release concerning fatality by age groups 2](https://www.iss.it/en/comunicati-stampa/-/asset_publisher/fjTKmjJgSgdK/content/id/5288119)
-* [ISS press release concerning ages of patients](https://www.iss.it/en/comunicati-stampa/-/asset_publisher/fjTKmjJgSgdK/content/id/5286166)
+* [ISS press release concerning fatality by age groups 1](https://web.archive.org/web/20200315101227/https://www.iss.it/en/comunicati-stampa/-/asset_publisher/fjTKmjJgSgdK/content/id/5286166)
+* [ISS press release concerning fatality by age groups 2](https://web.archive.org/web/20200315101321/https://www.iss.it/en/comunicati-stampa/-/asset_publisher/fjTKmjJgSgdK/content/id/5288119)
 * [SIAARTI recommendations for treatment choice in case of lacks of beds](http://www.siaarti.it/SiteAssets/News/COVID19%20-%20documenti%20SIAARTI/SIAARTI%20-%20Covid19%20-%20Raccomandazioni%20di%20etica%20clinica.pdf) suggesting to exclude older age groups from treatment
 * [Paper estimating real infected population in Italy](https://www.medrxiv.org/content/10.1101/2020.03.14.20036103v1)
 * [Ministry of Interior self-certification form for movement within the quarantine area](https://static.gedidigital.it/repubblica/pdf/2020/cronaca/moduloautodichiarazione.pdf) which needs to be filled in whenever leaving one's residence with information on where you're going and why
