@@ -202,7 +202,8 @@ Note that the WHO will generally be unable to make statements that their more pr
 * [Eurosurveillance early incubation period study](https://www.eurosurveillance.org/content/10.2807/1560-7917.ES.2020.25.5.2000062)
 * [Lancet early spread study](https://www.thelancet.com/journals/lancet/article/PIIS0140-6736\(20\)30260-9/fulltext) using Tencent data
 * [Aerosol and Surface Stability of SARS-CoV-2 as Compared with SARS-CoV-1](https://www.nejm.org/doi/full/10.1056/NEJMc2004973), a study published on the NEJM indicating aerosol and fomite transmission is plausible for hours or days
-* [Preliminary study of coronavirus persistence on surfaces](https://www.sciencedirect.com/science/article/pii/S0195670120300463/) for previously-known coronavirus (not SARS-CoV-2 specifically yet)
+* [The effect of temperature on persistence of SARS-CoV-2 on common surfaces](https://virologyj.biomedcentral.com/articles/10.1186/s12985-020-01418-7) finds that the virus can stay viable on surfaces for periods of time up to a month, at least in stable, dark conditions, and decreasing sharply above 20°C
+* [Earlier preliminary study of coronavirus persistence on surfaces](https://www.sciencedirect.com/science/article/pii/S0195670120300463/) for previously-known coronavirus (not SARS-CoV-2 specifically yet)
 * [BMJ "Rapid responses" to potential treatment suggestions](https://www.bmj.com/content/368/bmj.m406/rapid-responses)
 * [Analysis of outcome-influencing factors in serious cases](https://journals.lww.com/cmj/Abstract/publishahead/Analysis_of_factors_associated_with_disease.99363.aspx) (smoking, etc.)
 * [Structural basis for the recognition of the SARS-CoV-2 by full-length human ACE2](https://science.sciencemag.org/content/early/2020/03/03/science.abb2762.full)
