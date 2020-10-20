@@ -126,6 +126,7 @@ Note that the WHO will generally be unable to make statements that their more pr
 * [NPGEO COVID-19 Dashboard Österreich Mit öffentlich zugänglichen Informationen des Sozialministeriums](https://npgeo-corona-npgeo-de.hub.arcgis.com/app/1b9af672fe1140329ebff73b2ca8d722) for Austria
 * [COVID‑19: Přehled aktuální situace v ČR](https://onemocneni-aktualne.mzcr.cz/covid-19) with data for Czechia
 * [COVID-19 Cases in Scotland](https://corona.scot/), map and graphs
+* [Analysis and spread of COVID-19 in Slovenia](https://covid-19.sledilnik.org/en/stats) drawing from various sources, among witch [COVID-19 Sledilnik](https://covid-19.sledilnik.org/en/stats) which also has regional data
 
 ## North America
 
