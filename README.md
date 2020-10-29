@@ -222,7 +222,7 @@ Note that the WHO will generally be unable to make statements that their more pr
 * [What reinfections mean for COVID-19](https://www.thelancet.com/journals/laninf/article/PIIS1473-3099(20)30783-0/fulltext) analyzes and discusses available information on early detected cases of re-infection, some of which have had worse manifestation of disease than the original infection
 * [Detectable 2019-nCoV viral RNA in blood is a strong indicator for the further clinical severity](https://www.tandfonline.com/doi/full/10.1080/22221751.2020.1732837), finds a Chinese study, which appears confirmed by a German study on [SARS‐CoV‐2 asymptomatic and symptomatic patients and risk for transfusion transmission](https://onlinelibrary.wiley.com/doi/full/10.1111/trf.15841)
 * [Probability of symptoms and critical disease after SARS-CoV-2 infection](https://arxiv.org/abs/2006.08471) is shown to vary by age and sex in this Italian study performed on contacts of positive patients in Lombardy, with 36.1% of all infections being asymptomatic
-* [SARS-Cov-2RNA found on particulate matter of Bergamo in Northern Italy: First evidence](https://www.sciencedirect.com/science/article/pii/S0013935120306472) finds viral RNA (not tested for viability) in PM10 samples collected over a 3-week period
+* [SARS-Cov-2 RNA found on particulate matter of Bergamo in Northern Italy: First evidence](https://www.sciencedirect.com/science/article/pii/S0013935120306472) finds viral RNA (not tested for viability) in PM10 samples collected over a 3-week period
 
 ## Therapeutics and vaccines
 
