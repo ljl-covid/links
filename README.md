@@ -121,6 +121,7 @@ Note that the WHO will generally be unable to make statements that their more pr
 * [Suivi des patients Covid-19 en France](https://mapthenews.maps.arcgis.com/apps/opsdashboard/index.html#/5df19abcf8714bc590a3b143e14a548c) with maps, graphs and numbers for France, including number of hospitalizations and ICU admissions 
 * [Coronavirus France](https://www.arcgis.com/apps/Embed/index.html?webmap=4f9b1d34abcd44f0bca03ec381cc1e55&extent=-13.8471,39.9083,18.6065,53.356&zoom=true&previewImage=false&scale=true&disable_scroll=true&theme=light), a case map by region for France
 * [Coronavirus in Nederland](https://www.arcgis.com/apps/opsdashboard/index.html#/cfc2084c995c40e7ae72254029bf6251) with data and a map by municipalities for the Netherlands
+* [Scienceano's Epistat](https://epistat.wiv-isp.be/covid/) has data for cases, hospitalizations, death and tests in Belgium, as well as data by municipality, and it's accessible both as graphs and JSON and CSV datasets
 * [Lombardy Region map and data](https://lispa.maps.arcgis.com/apps/opsdashboard/index.html#/637ec3dc28ec4ea591cc5c724f127701) from Italy's hardest-hit region
 * [NPGEO COVID-19 Dashboard - Schweiz und Fürstentum Liechtenstein](https://npgeo-corona-npgeo-de.hub.arcgis.com/app/115cd04485904fa7a5629b683a949390) for Switzerland and Lichtenstein
 * [NPGEO COVID-19 Dashboard Österreich Mit öffentlich zugänglichen Informationen des Sozialministeriums](https://npgeo-corona-npgeo-de.hub.arcgis.com/app/1b9af672fe1140329ebff73b2ca8d722) for Austria
