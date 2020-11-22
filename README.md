@@ -107,6 +107,7 @@ Note that the WHO will generally be unable to make statements that their more pr
 
 * [The ECDC's case distribution map](https://www.ecdc.europa.eu/en/geographical-distribution-2019-ncov-cases) and their [COVID-19 dashboard](https://qap.ecdc.europa.eu/public/extensions/COVID-19/COVID-19.html) probably deserve a mention
 * [Fraunhofer's Tracking Map Europe - SARS-CoV-2 Coronavirus (2019-nCoV)](https://gisweb.iao.fraunhofer.de/portal/apps/opsdashboard/index.html#/def030d5b8a7454b9d461d92294340ad) including sub-national units for most European countries
+* [WHO European Region COVID19 Subnational Explorer](https://experience.arcgis.com/experience/3a056fc8839d47969ef59949e9984a71) has total cases as well as 7-day and 14-day cases and incidence, collated for subnational regions from various European sources
 * [COVID-19 outbreak in Italy](https://www.arcgis.com/apps/opsdashboard/index.html#/4f74fc222b7041cd9cc3c52e62af1b8c) with a map and data for Italy by provinces
 * [Il Sole 24 Ore's Italy-specific tracker](https://lab24.ilsole24ore.com/coronavirus/) with cases by region and province as well as hospitalization/ICU rates and other detailed graphs (in Italian)
 * [Covid-19 Situación en España](https://www.arcgis.com/apps/opsdashboard/index.html#/92d60c15bb004fd2b9a78a9c60a58d05), a map of contagion in Spain by autonomous regions
