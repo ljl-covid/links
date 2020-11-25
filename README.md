@@ -226,6 +226,7 @@ Note that the WHO will generally be unable to make statements that their more pr
 * [Detectable 2019-nCoV viral RNA in blood is a strong indicator for the further clinical severity](https://www.tandfonline.com/doi/full/10.1080/22221751.2020.1732837), finds a Chinese study, which appears confirmed by a German study on [SARS‐CoV‐2 asymptomatic and symptomatic patients and risk for transfusion transmission](https://onlinelibrary.wiley.com/doi/full/10.1111/trf.15841)
 * [Probability of symptoms and critical disease after SARS-CoV-2 infection](https://arxiv.org/abs/2006.08471) is shown to vary by age and sex in this Italian study performed on contacts of positive patients in Lombardy, with 36.1% of all infections being asymptomatic
 * [SARS-Cov-2 RNA found on particulate matter of Bergamo in Northern Italy: First evidence](https://www.sciencedirect.com/science/article/pii/S0013935120306472) finds viral RNA (not tested for viability) in PM10 samples collected over a 3-week period
+* [RKI's Fever Monitor](https://corona-datenspende.de/science/en/) is an experiment to create a fever detection algorithm for smart wearable based on heartrate and activity levels, and correlating it with confirmed COVID-19 cases in Germany, with an app for the public to "donate" such data, and the resulting data open the public
 
 ## Therapeutics and vaccines
 
@@ -393,6 +394,7 @@ There is mixed advice on the use of masks by the general public, and the advice 
 * https://tools.cdc.gov/api/v2/resources/media/403372.rss
 * https://www.cnbc.com/2020/02/10/coronavirus-latest-updates-china-hubei.html
 * [CNBC Health feed](https://www.cnbc.com/id/10000108/device/rss/rss.html)
+* [Fever Monitor CSV](https://raw.githubusercontent.com/corona-datenspende/data-updates/master/detections/detection.csv) from [RKI's Fever Monitor](https://corona-datenspende.de/science/en/)
 
 # Italy
 
