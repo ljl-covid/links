@@ -10,7 +10,7 @@
   * [Tracing](#tracing)
   * [Public deployments](#public-deployments)
 - [Science](#science)
-  * [Therapeutics and vaccines](#therapeutics-and-vaccines)
+  * [Medicine](#medicine)
   * [Epidemiology](#epidemiology)
   * [Follow-up](#follow-up)
   * [Models](#models)
