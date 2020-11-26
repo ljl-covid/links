@@ -401,6 +401,7 @@ There is mixed advice on the use of masks by the general public, and the advice 
 * https://www.cnbc.com/2020/02/10/coronavirus-latest-updates-china-hubei.html
 * [CNBC Health feed](https://www.cnbc.com/id/10000108/device/rss/rss.html)
 * [Fever Monitor CSV](https://raw.githubusercontent.com/corona-datenspende/data-updates/master/detections/detection.csv) from [RKI's Fever Monitor](https://corona-datenspende.de/science/en/)
+* [SurvStat@RKI 2.0](https://survstat.rki.de/Content/Query/Create.aspx) lets you create arbitrary queries on official German case data, with the query format described [here](https://survstat.rki.de/Content/Query/Main.aspx)
 
 # Italy
 
