@@ -118,6 +118,7 @@ Note that the WHO will generally be unable to make statements that their more pr
 * [Coronavirus near me: are UK Covid-19 cases rising or falling in your area?](https://www.theguardian.com/world/2020/aug/01/coronavirus-near-me-are-uk-covid-19-cases-rising-in-your-local-area) by The Guardian with more granular locations than most trackers which only have England, Wales, Scotland, and Northern Ireland as subdivisions (unfortunately, the URL is subject to change)
 * [Coronavirus (COVID-19) positive cases by Middle Super Output Area (MSOA) in England](https://www.arcgis.com/apps/webappviewer/index.html?id=47574f7a6e454dc6a42c5f6912ed7076) covering only England in a very granular way by [MSOA](https://en.wikipedia.org/wiki/Middle_Layer_Super_Output_Area)
 * [Robert Koch-Institut's COVID-19-Dashboard](https://corona.rki.de) for Germany
+* [SARS-CoV2 infection cases as heatmaps for Germany](https://corona-data.eu/en/), also run by the RKI
 * [COVID-19 - France](https://dashboard.covid19.data.gouv.fr/) is the government's dashboard for France, including subnational units and indicators such as ICU occupation
 * [Epidémie COVID-19](https://thibautfabacher.shinyapps.io/covid-france/), a map by department for France with data on hospitalizations, fatalities and ICU cases
 * [Suivi des patients Covid-19 en France](https://mapthenews.maps.arcgis.com/apps/opsdashboard/index.html#/5df19abcf8714bc590a3b143e14a548c) with maps, graphs and numbers for France, including number of hospitalizations and ICU admissions 
