@@ -272,6 +272,11 @@ Note that the WHO will generally be unable to make statements that their more pr
 * [SARS-CoV-2 Vaccines: Status Report](https://www.cell.com/immunity/pdf/S1074-7613\(20\)30120-5.pdf), published on Cell on April 14, also covers therapeutics and has a summary table of vaccine types being investigated and their main characteristics on page 386
 * [The COVID-19 vaccine development landscape](https://www.nature.com/articles/d41573-020-00073-5), published on Nature on April 9, presenting charts with breakdowns of vaccine types under study and their profit models
 
+### Diagnostics
+
+* [SARS-CoV-2 diagnostic pipeline](https://www.finddx.org/covid-19/pipeline/) is an extensive list of available tests, searchable and exportable by type, as well as an independent evaluation [evaluations of SARS-CoV-2 assays](https://www.finddx.org/covid-19/sarscov2-eval/) with results for molecular (PCR) tests as well as preliminary results for antigen ("quick") and antibody tests
+* [COVID-19 In Vitro Diagnostic Devices and Test Methods Database](https://covid-19-diagnostics.jrc.ec.europa.eu/) by the European Commission
+* [Antigen-Tests zum direkten Erregernachweis des Coronavirus SARS-CoV-2](https://antigentest.bfarm.de/ords/antigen/r/antigentests-auf-sars-cov-2/liste-der-antigentests?session=379015409946&tz=1:00), an extensive list of antigen tests with manufacturer-provided information about them by the German medicine agency
 
 ## Epidemiology
 | Country | Sereprevalence | Highest-hit area | In health workers | Asymptomatics | Seroconversion | Source |
@@ -280,7 +285,6 @@ Note that the WHO will generally be unable to make statements that their more pr
 | Italy   |           2.5% | Lombardy (7.5%)  |              5.6% |         27.3% |            N/A | [Ministry of Health](http://www.salute.gov.it/portale/news/p3_2_1_1_1.jsp?lingua=italiano&menu=notizie&p=dalministero&id=5012) |
 | Spain   |             5% | Madrid (>10%)    |             10.2% |         32.7% |          91.8% | [Lancet](https://www.thelancet.com/journals/lancet/article/PIIS0140-6736%2820%2931483-5/fulltext)                                |
 
-* [SARS-CoV-2 diagnostic pipeline](https://www.finddx.org/covid-19/pipeline/) is an extensive list of available tests, searchable and exportable by type, as well as an independent evaluation [evaluations of SARS-CoV-2 assays](https://www.finddx.org/covid-19/sarscov2-eval/) with results for molecular (PCR) tests as well as preliminary results for antigen ("quick") and antibody tests
 * [ECDC's COVID-19 surveillance report](https://covid19-surveillance-report.ecdc.europa.eu/), updated on a weekly basis with detail data on the evolution of the epidemic in Europe
 * [Short-term Mortality Fluctuations](https://mpidr.shinyapps.io/stmortality/) by the [Human Mortality Database](https://www.mortality.org/), providing excess mortality visualizations and raw data from 25 countries
 * [EuroMoMo](https://www.euromomo.eu/graphs-and-maps/), publishing bulletins and detailed graphs of excess mortality in European countries, and the CDC's [Excess Deaths Associated with COVID-19](https://www.cdc.gov/nchs/nvss/vsrr/covid19/excess_deaths.htm) page has a similar visualization for the US during the pandemic
