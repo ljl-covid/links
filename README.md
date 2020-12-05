@@ -336,13 +336,14 @@ Note that the WHO will generally be unable to make statements that their more pr
 
 ## Models
 
-* [IHME COVID-19 Projections](https://covid19.healthdata.org/projections) currently offers a SEIR model with unpublished assumptions for the US and many other countries
+* [IHME COVID-19 Projections](https://covid19.healthdata.org/projections) currently offers a [SEIR model](https://en.wikipedia.org/wiki/Compartmental_models_in_epidemiology#The_SEIR_model) with unpublished assumptions for the US and many other countries
 * [Covid ActNow](http://covidactnow.org/), "America’s COVID warning system", has an alternative model as well as a detailed tracker for the US, although it's also SEIR
 * [Event Horizon - COVID-19](http://rocs.hu-berlin.de/corona/) by the Brockmann lab at RKI, with predictions for several countries
 * [Ontario's COVID-19 Technical Briefing](http://s3.documentcloud.org/documents/6824779/COVID-19-Technical-Briefing-Friday-April-4-2020.pdf)
 * [Modelling the COVID-19 epidemic and implementation of population-wide interventions in Italy](https://www.nature.com/articles/s41591-020-0883-7), published on Nature
 * [COVID-19 Daily Epidemic Forecasting](https://renkulab.shinyapps.io/COVID-19-Epidemic-Forecasting/) by the Institute of Global Health, Faculty of Medicine, University of Geneva and the Swiss Data Science Center, ETH Zürich-EPFL
 * [Covasim](https://covasim.idmod.org/) is available from the [Institute for Disease Modeling's COVID InfoHub](https://covid.idmod.org) as a stochastic agent-based simulator for COVID-19 epidemic analyses, described in [its paper](https://www.medrxiv.org/content/10.1101/2020.05.10.20097469v1)
+* [Epidemic Calculator](https://gabgoh.github.io/COVID/index.html) is an elaboration on the [SEIR model](https://en.wikipedia.org/wiki/Compartmental_models_in_epidemiology#The_SEIR_model) that simulates the disease's progression at a higher resolution, subdividing patients into mild, moderate and fatal, with [source code available](https://github.com/gabgoh/epcalc)
 
 
 ## Masks
