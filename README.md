@@ -154,6 +154,7 @@ Note that the WHO will generally be unable to make statements that their more pr
 * [ECDC guidance for cleaning contaminated surfaces](https://www.ecdc.europa.eu/sites/default/files/documents/coronavirus-SARS-CoV-2-guidance-environmental-cleaning-non-healthcare-facilities.pdf)	
 * [Re-open EU](https://reopen.europa.eu/), with detailed travel information for trips to countries in the European Union
 * [microCOVID](https://www.microcovid.org/) reviewed published research about COVID, and used it to make rough estimates about the risk level of various activities
+* [COVID InfoHub](https://covid.idmod.org/) by the Institute for Disease Modeling (IDM)
 * [ChannelNewsAsia's page](https://www.channelnewsasia.com/news/topics/wuhan-virus) is predictably centered on the impact in Asia
 * [An overview of "who is getting sick" by various factors](https://www.statnews.com/2020/03/03/who-is-getting-sick-and-how-sick-a-breakdown-of-coronavirus-risk-by-demographic-factors/)
 * [New Yorker's take on what's gone wrong with testing in the US](https://www.newyorker.com/news/news-desk/what-went-wrong-with-coronavirus-testing-in-the-us), as the situation evolves from testing by the CDC only to public-health lab testing
@@ -341,6 +342,8 @@ Note that the WHO will generally be unable to make statements that their more pr
 * [Ontario's COVID-19 Technical Briefing](http://s3.documentcloud.org/documents/6824779/COVID-19-Technical-Briefing-Friday-April-4-2020.pdf)
 * [Modelling the COVID-19 epidemic and implementation of population-wide interventions in Italy](https://www.nature.com/articles/s41591-020-0883-7), published on Nature
 * [COVID-19 Daily Epidemic Forecasting](https://renkulab.shinyapps.io/COVID-19-Epidemic-Forecasting/) by the Institute of Global Health, Faculty of Medicine, University of Geneva and the Swiss Data Science Center, ETH Zürich-EPFL
+* [Covasim](https://covasim.idmod.org/) is available from the [Institute for Disease Modeling's COVID InfoHub](https://covid.idmod.org) as a stochastic agent-based simulator for COVID-19 epidemic analyses, described in [its paper](https://www.medrxiv.org/content/10.1101/2020.05.10.20097469v1)
+
 
 ## Masks
 
