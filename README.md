@@ -204,6 +204,7 @@ Note that the WHO will generally be unable to make statements that their more pr
 * [Semantic Scholar's COVID-19 Open Research Dataset](https://pages.semanticscholar.org/coronavirus-research), a free resource of over 47,000 scholarly articles, including over 36,000 with full text, about COVID-19 and the coronavirus family of viruses for use by the global research community
 * [Chemical & Engineering News COVID-19 portal](https://cen.acs.org/sections/Tracking-the-novel-coronavirus.html)
 * [Nextstrain genomic epidemiology](https://nextstrain.org/ncov) showing genetic variants of the virus by area and other factors (see also [this article about "cryptic" transmission](https://bedford.io/blog/ncov-cryptic-transmission/))
+* [Retracted coronavirus (COVID-19) papers](https://retractionwatch.com/retracted-coronavirus-covid-19-papers/) section maintained by [Retraction Watch](https://retractionwatch.com/)
 * [Structural genomics and interactomics of SARS-CoV-2 novel coronavirus](http://korkinlab.org/wuhan) by Korkin Lab at the Worcester Polytechnic Institute
 * [Report from the WHO-China joint mission](https://www.who.int/docs/default-source/coronaviruse/who-china-joint-mission-on-covid-19-final-report.pdf)
 * [Harvard CCDD's work on COVID-19](https://ccdd.hsph.harvard.edu/covid-19/)
