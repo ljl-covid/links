@@ -1,6 +1,6 @@
 - [Questions](#questions)
-  * [Do I have it?](#do-i-have-it?)
-  * [Why is WHO information confusing?](#why-is-who-information-confusing)
+  * [Do I have it?](#do-i-have-it%3F)
+  * [Why is WHO information confusing?](#why-is-who-information-confusing%3F)
 - [Basics](#basics)
 - [Trackers](#trackers)
   * [Asia](#asia)
