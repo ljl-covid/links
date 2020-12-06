@@ -1,5 +1,5 @@
 - [Questions](#questions)
-  * [Do I have it?](#do-i-have-it%3F)
+  * [Do I have it?](#do-i-have-it-%3F)
   * [Why is WHO information confusing?](#why-is-who-information-confusing%3F)
 - [Basics](#basics)
 - [Trackers](#trackers)
@@ -40,7 +40,7 @@
 
 But it does tend to present with fever, joint aches and a dry cough. Right, those are similar symptoms to flu. They are also symptoms of a myriad other diseases too, so there is no reason in particular to compare it with flu. Bottom line: it has nothing to do with the flu except for having some similar symptoms just like most other viral diseases.
 
-## Do I have it?
+## Do I have it ?
 
 Short answer: we don't know.
 
