@@ -1,5 +1,5 @@
 - [Questions](#questions)
-  * [Do I have it?](#do-i-have-it)
+  * [Do I have it?](#do-i-have-it?)
   * [Why is WHO information confusing?](#why-is-who-information-confusing)
 - [Basics](#basics)
 - [Trackers](#trackers)
