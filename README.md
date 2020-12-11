@@ -283,7 +283,7 @@ Note that the WHO will generally be unable to make statements that their more pr
 
 * [SARS-CoV-2 diagnostic pipeline](https://www.finddx.org/covid-19/pipeline/) is an extensive list of available tests, searchable and exportable by type, as well as an independent [validation of SARS-CoV-2 assays](https://www.finddx.org/covid-19/sarscov2-eval/) with results for molecular (PCR) tests as well as preliminary results for antigen ("quick") and antibody tests
 * [COVID-19 In Vitro Diagnostic Devices and Test Methods Database](https://covid-19-diagnostics.jrc.ec.europa.eu/) by the European Commission
-* [Antigen-Tests zum direkten Erregernachweis des Coronavirus SARS-CoV-2](https://antigentest.bfarm.de/ords/antigen/r/antigentests-auf-sars-cov-2/liste-der-antigentests?session=379015409946&tz=1:00), an extensive list of antigen tests with manufacturer-provided information about them by the German medicine agency
+* [Antigen-Tests zum direkten Erregernachweis des Coronavirus SARS-CoV-2](https://antigentest.bfarm.de/ords/antigen/r/antigentests-auf-sars-cov-2/liste-der-antigentests), an extensive list of antigen tests with manufacturer-provided information about them by the German medicine agency
 * [Comparison of seven commercial SARS-CoV-2 rapid Point-of-Care Antigen tests](https://www.medrxiv.org/content/10.1101/2020.11.12.20230292v1) validates a few tests trying to determine their specificity and sensitivity
 
 ## Epidemiology
