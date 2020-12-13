@@ -421,6 +421,7 @@ There is mixed advice on the use of masks by the general public, and the advice 
 * [CNBC Health feed](https://www.cnbc.com/id/10000108/device/rss/rss.html)
 * [Fever Monitor CSV](https://raw.githubusercontent.com/corona-datenspende/data-updates/master/detections/detection.csv) from [RKI's Fever Monitor](https://corona-datenspende.de/science/en/)
 * [SurvStat@RKI 2.0](https://survstat.rki.de/Content/Query/Create.aspx) lets you create arbitrary queries on official German case data, with the query format described [here](https://survstat.rki.de/Content/Query/Main.aspx)
+* [RAPS COVID-19 vaccine tracker approved vaccines CSV](https://www.raps.org/RAPS/media/news-images/data/20201210-authorized-vax2-craven.csv) and [vaccines candidates in development CSV](https://www.raps.org/RAPS/media/news-images/data/20201210-vax-candidates-Craven.csv)
 
 # Italy
 
