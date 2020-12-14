@@ -144,6 +144,7 @@ Note that the WHO will generally be unable to make statements that their more pr
 * [COVID-19 Canada](https://resources-covid19canada.hub.arcgis.com/), with a tracker as well as plenty of useful links both specific to Canada and global
 * [COVID-19 Canadian Outbreak Tracker](https://resources-covid19canada.hub.arcgis.com/app/eb0ec6ffdb654e71ab3c758726c55b68) based on the data from [ViriHealth](https://virihealth.com/)
 * [Coronavirus Statistics: Tracking The Epidemic In New York](https://gothamist.com/news/coronavirus-statistics-tracking-epidemic-new-york), Gothamist's tracker for the City of New York in particular
+* [Tracking COVID-19 in California](https://covid19.ca.gov/state-dashboard/), with data by county, including testing, hospitalizations and ICU availability, as well as data by ethnicity
 
 # Info
 
