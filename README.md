@@ -10,6 +10,7 @@
   * [Tracing](#tracing)
   * [Public deployments](#public-deployments)
 - [Science](#science)
+  * [Genetics](#genetics)
   * [Medicine](#medicine)
     * [Therapeutics](#therapeutics)
     * [Vaccines](#vaccines)
@@ -204,11 +205,7 @@ Note that the WHO will generally be unable to make statements that their more pr
 * [ZB MED COVID-19 Hub](https://www.zbmed.de/en/covid-19/overview/) collects a variety of scientific information and tools for SARS-CoV-2, and their [preVIEW](https://preview.zbmed.de/) service is an aggregator and search engine for preprints
 * [Semantic Scholar's COVID-19 Open Research Dataset](https://pages.semanticscholar.org/coronavirus-research), a free resource of over 47,000 scholarly articles, including over 36,000 with full text, about COVID-19 and the coronavirus family of viruses for use by the global research community
 * [Chemical & Engineering News COVID-19 portal](https://cen.acs.org/sections/Tracking-the-novel-coronavirus.html)
-* [Nextstrain genomic epidemiology](https://nextstrain.org/ncov) showing genetic variants of the virus by area and other factors (see also [this article about "cryptic" transmission](https://bedford.io/blog/ncov-cryptic-transmission/))
-* [SARS-CoV-2 Mutations of Interest](https://github.com/emmahodcroft/cluster_scripts) is a repository maintained by [Emma Hodcroft](https://twitter.com/firefoxx66) containing brief information and highlights about mutations that may have significance, together with dedicated Nextstrain builds for each of them
-* [How the novel coronavirus has evolved](https://graphics.reuters.com/HEALTH-CORONAVIRUS/EVOLUTION/yxmpjqkdzvr/), a Reuters article breaking down the evolution and mutations of the virus and the way they affected different areas of the world in a way more understandable to the layman than Nextstrain
 * [Retracted coronavirus (COVID-19) papers](https://retractionwatch.com/retracted-coronavirus-covid-19-papers/) section maintained by [Retraction Watch](https://retractionwatch.com/)
-* [Structural genomics and interactomics of SARS-CoV-2 novel coronavirus](http://korkinlab.org/wuhan) by Korkin Lab at the Worcester Polytechnic Institute
 * [Report from the WHO-China joint mission](https://www.who.int/docs/default-source/coronaviruse/who-china-joint-mission-on-covid-19-final-report.pdf)
 * [Harvard CCDD's work on COVID-19](https://ccdd.hsph.harvard.edu/covid-19/)
 * [Eurosurveillance early incubation period study](https://www.eurosurveillance.org/content/10.2807/1560-7917.ES.2020.25.5.2000062)
@@ -227,7 +224,6 @@ Note that the WHO will generally be unable to make statements that their more pr
 * [The variability of critical bed numbers in Europe](https://link.springer.com/article/10.1007%2Fs00134-012-2627-8), a somewhat detailed, if outdated, source of information on ICU and "acute care" beds (both needed to treat serious COVID-19 patients) over the European Union
 * [Susceptibility of ferrets, cats, dogs, and different domestic animals to SARS-CoV-2](https://www.biorxiv.org/content/10.1101/2020.03.30.015347v1), a preprint suggesting that cats can sustain transmission of the virus
 * [A call to honesty in pandemic modelling](https://medium.com/@wpegden/a-call-to-honesty-in-pandemic-modeling-5c156686a64b), a reminder that disease does come back after lockdowns are lifted
-* [Spike mutation pipeline reveals the emergence of a more transmissible form of SARS-CoV-2](https://www.biorxiv.org/content/10.1101/2020.04.29.069054v1), an April 30 preprint highlighting how a mutated form of the virus appears to be circulating much faster and taking over the original strain in Europe and elsewhere, with another preprint finding that [Global Spread of SARS-CoV-2 Subtype with Spike Protein Mutation D614G is Shaped by Human Genomic Variations that Regulate Expression of TMPRSS2 and MX1 Genes](https://www.biorxiv.org/content/10.1101/2020.05.04.075911v1) although an [article on ArsTechnica](https://arstechnica.com/science/2020/05/draft-study-conclusions-on-sars-cov-2-mutation-overstep-data-grab-headlines/) highlights various issues other researchers have raised with this paper; later research shows [SARS-CoV-2 D614G variant exhibits efficient replication ex vivo and transmission in vivo](https://science.sciencemag.org/content/early/2020/11/11/science.abe8499), and [Tracking Changes in SARS-CoV-2 Spike: Evidence that D614G Increases Infectivity of the COVID-19 Virus](https://www.cell.com/cell/fulltext/S0092-8674(20)30820-5), an analysis published on Cell, wraps up the situation as it's known as of November 2020
 * [Humoral immune response and prolonged PCR positivity in a cohort of 1343 SARS-CoV 2 patients in the New York City region](https://www.medrxiv.org/content/10.1101/2020.04.30.20085613v1), a preprint showing that nearly all confirmed patients had developed antibodies to the SARS-CoV-2 spike protein
 * [Human coronavirus reinfection dynamics: lessons for SARS-CoV-2](https://www.medrxiv.org/content/10.1101/2020.05.11.20086439v1) warns that the duration of immunity after infection from other human coronaviruses is found to be as low as 12 or 6 months
 * [What reinfections mean for COVID-19](https://www.thelancet.com/journals/laninf/article/PIIS1473-3099(20)30783-0/fulltext) analyzes and discusses available information on early detected cases of re-infection, some of which have had worse manifestation of disease than the original infection
@@ -235,6 +231,15 @@ Note that the WHO will generally be unable to make statements that their more pr
 * [Probability of symptoms and critical disease after SARS-CoV-2 infection](https://arxiv.org/abs/2006.08471) is shown to vary by age and sex in this Italian study performed on contacts of positive patients in Lombardy, with 36.1% of all infections being asymptomatic
 * [SARS-Cov-2 RNA found on particulate matter of Bergamo in Northern Italy: First evidence](https://www.sciencedirect.com/science/article/pii/S0013935120306472) finds viral RNA (not tested for viability) in PM10 samples collected over a 3-week period
 * [RKI's Fever Monitor](https://corona-datenspende.de/science/en/) is an experiment to create a fever detection algorithm for smart wearable based on heartrate and activity levels, and correlating it with confirmed COVID-19 cases in Germany, with an app for the public to "donate" such data, and the resulting data open the public
+
+### Genetics
+
+* [Nextstrain genomic epidemiology](https://nextstrain.org/ncov) showing genetic variants of the virus by area and other factors (see also [this article about "cryptic" transmission](https://bedford.io/blog/ncov-cryptic-transmission/))
+* [SARS-CoV-2 Mutations of Interest](https://github.com/emmahodcroft/cluster_scripts) is a repository maintained by [Emma Hodcroft](https://twitter.com/firefoxx66) containing brief information and highlights about mutations that may have significance, together with dedicated Nextstrain builds for each of them
+* [How the novel coronavirus has evolved](https://graphics.reuters.com/HEALTH-CORONAVIRUS/EVOLUTION/yxmpjqkdzvr/), a Reuters article breaking down the evolution and mutations of the virus and the way they affected different areas of the world in a way more understandable to the layman than Nextstrain
+* [Structural genomics and interactomics of SARS-CoV-2 novel coronavirus](http://korkinlab.org/wuhan) by Korkin Lab at the Worcester Polytechnic Institute
+* [Spike mutation pipeline reveals the emergence of a more transmissible form of SARS-CoV-2](https://www.biorxiv.org/content/10.1101/2020.04.29.069054v1), an April 30 preprint highlighting how a mutated form of the virus appears to be circulating much faster and taking over the original strain in Europe and elsewhere, with another preprint finding that [Global Spread of SARS-CoV-2 Subtype with Spike Protein Mutation D614G is Shaped by Human Genomic Variations that Regulate Expression of TMPRSS2 and MX1 Genes](https://www.biorxiv.org/content/10.1101/2020.05.04.075911v1) although an [article on ArsTechnica](https://arstechnica.com/science/2020/05/draft-study-conclusions-on-sars-cov-2-mutation-overstep-data-grab-headlines/) highlights various issues other researchers have raised with this paper; later research shows [SARS-CoV-2 D614G variant exhibits efficient replication ex vivo and transmission in vivo](https://science.sciencemag.org/content/early/2020/11/11/science.abe8499), and [Tracking Changes in SARS-CoV-2 Spike: Evidence that D614G Increases Infectivity of the COVID-19 Virus](https://www.cell.com/cell/fulltext/S0092-8674(20)30820-5), an analysis published on Cell, wraps up the situation as it's known as of November 2020
+
 
 ## Medicine
 
