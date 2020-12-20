@@ -235,6 +235,7 @@ Note that the WHO will generally be unable to make statements that their more pr
 ### Genetics
 
 * [Nextstrain genomic epidemiology](https://nextstrain.org/ncov) showing genetic variants of the virus by area and other factors (see also [this article about "cryptic" transmission](https://bedford.io/blog/ncov-cryptic-transmission/))
+* [COVIDCG](https://covidcg.org/) is a genetics browser was designed to empower diverse projects on SARS-CoV-2 transmission, evolution, emergence, immune interactions, diagnostics, therapeutics, vaccines, and tracking of interventions.
 * [SARS-CoV-2 Mutations of Interest](https://github.com/emmahodcroft/cluster_scripts) is a repository maintained by [Emma Hodcroft](https://twitter.com/firefoxx66) containing brief information and highlights about mutations that may have significance, together with dedicated Nextstrain builds for each of them
 * [How the novel coronavirus has evolved](https://graphics.reuters.com/HEALTH-CORONAVIRUS/EVOLUTION/yxmpjqkdzvr/), a Reuters article breaking down the evolution and mutations of the virus and the way they affected different areas of the world in a way more understandable to the layman than Nextstrain
 * [Structural genomics and interactomics of SARS-CoV-2 novel coronavirus](http://korkinlab.org/wuhan) by Korkin Lab at the Worcester Polytechnic Institute
