@@ -14,7 +14,7 @@
   * [Medicine](#medicine)
     * [Therapeutics](#therapeutics)
     * [Vaccines](#vaccines)
-    * [Diagnostics](#diagnostics)#
+    * [Diagnostics](#diagnostics)
   * [Epidemiology](#epidemiology)
   * [Follow-up](#follow-up)
   * [Models](#models)
