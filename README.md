@@ -275,7 +275,6 @@ Note that the WHO will generally be unable to make statements that their more pr
 ### Vaccines
 
 * [CovidVax](https://covidvax.org/), an updated list of COVID-19 vaccines
-* [COVID-19 Vaccine News](https://covidvax.news/) has a map of expected deployment times, as well as a timeline of news and a table with progress of each vaccine, for a smaller amount of vaccine than CovidVax (which it shouldn't be confused with, as they are separate sites)
 * [RAPS COVID-19 vaccine tracker](https://www.raps.org/news-and-articles/news-articles/2020/3/covid-19-vaccine-tracker)
 * [Coronavirus Vaccine Update, July 7](https://blogs.sciencemag.org/pipeline/archives/2020/06/29/coronavirus-vaccine-update-june-29) by Derek Lowe nicely covers the "frontrunners" and also some lesser known vaccines, divided by type, with commentary; [Coronavirus Vaccine Roundup, Early September](https://blogs.sciencemag.org/pipeline/archives/2020/09/03/coronavirus-vaccine-roundup-early-september) follows up on that
 * [Vaccine Possibilities](https://blogs.sciencemag.org/pipeline/archives/2020/11/18/vaccine-possibilities) also by Derek Lowe, from November 2020, covers length of protection, effectiveness, possible mutations, demographics, safety, distribution and rollout
@@ -285,6 +284,7 @@ Note that the WHO will generally be unable to make statements that their more pr
 * [Coronavirus Vaccine Prospects](https://blogs.sciencemag.org/pipeline/archives/2020/04/15/coronavirus-vaccine-prospects), an April 15 In The Pipeline article
 * [SARS-CoV-2 Vaccines: Status Report](https://www.cell.com/immunity/pdf/S1074-7613\(20\)30120-5.pdf), published on Cell on April 14, also covers therapeutics and has a summary table of vaccine types being investigated and their main characteristics on page 386
 * [The COVID-19 vaccine development landscape](https://www.nature.com/articles/d41573-020-00073-5), published on Nature on April 9, presenting charts with breakdowns of vaccine types under study and their profit models
+* (currently down!) [COVID-19 Vaccine News](https://covidvax.news/) has a map of expected deployment times, as well as a timeline of news and a table with progress of each vaccine, for a smaller amount of vaccine than CovidVax (which it shouldn't be confused with, as they are separate sites)
 
 #### Moderna
 
