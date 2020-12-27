@@ -247,6 +247,7 @@ Note that the WHO will generally be unable to make statements that their more pr
 ## Medicine
 
 * [Cytel's Global Coronavirus COVID-19 Clinical Trial Tracker](https://www.covid-trials.org/)
+* [Treatments and vaccines for COVID-19](https://www.ema.europa.eu/en/human-regulatory/overview/public-health-threats/coronavirus-disease-covid-19/treatments-vaccines-covid-19) as approved or being evaluated by the European Medicine Agency
 * [COVID-19 therapies and vaccines: Clinical](https://www.biocentury.com/clinical-vaccines-and-therapies) on BioCentury
 * [COVID-19 vaccines and therapies: preclinical](https://www.biocentury.com/preclinical-vaccines-and-therapies) also on BioCentury
 * [As COVID-19 vaccines progress, science and policy questions become more urgent](https://www.biocentury.com/article/304919), published on BioCentury, discusses the agreement between Sanofi and GlaxoSmithKline giving opinions on practicality of trials, scaling up, and manufacturing capacity
