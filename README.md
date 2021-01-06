@@ -277,6 +277,7 @@ Note that the WHO will generally be unable to make statements that their more pr
 
 * [CovidVax](https://covidvax.org/), an updated list of COVID-19 vaccines
 * [RAPS COVID-19 vaccine tracker](https://www.raps.org/news-and-articles/news-articles/2020/3/covid-19-vaccine-tracker)
+* [Precision Vaccinations - COVID-19 Vaccines](https://www.precisionvaccinations.com/covid-19-vaccines) lists a number of COVID-19 vaccine candidates, divided by clinical stage, with brief description and detail pages for each
 * [Coronavirus Vaccine Update, July 7](https://blogs.sciencemag.org/pipeline/archives/2020/06/29/coronavirus-vaccine-update-june-29) by Derek Lowe nicely covers the "frontrunners" and also some lesser known vaccines, divided by type, with commentary; [Coronavirus Vaccine Roundup, Early September](https://blogs.sciencemag.org/pipeline/archives/2020/09/03/coronavirus-vaccine-roundup-early-september) follows up on that, and [Vaccine Roundup, Late December](https://blogs.sciencemag.org/pipeline/archives/2020/12/30/vaccine-roundup-late-december) looks at the situation at the end of 2020
 * [Vaccine Possibilities](https://blogs.sciencemag.org/pipeline/archives/2020/11/18/vaccine-possibilities) also by Derek Lowe, from November 2020, covers length of protection, effectiveness, possible mutations, demographics, safety, distribution and rollout
 * [The race for coronavirus vaccines: a graphical guide](https://www.nature.com/articles/d41586-020-01221-y), an introductory article on Nature
