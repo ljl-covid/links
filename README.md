@@ -36,7 +36,7 @@
 * the mortality profile is [quite different](https://github.com/mbevand/covid19-age-stratified-ifr) from seasonal flu, with the sick and elderly being disproportionately at risk, and some [similarities only arise with the hugely lethal "Spanish" flu pandemic](https://www.sciencedirect.com/science/article/pii/S1201971220305117)
 * many people (roughly 15% to 30%) require hospitalization, putting strain on resources that risks driving up COVID-19 and all-cause mortality during critical shortages
 * about 5% to 10% develop a very serious *viral* pneumonia, while people developing pneumonia from influenza usually develop a more treatable *bacterial* pneumonia
-* there is currently no vaccine, cure or any treatment aside from assisting people severely ill with breathing and other needs
+* while there are now some vaccines available, the effort to scale them to cover the entire population is enormous, and for now the majority of people don't have access to them
 * we have no immune defenses against it currently, while we have varying degree of immune response to influenza, depending on the strain we're seeing
 
 But it does tend to present with fever, joint aches and a dry cough. Right, those are similar symptoms to flu. They are also symptoms of a myriad other diseases too, so there is no reason in particular to compare it with flu. Bottom line: it has nothing to do with the flu except for having some similar symptoms just like most other viral diseases.
