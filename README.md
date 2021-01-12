@@ -27,7 +27,7 @@
 
 # Questions
 
-**First and foremost**: Please [read this article](https://medium.com/@tomaspueyo/coronavirus-act-today-or-people-will-die-f4d3d9cd99ca) and understand what is happening, and about to happen again. This virus is not a joke, and let's get one thing straight: it's definitely **NOT** a flu. [It is not even very bad flu](https://framapic.org/nnKQN9siF9jK/8FWSaX1fbDPY.png):
+**First and foremost**: Please [read this article](https://medium.com/@tomaspueyo/coronavirus-act-today-or-people-will-die-f4d3d9cd99ca) and understand what is happening, and about to happen again. This virus is not a joke, and let's get one thing straight: it's definitely **NOT** a flu. [It is not even very bad flu](https://raw.githubusercontent.com/ljl-covid/links/master/images/flu-vs-covid-mortality.png):
 
 * it is a completely different type of virus (the [coronavirus](https://en.wikipedia.org/wiki/Coronavirus) dubbed [SARS-CoV-2](https://en.wikipedia.org/wiki/Severe_acute_respiratory_syndrome_coronavirus_2), while influenza is caused by an [influenzavirus](https://en.wikipedia.org/wiki/Orthomyxoviridae))
 * it has a much longer incubation time, during which evidence is starting to accumulate that it can very well be transmissible
