@@ -154,7 +154,8 @@ Note that the WHO will generally be unable to make statements that their more pr
 * [CDC's situation summary](https://www.cdc.gov/coronavirus/2019-ncov/index.html)
 * [WHO's general information page](https://www.who.int/emergencies/diseases/novel-coronavirus-2019)
 * [ECDC's general information page](https://www.ecdc.europa.eu/en/novel-coronavirus-china)
-* [ECDC guidance for cleaning contaminated surfaces](https://www.ecdc.europa.eu/sites/default/files/documents/coronavirus-SARS-CoV-2-guidance-environmental-cleaning-non-healthcare-facilities.pdf)	
+* [ECDC guidance for cleaning contaminated surfaces](https://www.ecdc.europa.eu/sites/default/files/documents/coronavirus-SARS-CoV-2-guidance-environmental-cleaning-non-healthcare-facilities.pdf)
+* [COVID-19 Travel Regulations Map](https://www.iatatravelcentre.com/world.php) by the IATA, with information on who qualifies to enter each country
 * [Re-open EU](https://reopen.europa.eu/), with detailed travel information for trips to countries in the European Union
 * [microCOVID](https://www.microcovid.org/) reviewed published research about COVID, and used it to make rough estimates about the risk level of various activities
 * [COVID InfoHub](https://covid.idmod.org/) by the Institute for Disease Modeling (IDM)
