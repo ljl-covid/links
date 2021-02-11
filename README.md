@@ -296,7 +296,7 @@ Note that the WHO will generally be unable to make statements that their more pr
 * [The COVID-19 vaccine development landscape](https://www.nature.com/articles/d41573-020-00073-5), published on Nature on April 9, presenting charts with breakdowns of vaccine types under study and their profit models
 * [The Vaccine Tightrope](https://blogs.sciencemag.org/pipeline/archives/2020/10/21/the-vaccine-tightrope) by Derek Lowe analyzes the problem of vaccines being deployed before trials for other vaccines are over, as well as of providing placebo arms with the actual vaccine before the full trial length of two years is completed, with ethical and practical repercussions on participants
 * [mRNA vaccine-elicited antibodies to SARS-CoV-2 and circulating variants](https://www.nature.com/articles/s41586-021-03324-6#article-info) reports on immune response of recipients of Moderna (mRNA-1273) or Pfizer-BioNTech (BNT162b2) vaccines and notes that activity of their serum against SARS-CoV-2 variants encoding E484K or N501Y or the K417N:E484K:N501Y combination was reduced by a small but significant margin
-* (currently down!) [COVID-19 Vaccine News](https://covidvax.news/) has a map of expected deployment times, as well as a timeline of news and a table with progress of each vaccine, for a smaller amount of vaccine than CovidVax (which it shouldn't be confused with, as they are separate sites)
+
 
 #### Moderna
 
