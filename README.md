@@ -534,6 +534,7 @@ There is mixed advice on the use of masks by the general public, and the advice 
 * [Coronavirus warning from Italy: Effects of COVID-19 could be worse than first thought ](https://news.sky.com/story/coronavirus-warning-from-italy-effects-of-covid-19-could-be-worse-than-first-thought-12027348), warns an article trying to raise awareness that COVID isn't a "you either die or recover completely" kind of deal
 * [Translated Civil Protection press conferences](https://github.com/ljl-covid/links/tree/master/speeches/Italian-Civil-Protection) and [Prime Minister speeches](https://github.com/ljl-covid/links/tree/master/speeches/Italian-Prime-Minister)
 * [Covid-19, illustrati i risultati dell'indagine di sieroprevalenza](http://www.salute.gov.it/portale/nuovocoronavirus/dettaglioNotizieNuovoCoronavirus.jsp?lingua=italiano&id=4998) presents preliminary results of the countrywide seroprevalence survey, with an initial expected sample of 150000 but only around 65000 actual responses, estimating 2.5% of the population has antibodies, half of which in Lombardy (7.5%), around 27% asymptomatic
+* [Report Vaccini Anti COVID-19](https://www.governo.it/it/cscovid19/report-vaccini/) by region
 
  
 (For history and diffs of this document, see [its GitHub page](https://github.com/ljl-covid/links))
