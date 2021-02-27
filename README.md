@@ -319,6 +319,7 @@ Note that the WHO will generally be unable to make statements that their more pr
 * [Safety and Efficacy of the BNT162b2 mRNA Covid-19 Vaccine](https://www.nejm.org/doi/pdf/10.1056/NEJMoa2034577) is the phase III study paper
 * [Janssen Ad26.COV2.S Vaccine for the Prevention of COVID-19 briefing document](https://www.fda.gov/media/146217/download) was released by the FDA endorses the Johnson&Johnson vaccine; [Dered Lowe](https://blogs.sciencemag.org/pipeline/archives/2021/02/24/the-jj-vaccine-at-the-fda) and [StatNews](https://www.statnews.com/2021/02/24/new-data-shed-light-on-efficacy-of-jjs-single-dose-vaccine-against-covid-19/) discuss the data
 * [Pfizer and BioNTech Initiate a Study as Part of Broad Development Plan to Evaluate COVID-19 Booster and New Vaccine Variants](https://investors.biontech.de/news-releases/news-release-details/pfizer-and-biontech-initiate-study-part-broad-development-plan) as announced in a BioNTech press release, where the company reveals it plans to study the effects of a third booster shots of 30µg of the original vaccine, as well as ongoing discussions with regulatory agencies about potential approval of vaccines specific to B.1.351 (South African) or other variants
+* [Estimating the effectiveness of the Pfizer COVID-19 BNT162b2 vaccine after a single dose. A reanalysis of a study of ‘real-world’ vaccination outcomes from Israel](https://www.medrxiv.org/content/10.1101/2021.02.01.21250957v1.full)
 
 #### Oxford-AstraZeneca (AZD 1222 or ChAdOx1)
 
