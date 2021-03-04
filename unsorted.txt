@@ -1,0 +1,2 @@
+https://covid-statistics.jrc.ec.europa.eu/ has dashboard, restrictive measures, and "API" like https://covid-statistics.jrc.ec.europa.eu/api/Measure/getMeasuresGraph/ITA/2020-02-01/2021-03-05/000000000/all
+It also has a long list of document, cfr with https://covid-19-diagnostics.jrc.ec.europa.eu/ already in the list
