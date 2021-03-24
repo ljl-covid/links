@@ -99,7 +99,9 @@ Note that the WHO will generally be unable to make statements that their more pr
 * [Coronawiki](https://coronawiki.org/), a somewhat up-to-date tracker with usable comparison charts between countries, combined with information on COVID-19 provided by medical doctors
 * [Bing's COVID-19 Tracker](https://bing.com/covid) from Microsoft
 * [COVID19INFO](https://covid19info.live/), a tracker with a black background, comparison with other diseases, and a news section
+* [outbreak.info](https://outbreak.info/) is not primarily a case tracker, but it does offer various case visualizations including for some sub-national regions (United States, Brazil, India...)
 * [Our World In Data Coronavirus (COVID-19) Vaccinations](https://ourworldindata.org/covid-vaccinations) tracks vaccination shots given per country with a number of different graphs
+
 
 ## Asia
 
@@ -158,6 +160,7 @@ Note that the WHO will generally be unable to make statements that their more pr
 * [COVID-19 Travel Regulations Map](https://www.iatatravelcentre.com/world.php) by the IATA, with information on who qualifies to enter each country
 * [Re-open EU](https://reopen.europa.eu/), with detailed travel information for trips to countries in the European Union
 * [microCOVID](https://www.microcovid.org/) reviewed published research about COVID, and used it to make rough estimates about the risk level of various activities
+* [outbreaks.info](https://outbreak.info/) has a large number of COVID-19 resources, going from case data to a collection of publications, trials and more, as well as detailed informations over mutations and variants, all with sophisticated search features and APIs available
 * [COVID InfoHub](https://covid.idmod.org/) by the Institute for Disease Modeling (IDM)
 * [ChannelNewsAsia's page](https://www.channelnewsasia.com/news/topics/wuhan-virus) is predictably centered on the impact in Asia
 * [An overview of "who is getting sick" by various factors](https://www.statnews.com/2020/03/03/who-is-getting-sick-and-how-sick-a-breakdown-of-coronavirus-risk-by-demographic-factors/)
@@ -208,6 +211,7 @@ Note that the WHO will generally be unable to make statements that their more pr
 # Science
 
 * [ZB MED COVID-19 Hub](https://www.zbmed.de/en/covid-19/overview/) collects a variety of scientific information and tools for SARS-CoV-2, and their [preVIEW](https://preview.zbmed.de/) service is an aggregator and search engine for preprints
+* [outbreak.info's resources library](https://outbreak.info/resources) collects publications, clinical trials, protocols, and various datasets about COVID-19, with a sophisticated search syntax
 * [Semantic Scholar's COVID-19 Open Research Dataset](https://pages.semanticscholar.org/coronavirus-research), a free resource of over 47,000 scholarly articles, including over 36,000 with full text, about COVID-19 and the coronavirus family of viruses for use by the global research community
 * [Chemical & Engineering News COVID-19 portal](https://cen.acs.org/sections/Tracking-the-novel-coronavirus.html)
 * [Retracted coronavirus (COVID-19) papers](https://retractionwatch.com/retracted-coronavirus-covid-19-papers/) section maintained by [Retraction Watch](https://retractionwatch.com/)
@@ -244,6 +248,7 @@ Note that the WHO will generally be unable to make statements that their more pr
 * [COVIDCG](https://covidcg.org/) is a genetics browser was designed to empower diverse projects on SARS-CoV-2 transmission, evolution, emergence, immune interactions, diagnostics, therapeutics, vaccines, and tracking of interventions.
 * [SARS-CoV-2 lineages](https://cov-lineages.org/) is "dynamic nomenclature proposal for SARS-CoV-2 lineages to assist genomic epidemiology" and the site also contains links to a number of tools including [the web application version of PANGOLIN](https://pangolin.cog-uk.io/)
 * [CoVariants](https://covariants.org/) contains information about mutations and the variants they are found in, with both textual descriptions of their origin, characteristics and relevant concerns, and graphs showing how frequently they were sequenced in various countries, as well as dedicated Nextstrain builds maintained by Emma Hodcroft
+* [outbreak.info Mutation Reports](https://outbreak.info/situation-reports) lists variants of concern and variants of interest while highlighting their main characteristics in a compact format as well as more articulated reports showing their prevalence in time and regions, and [location reports](https://outbreak.info/location-reports) where the variants situation in a specified country or region is presented
 * [Official hCoV-19 Reference Sequence](https://www.gisaid.org/epiflu-applications/hcov-19-reference-sequence/) and [Genomic epidemiology of hCoV-19](https://www.gisaid.org/epiflu-applications/phylodynamics/) at [GISAID](https://www.gisaid.org/), which offers many other COVID-19 resources
 * [How the novel coronavirus has evolved](https://graphics.reuters.com/HEALTH-CORONAVIRUS/EVOLUTION/yxmpjqkdzvr/), a Reuters article breaking down the evolution and mutations of the virus and the way they affected different areas of the world in a way more understandable to the layman than Nextstrain
 * [Structural genomics and interactomics of SARS-CoV-2 novel coronavirus](http://korkinlab.org/wuhan) by Korkin Lab at the Worcester Polytechnic Institute
@@ -511,6 +516,7 @@ There is mixed advice on the use of masks by the general public, and the advice 
 * [John Hopkins daily data](https://github.com/CSSEGISandData) in CSV format
 * [CoronaDataScraper](https://coronadatascraper.com/) provides much more extensive daily data by getting it from each government, although it's being replaced with [Li](https://github.com/covidatlas/li) which is to be run locally
 * [ZBMed preVIEW API](https://preview.zbmed.de/api/)
+* [outbreak.info](https://api.outbreak.info/) has a comprehensive API, mainly divided into epidemiological information (cases, etc) and resources such as publications, trials, and datasets
 * [Australian Department of Health emergency alert](https://www.health.gov.au/news/health-alerts/novel-coronavirus-2019-ncov-health-alert#current-status)
 * https://www.reddit.com/live/14d816ty1ylvo.rss
 * https://www.globaltimes.cn/rss/outbrain.xml
