@@ -157,12 +157,12 @@ Note that the WHO will generally be unable to make statements that their more pr
 * [WHO's general information page](https://www.who.int/emergencies/diseases/novel-coronavirus-2019)
 * [ECDC's general information page](https://www.ecdc.europa.eu/en/novel-coronavirus-china)
 * [ECDC guidance for cleaning contaminated surfaces](https://www.ecdc.europa.eu/sites/default/files/documents/coronavirus-SARS-CoV-2-guidance-environmental-cleaning-non-healthcare-facilities.pdf)
-* [COVID-19 Travel Regulations Map](https://www.iatatravelcentre.com/world.php) by the IATA, with information on who qualifies to enter each country
-* [Re-open EU](https://reopen.europa.eu/), with detailed travel information for trips to countries in the European Union
 * [microCOVID](https://www.microcovid.org/) reviewed published research about COVID, and used it to make rough estimates about the risk level of various activities
 * [outbreaks.info](https://outbreak.info/) has a large number of COVID-19 resources, going from case data to a collection of publications, trials and more, as well as detailed informations over mutations and variants, all with sophisticated search features and APIs available
 * [COVID InfoHub](https://covid.idmod.org/) by the Institute for Disease Modeling (IDM)
 * [ChannelNewsAsia's page](https://www.channelnewsasia.com/news/topics/wuhan-virus) is predictably centered on the impact in Asia
+* [COVID-19 Travel Regulations Map](https://www.iatatravelcentre.com/world.php) by the IATA, with information on who qualifies to enter each country
+* [Re-open EU](https://reopen.europa.eu/), with detailed travel information for trips to countries in the European Union
 * [An overview of "who is getting sick" by various factors](https://www.statnews.com/2020/03/03/who-is-getting-sick-and-how-sick-a-breakdown-of-coronavirus-risk-by-demographic-factors/)
 * [New Yorker's take on what's gone wrong with testing in the US](https://www.newyorker.com/news/news-desk/what-went-wrong-with-coronavirus-testing-in-the-us), as the situation evolves from testing by the CDC only to public-health lab testing
 * https://www.straitstimes.com/asia/east-asia/reporters-notebook-life-and-death-in-a-wuhan-coronavirus-icu interview
