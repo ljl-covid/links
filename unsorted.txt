@@ -4,3 +4,13 @@ It also has a long list of documents, cfr with https://covid-19-diagnostics.jrc.
 https://investors.pfizer.com/investor-news/press-release-details/2021/Real-World-Evidence-Confirms-High-Effectiveness-of-Pfizer-BioNTech-COVID-19-Vaccine-and-Profound-Public-Health-Impact-of-Vaccination-One-Year-After-Pandemic-Declared/default.aspx but maybe wait for the study (or get if available) since it looks almost unbelievably good. Try to make sense wrt the strange Danish study https://www.medrxiv.org/content/10.1101/2021.03.08.21252200v1 where there would be *negative* efficacy during the first 14 days, negative by far too, but that's "adjusted" vs "unadjusted" and I certainly didn't get meaningful clarifications about that from https://old.reddit.com/r/COVID19/comments/m2oqc1/realworld_evidence_confirms_high_effectiveness_of/gqloxp1/
 
 https://github.com/ChronicDiseaseEpi/hcw/blob/master/vaccine_manuscript.pdf is a preprint of a Scottish study showing reduced transmission to households of vaccinated healthcare workers
+
+<de-facto> .title https://covid-statistics.jrc.ec.europa.eu/RMeasures
+<Brainstorm> de-facto: From covid-statistics.jrc.ec.europa.eu: Measures List - Ecml Covid
+<de-facto> CSV at https://www.ecdc.europa.eu/en/publications-data/download-data-response-measures-covid-19
+<de-facto> .title https://covidtracker.bsg.ox.ac.uk/
+<Brainstorm> de-facto: From covidtracker.bsg.ox.ac.uk: OxCGRT
+<de-facto> .title https://ourworldindata.org/policy-responses-covid
+<Brainstorm> de-facto: From ourworldindata.org: Policy Responses to the Coronavirus Pandemic - Statistics and Research - Our World in Data
+<de-facto> .title https://www.nature.com/articles/s41562-021-01079-8
+<Brainstorm> de-facto: From www.nature.com: A global panel database of pandemic policies (Oxford COVID-19 Government Response Tracker) | Nature Human Behaviour
