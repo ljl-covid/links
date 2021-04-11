@@ -524,6 +524,7 @@ There is mixed advice on the use of masks by the general public, and the advice 
 * [CoronaDataScraper](https://coronadatascraper.com/) provides much more extensive daily data by getting it from each government, although it's being replaced with [Li](https://github.com/covidatlas/li) which is to be run locally
 * [ZBMed preVIEW API](https://preview.zbmed.de/api/)
 * [outbreak.info](https://api.outbreak.info/) has a comprehensive API, mainly divided into epidemiological information (cases, etc) and resources such as publications, trials, and datasets
+* [Vaccine Spotter API](https://www.vaccinespotter.org/api/) with vaccine availability information for the US in JSON format; source code for the API and website [on GitHub](https://github.com/GUI/covid-vaccine-spotter)
 * [Australian Department of Health emergency alert](https://www.health.gov.au/news/health-alerts/novel-coronavirus-2019-ncov-health-alert#current-status)
 * https://www.reddit.com/live/14d816ty1ylvo.rss
 * https://www.globaltimes.cn/rss/outbrain.xml
