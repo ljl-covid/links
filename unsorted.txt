@@ -1,3 +1,6 @@
+April 2021: https://www.bmj.com/content/373/bmj.n1068 has UK data on vaccine efficacy for the first shot (and second but only for BNT) on around 400000 people. I originally read about it on https://www.bbc.com/news/health-56844220 but the bmj link cites two preprints about it, which I should try to understand because I'm not quite clear on whether the percentages given represent efficacy.
+Meanwhile Scotland has something similar at https://www.thelancet.com/journals/lancet/article/PIIS0140-6736(21)00677-2/fulltext which I should check whether it's the continuation of the same study I have in the links from a couple months ago.
+
 https://covid-statistics.jrc.ec.europa.eu/ has dashboard, restrictive measures, and "API" like https://covid-statistics.jrc.ec.europa.eu/api/Measure/getMeasuresGraph/ITA/2020-02-01/2021-03-05/000000000/all
 It also has a long list of documents, cfr with https://covid-19-diagnostics.jrc.ec.europa.eu/ already in the list
 
