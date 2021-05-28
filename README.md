@@ -109,6 +109,7 @@ Note that the WHO will generally be unable to make statements that their more pr
 * [Sina](https://news.sina.cn/zt_d/yiqing0121), also in Chinese
 * [COVID19 India](https://www.covid19india.org/), with maps and graphs by state and district
 * [Japan COVID-19 Coronavirus Tracker](https://covid19japan.com/) with data by prefecture
+* [Coronavirus Disease (COVID-19) Situation Report in Japan](https://toyokeizai.net/sp/visual/tko/covid19/en.html) by the [Tokyo Keizai University](https://en.wikipedia.org/wiki/Tokyo_Keizai_University), including nationwide graphs and data by prefecture, PCR tests, critically ill cases, and age breakdown
 
 ## Europe
 
