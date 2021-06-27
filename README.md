@@ -159,7 +159,7 @@ Note that the WHO will generally be unable to make statements that their more pr
 * [ECDC's general information page](https://www.ecdc.europa.eu/en/novel-coronavirus-china)
 * [ECDC guidance for cleaning contaminated surfaces](https://www.ecdc.europa.eu/sites/default/files/documents/coronavirus-SARS-CoV-2-guidance-environmental-cleaning-non-healthcare-facilities.pdf)
 * [microCOVID](https://www.microcovid.org/) reviewed published research about COVID, and used it to make rough estimates about the risk level of various activities
-* [outbreaks.info](https://outbreak.info/) has a large number of COVID-19 resources, going from case data to a collection of publications, trials and more, as well as detailed informations over mutations and variants, all with sophisticated search features and APIs available
+* [**outbreaks.info**](https://outbreak.info/) has a large number of COVID-19 resources, going from case data to a collection of publications, trials and more, as well as detailed informations over mutations and variants, all with sophisticated search features and APIs available
 * [COVID InfoHub](https://covid.idmod.org/) by the Institute for Disease Modeling (IDM)
 * [COVID-19 Vaccine Spotter](https://www.vaccinespotter.org/) is a tool for US residents to track down COVID-19 vaccine appointment openings at state pharmacies, with information on available dates, lack of availability, and types of vaccine employed
 * [ChannelNewsAsia's page](https://www.channelnewsasia.com/news/topics/wuhan-virus) is predictably centered on the impact in Asia
@@ -212,8 +212,8 @@ Note that the WHO will generally be unable to make statements that their more pr
 
 # Science
 
-* [ZB MED COVID-19 Hub](https://www.zbmed.de/en/covid-19/overview/) collects a variety of scientific information and tools for SARS-CoV-2, and their [preVIEW](https://preview.zbmed.de/) service is an aggregator and search engine for preprints
-* [outbreak.info's resources library](https://outbreak.info/resources) collects publications, clinical trials, protocols, and various datasets about COVID-19, with a sophisticated search syntax
+* [**ZB MED COVID-19 Hub**](https://www.zbmed.de/en/covid-19/overview/) collects a variety of scientific information and tools for SARS-CoV-2, and their [preVIEW](https://preview.zbmed.de/) service is an aggregator and search engine for preprints
+* [**outbreak.info's resources library**](https://outbreak.info/resources) collects publications, clinical trials, protocols, and various datasets about COVID-19, with a sophisticated search syntax
 * [Semantic Scholar's COVID-19 Open Research Dataset](https://pages.semanticscholar.org/coronavirus-research), a free resource of over 47,000 scholarly articles, including over 36,000 with full text, about COVID-19 and the coronavirus family of viruses for use by the global research community
 * [Chemical & Engineering News COVID-19 portal](https://cen.acs.org/sections/Tracking-the-novel-coronavirus.html)
 * [Retracted coronavirus (COVID-19) papers](https://retractionwatch.com/retracted-coronavirus-covid-19-papers/) section maintained by [Retraction Watch](https://retractionwatch.com/)
@@ -247,11 +247,11 @@ Note that the WHO will generally be unable to make statements that their more pr
 
 ### Genetics
 
-* [Nextstrain genomic epidemiology](https://nextstrain.org/ncov) showing genetic variants of the virus by area and other factors (see also [this article about "cryptic" transmission](https://bedford.io/blog/ncov-cryptic-transmission/))
+* [**Nextstrain genomic epidemiology**](https://nextstrain.org/ncov) showing genetic variants of the virus by area and other factors (see also [this article about "cryptic" transmission](https://bedford.io/blog/ncov-cryptic-transmission/))
+* [**SARS-CoV-2 lineages**](https://cov-lineages.org/) is "dynamic nomenclature proposal for SARS-CoV-2 lineages to assist genomic epidemiology" and the site also contains links to a number of tools including [the web application version of PANGOLIN](https://pangolin.cog-uk.io/)
+* [**CoVariants**](https://covariants.org/) contains information about mutations and the variants they are found in, with both textual descriptions of their origin, characteristics and relevant concerns, and graphs showing how frequently they were sequenced in various countries, as well as dedicated Nextstrain builds maintained by Emma Hodcroft
+* [**outbreak.info Mutation Reports**](https://outbreak.info/situation-reports) lists variants of concern and variants of interest while highlighting their main characteristics in a compact format as well as more articulated reports showing their prevalence in time and regions, and [location reports](https://outbreak.info/location-reports) where the variants situation in a specified country or region is presented
 * [COVIDCG](https://covidcg.org/) is a genetics browser was designed to empower diverse projects on SARS-CoV-2 transmission, evolution, emergence, immune interactions, diagnostics, therapeutics, vaccines, and tracking of interventions.
-* [SARS-CoV-2 lineages](https://cov-lineages.org/) is "dynamic nomenclature proposal for SARS-CoV-2 lineages to assist genomic epidemiology" and the site also contains links to a number of tools including [the web application version of PANGOLIN](https://pangolin.cog-uk.io/)
-* [CoVariants](https://covariants.org/) contains information about mutations and the variants they are found in, with both textual descriptions of their origin, characteristics and relevant concerns, and graphs showing how frequently they were sequenced in various countries, as well as dedicated Nextstrain builds maintained by Emma Hodcroft
-* [outbreak.info Mutation Reports](https://outbreak.info/situation-reports) lists variants of concern and variants of interest while highlighting their main characteristics in a compact format as well as more articulated reports showing their prevalence in time and regions, and [location reports](https://outbreak.info/location-reports) where the variants situation in a specified country or region is presented
 * [Sanger COVID–19 Genomic Surveillance](https://covid19.sanger.ac.uk/lineages/raw) models sequenced variants in England, with an attempt to select them so as to obtain something akin to random sampling
 * [Official hCoV-19 Reference Sequence](https://www.gisaid.org/epiflu-applications/hcov-19-reference-sequence/) and [Genomic epidemiology of hCoV-19](https://www.gisaid.org/epiflu-applications/phylodynamics/) at [GISAID](https://www.gisaid.org/), which offers many other COVID-19 resources such as its [Mutation Surveillance Dashboard](https://www.gisaid.org/hcov19-mutation-dashboard/)
 * [How the novel coronavirus has evolved](https://graphics.reuters.com/HEALTH-CORONAVIRUS/EVOLUTION/yxmpjqkdzvr/), a Reuters article breaking down the evolution and mutations of the virus and the way they affected different areas of the world in a way more understandable to the layman than Nextstrain
@@ -292,7 +292,7 @@ Note that the WHO will generally be unable to make statements that their more pr
 
 ### Vaccines
 
-* [CovidVax](https://covidvax.org/) is an updated list of COVID-19 vaccines, with information on the companies involved, trials and stages (with links to news and other sources used for the data), and a tracker for how many doses have been administered in each country
+* [**CovidVax**](https://covidvax.org/) is an updated list of COVID-19 vaccines, with information on the companies involved, trials and stages (with links to news and other sources used for the data), and a tracker for how many doses have been administered in each country
 * [COVID19 Vaccine Tracker](https://covid19.trackvaccines.org/) has another comprehensive list of vaccines with information about [vaccine type](https://covid19.trackvaccines.org/how-do-vaccines-work/#types), and the trials, stage and approvals by country
 * [UNICEF COVID-19 Vaccine Market Dashboard](https://www.unicef.org/supply/covid-19-vaccine-market-dashboard) (or [direct link](https://app.powerbi.com/view?r=eyJrIjoiNmE0YjZiNzUtZjk2OS00ZTg4LThlMzMtNTRhNzE0NzA4YmZlIiwidCI6Ijc3NDEwMTk1LTE0ZTEtNGZiOC05MDRiLWFiMTg5MjAyMzY2NyIsImMiOjh9) to the full-screen page) with vaccines by approval state and type, countries where approved, current and projected production capacity per type, amounts purchased per country or other buyer, price ranges, and map of delivered doses
 * [RAPS COVID-19 vaccine tracker](https://www.raps.org/news-and-articles/news-articles/2020/3/covid-19-vaccine-tracker)
