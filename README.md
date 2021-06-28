@@ -78,7 +78,6 @@ Note that the WHO will generally be unable to make statements that their more pr
 * [Covidly](https://covidly.com/), likely the most comprehensive tracker including many subnational units, graphs and derived data
 * [Reddit user map](https://ncov2019.live/map): may not be the most up to date, but it has details others don't
 * [Coronatracker](https://www.coronatracker.com/analytics): see [this description](https://thelead.io/stories/tracking-the-wuhan-coronavirus-2019-ncov-with-data-analytics)
-* [Coronainfo](https://coronainfo.xyz/) has comparison charts with other diseases
 * [Offloop.net's COVID19](https://offloop.net/covid19/) has comparison charts for countries (take note of all the buttons)
 * [Google's simple tracker](https://google.org/crisisresponse/covid19-map) with data sourced from Wikipedia
 * [Bing COVID-19 Tracker](https://www.bing.com/covid/) to comply with antitrust laws given Google above
