@@ -17,3 +17,10 @@ https://github.com/ChronicDiseaseEpi/hcw/blob/master/vaccine_manuscript.pdf is a
 <Brainstorm> de-facto: From ourworldindata.org: Policy Responses to the Coronavirus Pandemic - Statistics and Research - Our World in Data
 <de-facto> .title https://www.nature.com/articles/s41562-021-01079-8
 <Brainstorm> de-facto: From www.nature.com: A global panel database of pandemic policies (Oxford COVID-19 Government Response Tracker) | Nature Human Behaviour
+
+Adding on July 11, more things (and some of the same things) about restrictive measures and stringency indexes, also as above, trying to reconstruct what the things we found were:
+https://github.com/OxCGRT/covid-policy-tracker
+https://ourworldindata.org/grapher/covid-stringency-index?time=2021-07-10
+https://covidtracker.bsg.ox.ac.uk/stringency-map
+https://covidtracker.bsg.ox.ac.uk/about-api
+https://supertracker.spi.ox.ac.uk/ https://supertracker.spi.ox.ac.uk/policy-trackers/ <de-facto> the supertracker also got some i guess
