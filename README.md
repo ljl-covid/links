@@ -462,6 +462,7 @@ This section includes information about so-called "long COVID".
 ## Models
 
 * [IHME COVID-19 Projections](https://covid19.healthdata.org/projections) currently offers a [SEIR model](https://en.wikipedia.org/wiki/Compartmental_models_in_epidemiology#The_SEIR_model) with unpublished assumptions for the US and many other countries
+* [EpiForecasts Temporal variation in transmission during the COVID-19 outbreak](https://epiforecasts.io/covid/) produces "daily estimates of the time-varying reproduction number" based on [an open source model](https://github.com/epiforecasts/covid) for the world, countries by continent, as well as subnational units of some countries (Belgium, Brazil, Canada, Colombia, India, Italy, Germany, UK, USA), with case and death notification data as input
 * [Covid ActNow](http://covidactnow.org/), "America’s COVID warning system", has an alternative model as well as a detailed tracker for the US, although it's also SEIR
 * [Event Horizon - COVID-19](http://rocs.hu-berlin.de/corona/) by the Brockmann lab at RKI, with predictions for several countries
 * [neherlab@biozentrum COVID-19 Scenarios](https://covid19-scenarios.org/), a customizable parametric modeller of COVID-19 outbreaks in various conditions with accounting for hospital and ICU bed availability
