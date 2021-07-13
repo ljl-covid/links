@@ -140,7 +140,6 @@ Note that the WHO will generally be unable to make statements that their more pr
 
 ## North America
 
-* [The COVID Tracking Project](https://covidtracking.com/data/), with the most detailed US data available, including negative tests
 * [1Point3Acres COVID-19 in US and Canada](https://coronavirus.1point3acres.com/en) with a map by state/province, and then detailed subsections with counties or other divisions and specific case reports
 * [New Jersey COVID-19 Dashboard](https://www.state.nj.us/health/cd/topics/covid2019_dashboard.shtml)
 * [Virginia's Department of Health tracker](http://www.vdh.virginia.gov/coronavirus/) for the US state of Virginia
@@ -148,6 +147,8 @@ Note that the WHO will generally be unable to make statements that their more pr
 * [COVID-19 Canadian Outbreak Tracker](https://resources-covid19canada.hub.arcgis.com/app/eb0ec6ffdb654e71ab3c758726c55b68) based on the data from [ViriHealth](https://virihealth.com/)
 * [Coronavirus Statistics: Tracking The Epidemic In New York](https://gothamist.com/news/coronavirus-statistics-tracking-epidemic-new-york), Gothamist's tracker for the City of New York in particular
 * [Tracking COVID-19 in California](https://covid19.ca.gov/state-dashboard/), with data by county, including testing, hospitalizations and ICU availability, as well as data by ethnicity
+* [The COVID Tracking Project](https://covidtracking.com/data/) used to independently gather some of the most detailed US data available, but the project has ended as of April 2021
+
 
 # Info
 
