@@ -3,6 +3,12 @@ https://www.gov.uk/government/publications/long-term-evolution-of-sars-cov-2-26-
 https://science.sciencemag.org/content/373/6553/397 "Scent of a vaccine" is de-facto's favorite topic of nasal/mucosal vaccines, and if the article is good it may be a good introduction to it
 https://www.washingtonpost.com/health/2021/07/29/cdc-mask-guidance/  or https://archive.is/AcvHU (thanks nixonix)  CDC is subtly changing guidance after an internal document, which was leaked and the article contains as a PDF, says that "the war has changed" with Delta
 
+Papers about heterologous vaccination
+https://www.medrxiv.org/content/10.1101/2021.06.13.21258859v1 → Immunogenicity and reactogenicity of a heterologous COVID-19 prime-boost vaccination compared with homologous vaccine regimens
+https://papers.ssrn.com/sol3/papers.cfm?abstract_id=3874014 → Safety and Immunogenicity Report from the Com-COV Study – a Single-Blind Randomised Non-Inferiority Trial Comparing Heterologous And Homologous Prime-Boost Schedules with An Adenoviral Vectored and mRNA COVID-19 Vaccine by Xinxue Liu, RobertH. Shaw, ArabellaSV Stuart, Melanie Greenland, Tanya Dinesh, Samuel Pro
+https://www.medrxiv.org/content/10.1101/2021.07.26.21261130v1  Vaccine effectiveness when combining the ChAdOx1 vaccine as the first dose with an mRNA COVID-19 vaccine as the second dose (probably the first one we saw shown by de-facto)
+https://www.nature.com/articles/s41591-021-01449-9  Immune responses against SARS-CoV-2 variants after heterologous and homologous ChAdOx1 nCoV-19/BNT162b2 vaccination (latest found by xrogaan)
+
 
 April 2021: https://www.bmj.com/content/373/bmj.n1068 has UK data on vaccine efficacy for the first shot (and second but only for BNT) on around 400000 people. I originally read about it on https://www.bbc.com/news/health-56844220 but the bmj link cites two preprints about it, which I should try to understand because I'm not quite clear on whether the percentages given represent efficacy.
 Meanwhile Scotland has something similar at https://www.thelancet.com/journals/lancet/article/PIIS0140-6736(21)00677-2/fulltext and/or https://papers.ssrn.com/sol3/papers.cfm?abstract_id=3789264 (ugh look at which is more recent, or if they are the same, too much stuff in my brain now) which I should check whether it's the continuation of the same study I have in the links from a couple months ago.
