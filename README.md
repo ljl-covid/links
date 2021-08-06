@@ -79,6 +79,7 @@ Note that the WHO will generally be unable to make statements that their more pr
 * [Reddit user map](https://ncov2019.live/map): may not be the most up to date, but it has details others don't
 * [Coronatracker](https://www.coronatracker.com/analytics): see [this description](https://thelead.io/stories/tracking-the-wuhan-coronavirus-2019-ncov-with-data-analytics)
 * [Offloop.net's COVID19](https://offloop.net/covid19/) has comparison charts for countries (take note of all the buttons)
+* [Google News tracker](https://news.google.com/covid19/map) with data sourced from Wikipedia, The New York Times, and John Hopkins University
 * [Bing COVID-19 Tracker](https://www.bing.com/covid/) to comply with antitrust laws given Google above
 * [Covid19.health](https://covid19.health/) probably has the most comprehensive maps and graphs, although the data aren't always current
 * [Visualizing COVID-19's Effective Reproduction Number (Rt)](http://metrics.covid19-analysis.org/), focusing on this important parameter worldwide, calculated using the EpiEstim method
