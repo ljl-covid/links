@@ -95,7 +95,6 @@ Note that the WHO will generally be unable to make statements that their more pr
 * [Covid Trends](https://aatishb.com/covidtrends/) is an animated chart with total cases on an axis and new cases on the other, for an unusual type of trajectory comparison
 * [BNONews' page](https://bnonews.com/index.php/2020/02/the-latest-coronavirus-cases/) is likely not the best tracking page, but the more the merrier
 * [Coronawiki](https://coronawiki.org/), a somewhat up-to-date tracker with usable comparison charts between countries, combined with information on COVID-19 provided by medical doctors
-* [Bing's COVID-19 Tracker](https://bing.com/covid) from Microsoft
 * [COVID19INFO](https://covid19info.live/), a tracker with a black background, comparison with other diseases, and a news section
 * [outbreak.info](https://outbreak.info/) is not primarily a case tracker, but it does offer various case visualizations including for some sub-national regions (United States, Brazil, India...)
 * [Our World In Data Coronavirus (COVID-19) Vaccinations](https://ourworldindata.org/covid-vaccinations) tracks vaccination shots given per country with a number of different graphs
