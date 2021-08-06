@@ -81,7 +81,6 @@ Note that the WHO will generally be unable to make statements that their more pr
 * [Offloop.net's COVID19](https://offloop.net/covid19/) has comparison charts for countries (take note of all the buttons)
 * [Bing COVID-19 Tracker](https://www.bing.com/covid/) to comply with antitrust laws given Google above
 * [Covid19.health](https://covid19.health/) probably has the most comprehensive maps and graphs, although the data aren't always current
-* [CovidStat](https://covidstat.info/), a clean-looking worldwide map and tracker with number data of serious patients where available
 * [Visualizing COVID-19's Effective Reproduction Number (Rt)](http://metrics.covid19-analysis.org/), focusing on this important parameter worldwide, calculated using the EpiEstim method
 * [Flatten The Curve](https://flattenthecurve.co.nz/), with graphs that compare the epidemic progression in different countries
 * [nCoV Tracker](https://vac-lshtm.shinyapps.io/ncov_tracker/) has a map with an (animated) timeline
