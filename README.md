@@ -91,7 +91,6 @@ Note that the WHO will generally be unable to make statements that their more pr
 * [WHO's Coronavirus tracker](https://who.sprinklr.com/), with a world map and data by country (no sub-national entities)
 * [The John Hopkin's University map](https://gisanddata.maps.arcgis.com/apps/opsdashboard/index.html#/bda7594740fd40299423467b48e9ecf6) is probably the best-known COVID-19 tracker worldwide. See [their introduction](https://systems.jhu.edu/research/public-health/ncov/)
 * [Worldometers Coronavirus](https://www.worldometers.info/coronavirus/)
-* [Plague.com](https://plague.com/) has more data for the United States but a map and charts for the whole world as well
 * [Covid Trends](https://aatishb.com/covidtrends/) is an animated chart with total cases on an axis and new cases on the other, for an unusual type of trajectory comparison
 * [BNONews' page](https://bnonews.com/index.php/2020/02/the-latest-coronavirus-cases/) is likely not the best tracking page, but the more the merrier
 * [Coronawiki](https://coronawiki.org/), a somewhat up-to-date tracker with usable comparison charts between countries, combined with information on COVID-19 provided by medical doctors
