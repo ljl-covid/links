@@ -463,6 +463,7 @@ This section includes information about so-called "long COVID".
 * [BNONews COVID-19 reinfection tracker](https://bnonews.com/index.php/2020/08/covid-19-reinfection-tracker/) keeps track of patients who likely had COVID-19 more than once, with their location, age, sex, interval before re-infection, severity of both cases, and a link to more details
 * [Cognitive deficits in people who have recovered from COVID-19](https://www.thelancet.com/journals/eclinm/article/PIIS2589-5370(21)00324-2/fulltext) looked at cognitive test data from 84,285 people in the UK and found that among those who had recovered from COVID (with or without lingering symptoms, and particularly but not solely in hospitalized subjects), there were substantial deficits that couldn't adequately be explained by other differences, and concluded that COVID has cognitive symptoms that persist in the "early-chronic phase"
 * [Persistent self-reported changes in hearing and tinnitus in post-hospitalisation COVID-19 cases](https://www.tandfonline.com/doi/full/10.1080/14992027.2020.1798519) finds that in 1 out of 10 of those cases, changes in hearing or tinnitus are reported at 8 weeks after discharge from hospital
+* [Preliminary evidence on long COVID in children](https://onlinelibrary.wiley.com/doi/10.1111/apa.15870) looked at children below 18 years of age (median age 11.4) in Italy who developed persistent symptoms, and found that 42.6% were still "distressed" by symptoms 120 days or more after initial assessment
 
 ## Models
 
