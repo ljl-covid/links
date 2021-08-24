@@ -1,3 +1,5 @@
+For less commented but more extensive, and categorizes, scientific resources (mainly papers, but also scientific article and press releases from relevant bodies and companies), see also [**our Zotero group**](https://www.zotero.org/groups/4391070/covid_links/library) ([Zotero](https://www.zotero.org/) is open source software for bibliography management, available both online and as a standalone application).
+
 - [Questions](#questions)
   * [Do I have it?](#do-i-have-it-%3F)
   * [Why is WHO information confusing?](#why-is-who-information-confusing%3F)
