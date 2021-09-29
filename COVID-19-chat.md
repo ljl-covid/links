@@ -1,7 +1,7 @@
 
 # Our discussion room
 
-This document is related to the [##covid-19](https://webchat.freenode.net/?channel=##covid-19) channel on [Libera Chat](https://libera.chat), which is bridged with the [Matrix](https://matrix.org) room [#covid-19:matrix.org](https://matrix.to/#/!jIkxpZVHbomQzbUTua:matrix.org?via=matrix.org). You can access it from either network, although things won't look exactly the same.
+This document is related to the [##covid-19](https://web.libera.chat/##covid-19) channel on [Libera Chat](https://libera.chat), which is bridged with the [Matrix](https://matrix.org) room [#covid-19:matrix.org](https://matrix.to/#/!jIkxpZVHbomQzbUTua:matrix.org?via=matrix.org). You can access it from either network, although things won't look exactly the same.
 
 We welcome discussion of scientific and medical matters around COVID-19, as well as the actual state of the situation around the world. We can provide information and perhaps some advice, although we definitely *cannot* provide medical advice. If you just need a bit of emotional support, that's fine too.
 
