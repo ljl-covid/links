@@ -1,4 +1,4 @@
-feeds += {
+feeds.update({
     "##covid-19": (
         {
             "https://covidreference.com/feed": "COVID Reference",
@@ -205,4 +205,4 @@ feeds += {
         None,
         r"(coronavirus|COVID|pandemic|epidemic|SARS|face mask|sanitizer|new cases|Wuhan|Hubei|Lombardy|Lombardia|Moderna|quarantena|quarantine|isolation|lockdown|swab|Milan|\btests\b|\bICU\b|antibod|pcr|dexamethasone|remdesivir|chloroquine|hcq|\bPPE\b|n95|aerosol|airborne|triage|reopen|il-6|il-8|anti-tnf|cytokine|vaccin|biontech|pfizer|astrazeneca|sanofi|sputnik v|sinovac|sinopharm|curevac|coronavac|B117|B.1.1.7|B.1.1.529|B11529|UK variant|SA variant|variants? of concern|d614g|e484k|n501y|s477g|s477n|p681h|n440k|green pass|plasminogen|\btpa\b|delta variant|beta variant|lambda variant|uk variant|omicron|indian variant|brazilian variant|B.1.617.2|AY.3)",
     ),
-}
+})
