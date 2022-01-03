@@ -105,7 +105,7 @@ feeds.update({
             "https://clinicaltrials.gov/ct2/results/rss.xml?rcv_d=2&lup_d=&sel_rss=new14&cond=Covid19&count=100": "ClinicalTrials.gov*",
             "ljlbox:85/?action=display&bridge=Twitter&context=By+list+ID&listid=1461764983533064202&filter=&format=Atom": "COVID on Twitter",
             "http://ljlbox:85/?action=display&bridge=Twitter&context=By+list+ID&listid=1384523560320962561&filter=&nopic=on&noimg=on&noimgscaling=on&format=Atom": "COVID list by @kevinwineinger",
-            "http://ljlbox:85/?action=display&bridge=Twitter&context=By+list+ID&listid=1257945421231554560&filter=&nopic=on&noimg=on&noimgscaling=on&format=Atom": "COVID list by @JavierECarpio",
+            # "http://ljlbox:85/?action=display&bridge=Twitter&context=By+list+ID&listid=1257945421231554560&filter=&nopic=on&noimg=on&noimgscaling=on&format=Atom": "COVID list by @JavierECarpio",  # Removed as very verbose
             "https://en.wikipedia.org/w/index.php?title=Variants_of_SARS-CoV-2&feed=atom&action=history&hidebots=1&hideminor=1": "Variants of SARS-CoV-2 on Wikipedia",
             "https://en.wikipedia.org/w/index.php?title=Cluster_5&feed=atom&action=history": '"Cluster 5" on Wikipedia',
             "https://en.wikipedia.org/w/index.php?title=COVID-19_pandemic_in_Denmark&feed=atom&action=history": '"COVID-19 pandemic in Denmark" on Wikipedia',
