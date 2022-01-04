@@ -1,6 +1,8 @@
 feeds.update({
     "##covid-19": (
         {
+            "https://github.com/ljl-covid/links/commits/master.atom": "##covid-19 resources*",
+            "https://api.zotero.org/groups/4391070/items/top?direction=desc&format=atom&sort=dateAdded&limit=20": "##covid-19 Zotero group",
             "https://covidreference.com/feed": "COVID Reference",
             "https://erictopol.substack.com/feed": "Eric Topol on Substack",
             "https://cmmid.github.io/feed.xml": "CMMID Repository",
@@ -100,7 +102,6 @@ feeds.update({
     ),
     "##covid-ticker": (
         {
-            "https://github.com/ljl-covid/links/commits/master.atom": "##covid-19 resources*",
             "https://clinicaltrials.gov/ct2/results/rss.xml?rcv_d=2&lup_d=&sel_rss=new14&cond=Covid19&count=100": "ClinicalTrials.gov*",
             "ljlbox:85/?action=display&bridge=Twitter&context=By+list+ID&listid=1461764983533064202&filter=&format=Atom": "COVID on Twitter",
             "http://ljlbox:85/?action=display&bridge=Twitter&context=By+list+ID&listid=1384523560320962561&filter=&nopic=on&noimg=on&noimgscaling=on&format=Atom": "COVID list by @kevinwineinger",
