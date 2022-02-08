@@ -171,7 +171,7 @@ feeds.update({
             "https://tools.cdc.gov/api/v2/resources/media/404952.rss": "CDC*",
             "https://feeds.feedburner.com/who/euro/rss/en": "WHO Euro",
             "https://www.who.int/feeds/entity/mediacentre/news/en/rss.xml": "WHO",
- #           "https://old.reddit.com/r/worldnews/rising.rss?limit=3": "r/WorldNews",
+            "https://old.reddit.com/r/worldnews/rising.rss?limit=3": "r/WorldNews",
             "https://feeds.feedburner.com/RsoeEdis-Ebhwm?format=xml": "RSOE EDIS",
             "http://feeds.propublica.org/propublica/main": "ProPublica",
             "https://ourworldindata.org/atom.xml": "Our World In Data",
