@@ -287,7 +287,7 @@ feeds.update({
         },
         7,
         None,
-        r"(monkeypox|monkey pox|MPXV|MPV|smallpox)",
+        r"(monkeypox|monkey pox|MPXV|MPV|smallpox|Tecovirimab|TPOXX)",
     ),
 
 })
