@@ -48,6 +48,7 @@ feeds.update({
             "http://www.nature.com/nm/current_issue/rss/": "Nature Medicine",
             "https://www.nature.com/subjects/vaccines.atom": "Nature Vaccines",
             "https://www.eurekalert.org/rss.xml": "EurekAlert!",
+            "https://www.yalemedicine.org/rss/news.xml": "Yale Medicine",
             "https://tools.cdc.gov/api/v2/resources/media/403372.rss": "CDC (old)*",
             "https://tools.cdc.gov/api/v2/resources/media/404952.rss": "CDC*",
             "https://feeds.feedburner.com/who/euro/rss/en": "WHO Euro",
