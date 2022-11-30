@@ -288,7 +288,7 @@ feeds.update({
         },
         7,
         None,
-        r"(monkeypox|monkey pox|MPXV|MPV|smallpox|Tecovirimab|TPOXX|JYNNEOS|ACAM2000|MVA)",
+        r"(monkeypox|monkey pox|mpox|MPXV|MPV|smallpox|Tecovirimab|TPOXX|JYNNEOS|ACAM2000|MVA)",
     ),
     "##polio": (
         {
