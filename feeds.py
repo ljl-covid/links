@@ -91,6 +91,7 @@ feeds.update({
             "https://www.politico.eu/feed": "Politico",
             "http://feeds.feedburner.com/euronews/en/europa/": "EuroNews",
             "https://www.isdbweb.org/feed": "ISDB",
+            "http://feeds.feedburner.com/OutbreakNewsToday": "Outbreak News Today",
         },
         7,
         None,
