@@ -1,7 +1,14 @@
 feeds.update({
     ("##covid-19", "#covid-19:matrix.org"): (
         {
-            "https://mstdn.social/@erictopol.atom": "Eric Topol on Mastodon",
+            "https://mstdn.social/@erictopol.rss": "Eric Topol on Mastodon",
+            "https://mastodon.online/@marc_veld.rss": "Marc Veldhoen on Mastodon",
+            "https://sciencemastodon.com/@ljiresearch.rss": "La Jolla Institute on Mastodon",
+            "https://mstdn.science/@firefoxx66.rss": "Emma Hodcroft on Mastodon",
+            "https://mastodon.social/@florian_krammer.rss": "Florian Krammer on Mastodon",
+            "https://mstdn.science/@trvrb.rss": "Trevor Bedford on Mastodon",
+            "https://econtwitter.net/@jburnmurdoch.rss": "John Burn-Murdoch on Mastodon",
+            "https://mstdn.science/@theosanderson.rss": "Theo Sanderson on Mastodon",
             "https://github.com/ljl-covid/links/commits/master.atom": "##covid-19 resources*",
             "https://api.zotero.org/groups/4391070/items/top?direction=desc&format=atom&sort=dateAdded&limit=20": "##covid-19 Zotero group*",
             "https://covidreference.com/feed": "COVID Reference*",
