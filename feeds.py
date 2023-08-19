@@ -1,6 +1,7 @@
 feeds.update({
     ("##covid-19", "#covid-19:matrix.org"): (
         {
+            "https://mstdn.social/@erictopol.atom": "Eric Topol on Mastodon",
             "https://github.com/ljl-covid/links/commits/master.atom": "##covid-19 resources*",
             "https://api.zotero.org/groups/4391070/items/top?direction=desc&format=atom&sort=dateAdded&limit=20": "##covid-19 Zotero group*",
             "https://covidreference.com/feed": "COVID Reference*",
