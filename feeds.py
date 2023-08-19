@@ -186,6 +186,7 @@ feeds.update({
     ),
     ("##covid-ticker", '#covid-ticker:#matrix.org'): (
         {
+            "https://mastodon.green/@fitterhappierAJ": "Anthony J. Leonardi on Mastodon",
             "https://clinicaltrials.gov/ct2/results/rss.xml?rcv_d=2&lup_d=&sel_rss=new14&cond=Covid19&count=100": "ClinicalTrials.gov*",
 #            "https://rss-bridge.org/bridge01/?action=display&bridge=Twitter&context=By+list+ID&listid=1461764983533064202&filter=&format=Atom": "COVID on Twitter",
 #            "https://rss-bridge.org/bridge01/?action=display&bridge=Twitter&context=By+list+ID&listid=1384523560320962561&filter=&nopic=on&noimg=on&noimgscaling=on&format=Atom": "COVID list by @kevinwineinger",
