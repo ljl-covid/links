@@ -6,8 +6,8 @@ feeds.update({
             "https://covidreference.com/feed": "COVID Reference*",
             "https://erictopol.substack.com/feed": "Eric Topol on Substack",
             "https://cmmid.github.io/feed.xml": "CMMID Repository*",
-            "https://rss-bridge.org/bridge01/?action=display&bridge=WHO&format=Atom": "WHO Outbreaks",
-            "https://rss-bridge.org/bridge01/?action=display&bridge=Twitter&context=By+list+ID&listid=1326305739569324036&filter=&format=Atom": "COVID on Twitter",
+            "https://localhost:85/?action=display&bridge=WHO&format=Atom": "WHO Outbreaks",
+#            "https://rss-bridge.org/bridge01/?action=display&bridge=Twitter&context=By+list+ID&listid=1326305739569324036&filter=&format=Atom": "COVID on Twitter",
             "https://www.medicinenet.com/rss/dailyhealth.xml": "MedicineNet",
             "https://www.contagionlive.com/rss": "Contagion Live",
             "https://www.pfizer.com/newsfeed": "Pfizer",
@@ -95,7 +95,7 @@ feeds.update({
             # Reintroducing content from ##covid-news, there may be duplicates
             "https://covidreference.com/feed": "COVID Reference*",
             "https://cmmid.github.io/feed.xml": "CMMID Repository*",
-            "https://rss-bridge.org/bridge01/?action=display&bridge=WHO&format=Atom": "WHO Outbreaks",
+            "https://localhost:85/?action=display&bridge=WHO&format=Atom": "WHO Outbreaks",
             "https://www.medicinenet.com/rss/dailyhealth.xml": "MedicineNet",
             "https://www.contagionlive.com/rss": "Contagion Live",
             "https://www.pfizer.com/newsfeed": "Pfizer",
@@ -179,8 +179,8 @@ feeds.update({
     ("##covid-ticker", '#covid-ticker:#matrix.org'): (
         {
             "https://clinicaltrials.gov/ct2/results/rss.xml?rcv_d=2&lup_d=&sel_rss=new14&cond=Covid19&count=100": "ClinicalTrials.gov*",
-            "https://rss-bridge.org/bridge01/?action=display&bridge=Twitter&context=By+list+ID&listid=1461764983533064202&filter=&format=Atom": "COVID on Twitter",
-            "https://rss-bridge.org/bridge01/?action=display&bridge=Twitter&context=By+list+ID&listid=1384523560320962561&filter=&nopic=on&noimg=on&noimgscaling=on&format=Atom": "COVID list by @kevinwineinger",
+#            "https://rss-bridge.org/bridge01/?action=display&bridge=Twitter&context=By+list+ID&listid=1461764983533064202&filter=&format=Atom": "COVID on Twitter",
+#            "https://rss-bridge.org/bridge01/?action=display&bridge=Twitter&context=By+list+ID&listid=1384523560320962561&filter=&nopic=on&noimg=on&noimgscaling=on&format=Atom": "COVID list by @kevinwineinger",
             # "https://rss-bridge.org/bridge01/?action=display&bridge=Twitter&context=By+list+ID&listid=1257945421231554560&filter=&nopic=on&noimg=on&noimgscaling=on&format=Atom": "COVID list by @JavierECarpio",  # Removed as very verbose
             "https://en.wikipedia.org/w/index.php?title=Variants_of_SARS-CoV-2&feed=atom&action=history&hidebots=1&hideminor=1": "Variants of SARS-CoV-2 on Wikipedia",
             "https://en.wikipedia.org/w/index.php?title=Cluster_5&feed=atom&action=history": '"Cluster 5" on Wikipedia',
@@ -209,7 +209,7 @@ feeds.update({
         {
             "https://covidreference.com/feed": "COVID Reference*",
             "https://cmmid.github.io/feed.xml": "CMMID Repository*",
-            "https://rss-bridge.org/bridge01/?action=display&bridge=WHO&format=Atom": "WHO Outbreaks",
+#            "https://rss-bridge.org/bridge01/?action=display&bridge=WHO&format=Atom": "WHO Outbreaks",
             "https://www.medicinenet.com/rss/dailyhealth.xml": "MedicineNet",
             "https://www.contagionlive.com/rss": "Contagion Live",
             "https://www.pfizer.com/newsfeed": "Pfizer",
@@ -294,7 +294,7 @@ feeds.update({
         {
             "https://erictopol.substack.com/feed": "Eric Topol on Substack",
             "https://cmmid.github.io/feed.xml": "CMMID Repository*",
-            "https://rss-bridge.org/bridge01/?action=display&bridge=WHO&format=Atom": "WHO Outbreaks",
+            "https://localhost:85/?action=display&bridge=WHO&format=Atom": "WHO Outbreaks",
 #            "https://rss-bridge.org/bridge01/?action=display&bridge=Twitter&context=By+list+ID&listid=1326305739569324036&filter=&format=Atom": "COVID on Twitter",
             "https://www.medicinenet.com/rss/dailyhealth.xml": "MedicineNet",
             "https://www.contagionlive.com/rss": "Contagion Live",
@@ -374,7 +374,7 @@ feeds.update({
         {
             "https://feeds.feedburner.com/OutbreakNewsToday": "OutbreakNews",
             "https://erictopol.substack.com/feed": "Eric Topol on Substack",
-            "https://rss-bridge.org/bridge01/?action=display&bridge=WHO&format=Atom": "WHO Outbreaks",
+            "https://localhost:85/?action=display&bridge=WHO&format=Atom": "WHO Outbreaks",
             "https://www.medicinenet.com/rss/dailyhealth.xml": "MedicineNet",
             "https://www.contagionlive.com/rss": "Contagion Live",
             "https://www.pfizer.com/newsfeed": "Pfizer",
