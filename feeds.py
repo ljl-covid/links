@@ -14,7 +14,7 @@ feeds.update({
             "https://covidreference.com/feed": "COVID Reference*",
             "https://erictopol.substack.com/feed": "Eric Topol on Substack",
             "https://cmmid.github.io/feed.xml": "CMMID Repository*",
-            "https://localhost:85/?action=display&bridge=WHO&format=Atom": "WHO Outbreaks",
+            "http://localhost:85/?action=display&bridge=WHO&format=Atom": "WHO Outbreaks",
 #            "https://rss-bridge.org/bridge01/?action=display&bridge=Twitter&context=By+list+ID&listid=1326305739569324036&filter=&format=Atom": "COVID on Twitter",
             "https://www.medicinenet.com/rss/dailyhealth.xml": "MedicineNet",
             "https://www.contagionlive.com/rss": "Contagion Live",
@@ -103,7 +103,7 @@ feeds.update({
             # Reintroducing content from ##covid-news, there may be duplicates
             "https://covidreference.com/feed": "COVID Reference*",
             "https://cmmid.github.io/feed.xml": "CMMID Repository*",
-            "https://localhost:85/?action=display&bridge=WHO&format=Atom": "WHO Outbreaks",
+            "http://localhost:85/?action=display&bridge=WHO&format=Atom": "WHO Outbreaks",
             "https://www.medicinenet.com/rss/dailyhealth.xml": "MedicineNet",
             "https://www.contagionlive.com/rss": "Contagion Live",
             "https://www.pfizer.com/newsfeed": "Pfizer",
@@ -303,7 +303,7 @@ feeds.update({
         {
             "https://erictopol.substack.com/feed": "Eric Topol on Substack",
             "https://cmmid.github.io/feed.xml": "CMMID Repository*",
-            "https://localhost:85/?action=display&bridge=WHO&format=Atom": "WHO Outbreaks",
+            "http://localhost:85/?action=display&bridge=WHO&format=Atom": "WHO Outbreaks",
 #            "https://rss-bridge.org/bridge01/?action=display&bridge=Twitter&context=By+list+ID&listid=1326305739569324036&filter=&format=Atom": "COVID on Twitter",
             "https://www.medicinenet.com/rss/dailyhealth.xml": "MedicineNet",
             "https://www.contagionlive.com/rss": "Contagion Live",
@@ -383,7 +383,7 @@ feeds.update({
         {
             "https://feeds.feedburner.com/OutbreakNewsToday": "OutbreakNews",
             "https://erictopol.substack.com/feed": "Eric Topol on Substack",
-            "https://localhost:85/?action=display&bridge=WHO&format=Atom": "WHO Outbreaks",
+            "http://localhost:85/?action=display&bridge=WHO&format=Atom": "WHO Outbreaks",
             "https://www.medicinenet.com/rss/dailyhealth.xml": "MedicineNet",
             "https://www.contagionlive.com/rss": "Contagion Live",
             "https://www.pfizer.com/newsfeed": "Pfizer",
